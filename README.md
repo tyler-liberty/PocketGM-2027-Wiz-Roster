@@ -1,25 +1,25 @@
 # PocketGM 2027 Wiz Roster
 
-Synced to **Madden NFL 27 Week 2**, based on [rgennat Pre Draft v6.0](https://github.com/rgennat/PocketGM-2026-Wiz-Roster).
+## Current: v6.5
 
-## Current (recommended): v6.4
-
-**[`Pre Draft v6.4.json`](./Pre%20Draft%20v6.4.json)**
-
-- **Free Agents** → placed on correct Madden teams
-- **Rookies** → promoted only if Madden OVR **> 60**
-- **Attrs** → ±5 toward Madden (not full overwrite)
-- Team-to-team corrections for players already on NFL rosters
+**[`Pre Draft v6.5.json`](./Pre%20Draft%20v6.5.json)**
 
 ```
-https://raw.githubusercontent.com/tyler-liberty/PocketGM-2027-Wiz-Roster/main/Pre%20Draft%20v6.4.json
+https://raw.githubusercontent.com/tyler-liberty/PocketGM-2027-Wiz-Roster/main/Pre%20Draft%20v6.5.json
 ```
 
-## Version history
+### Rules
+- **Teams**: [ESPN NFL rosters](https://www.espn.com/nfl/players) — active 53 (O/D/ST) **+ IR**
+- Practice squad excluded; anyone else on a team → Free Agent
+- **Ratings**: Madden 27 Week 2 OVR + ±5 attribute blend
 
-| File | Notes |
-|------|--------|
-| v6.4 | Fix FAs + rookies OVR>60 + ±5 attrs |
-| v6.3 | No FA/Rookie promotions |
-| v6.2 | ±5 attrs but promoted all matched FA/Rookies |
-| v6.1 | Full attr overwrite (too hard) |
+### Checks
+| Player | Team | OVR |
+|--------|------|-----|
+| Tua Tagovailoa | ATL | 73 |
+| Micah Parsons | GB (IR) | 98 |
+| Myles Garrett | LAR (IR) | 99 |
+| A.J. Brown | NE (IR) | 89 |
+| Budda Baker | ARI | 90 |
+
+~91% of ESPN roster players matched to existing PocketGM cards. Remaining unmatched are mostly new/UDFA names without a PGM card yet.
