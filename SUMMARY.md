@@ -1,18 +1,19 @@
-# PocketGM Pre Draft v6.2 — blended Madden sync
+# PocketGM Pre Draft v6.3
 
-Baseline: **Madden NFL 27 Week 2**.
+Madden 27 Week 2 baseline with blended attrs (±5).
+**Does not promote Free Agents or Rookies onto NFL teams** (that bloated v6.1/v6.2).
 
-## Blend rules
-- **Team / position / OVR**: full Madden sync
-- **Attributes**: move toward Madden by at most **±5** from original PocketGM values
-- **Age**: ±2 toward Madden
-- Potential raised to at least OVR when OVR increases
+## Rules
+- Team moves: only existing NFL → NFL corrections
+- FA / Rookie pool: stay put (ratings may still update)
+- OVR: full Madden sync for matched players
+- Attrs: ±5 toward Madden
 
 ## Totals
-- Matched: **1759**
-- Team fixes: **577** (333 FA, 164 Rookie, 80 team-to-team)
-- Position fixes: **225**
+- Team-to-team fixes: **{team_fixes}**
+- Skipped FA/Rookie promotions: **497**
 - Rating updates: **1644**
+- Mean roster size: **48.2** (was 48.2 orig / 63.8 in v6.2)
 
 ## Spot checks
 | Player | Team | OVR |
@@ -20,9 +21,6 @@ Baseline: **Madden NFL 27 Week 2**.
 | Tua Tagovailoa | ATL | 73 |
 | DJ Moore | BUF | 84 |
 | Kirk Cousins | LV | 74 |
-| Budda Baker | ARI | 90 |
-| Pat Surtain II | DEN | 97 |
-| Cameron Heyward | PIT | 95 |
+| Budda Baker | Free Agent | 90 |
 | Micah Parsons | GB | 98 |
 | Sauce Gardner | IND | 90 |
-| Justin Jefferson | MIN | 97 |

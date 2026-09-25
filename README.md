@@ -1,26 +1,22 @@
 # PocketGM 2027 Wiz Roster
 
-PocketGM roster JSON synced to **Madden NFL 27 Week 2** (2027-season teams & ratings).
+Synced to **Madden NFL 27 Week 2**, based on [rgennat Pre Draft v6.0](https://github.com/rgennat/PocketGM-2026-Wiz-Roster).
 
-Based on [rgennat/PocketGM-2026-Wiz-Roster `Pre Draft v6.0`](https://github.com/rgennat/PocketGM-2026-Wiz-Roster).
+## Current (recommended): v6.3
 
-## Current roster (recommended)
+**[`Pre Draft v6.3.json`](./Pre%20Draft%20v6.3.json)**
 
-**[`Pre Draft v6.2.json`](./Pre%20Draft%20v6.2.json)** — blended sync:
+- Team/OVR from Madden 27
+- Attrs nudged ±5 (not full overwrite)
+- **No Free Agent / Rookie promotions onto NFL teams** (v6.1/v6.2 bloated rosters ~48 → ~64)
 
-- **Team / position / OVR** → full Madden 27
-- **Attributes** → nudged toward Madden by at most **±5** from the original PocketGM values (avoids the v6.1 defense-stat inflation)
-
-Raw URL:
 ```
-https://raw.githubusercontent.com/tyler-liberty/PocketGM-2027-Wiz-Roster/main/Pre%20Draft%20v6.2.json
+https://raw.githubusercontent.com/tyler-liberty/PocketGM-2027-Wiz-Roster/main/Pre%20Draft%20v6.3.json
 ```
 
-## Earlier build
+## Older builds
 
-- [`Pre Draft v6.1.json`](./Pre%20Draft%20v6.1.json) — full attribute overwrite (felt too hard on offense)
-
-## Notes
-
-- Tua Tagovailoa → ATL (Madden 27)
-- See `SUMMARY.md` for details
+| File | Notes |
+|------|--------|
+| `Pre Draft v6.2.json` | ±5 attrs, but added ~500 FA/Rookie depth |
+| `Pre Draft v6.1.json` | Full attr overwrite (too hard on defense) |
