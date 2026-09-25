@@ -1,0 +1,2533 @@
+{
+  "version": "6.9",
+  "action": "Trim each NFL team to 54 by rating; ESPN IR players treated as regular roster (no IR flag in PocketGM). Cuts moved to Free Agent.",
+  "teams": 32,
+  "roster_size": 54,
+  "cuts_to_fa": 281,
+  "espn_ir_kept_on_53": 200,
+  "espn_ir_cut_to_fa": 70,
+  "cuts": [
+    {
+      "team": "ARI",
+      "name": "Jayden Williams",
+      "position": "OT",
+      "rating": 65,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ARI",
+      "name": "Hayden Conner",
+      "position": "OG",
+      "rating": 65,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ARI",
+      "name": "Tip Reiman",
+      "position": "TE",
+      "rating": 65,
+      "age": 24,
+      "was_espn_ir": true
+    },
+    {
+      "team": "ARI",
+      "name": "Hunter Long",
+      "position": "TE",
+      "rating": 65,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ARI",
+      "name": "Jameson Geers",
+      "position": "TE",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "ARI",
+      "name": "Josh Minkins",
+      "position": "S",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "ARI",
+      "name": "Josh Fryar",
+      "position": "OT",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ARI",
+      "name": "Joey Blount",
+      "position": "S",
+      "rating": 63,
+      "age": 27,
+      "was_espn_ir": true
+    },
+    {
+      "team": "ARI",
+      "name": "Wydett Williams Jr.",
+      "position": "S",
+      "rating": 62,
+      "age": 22,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ARI",
+      "name": "Eku Leota",
+      "position": "DE",
+      "rating": 62,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ARI",
+      "name": "Zachary Carter",
+      "position": "DT",
+      "rating": 57,
+      "age": 27,
+      "was_espn_ir": true
+    },
+    {
+      "team": "ATL",
+      "name": "Yasir Abdullah",
+      "position": "OLB",
+      "rating": 64,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ATL",
+      "name": "Liam McCullough",
+      "position": "C",
+      "rating": 64,
+      "age": 29,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ATL",
+      "name": "Corey Levin",
+      "position": "OG",
+      "rating": 64,
+      "age": 32,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ATL",
+      "name": "Kyle Hinton",
+      "position": "OG",
+      "rating": 63,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ATL",
+      "name": "Storm Norton",
+      "position": "OT",
+      "rating": 63,
+      "age": 32,
+      "was_espn_ir": true
+    },
+    {
+      "team": "ATL",
+      "name": "Nick Muse",
+      "position": "TE",
+      "rating": 62,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ATL",
+      "name": "Cooper Rush",
+      "position": "QB",
+      "rating": 62,
+      "age": 32,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ATL",
+      "name": "Josh Woods",
+      "position": "MLB",
+      "rating": 61,
+      "age": 30,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ATL",
+      "name": "Jack Strand",
+      "position": "QB",
+      "rating": 60,
+      "age": 22,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ATL",
+      "name": "Jared Ivey",
+      "position": "DE",
+      "rating": 59,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "ATL",
+      "name": "Keshawn Banks",
+      "position": "DE",
+      "rating": 53,
+      "age": 26,
+      "was_espn_ir": true
+    },
+    {
+      "team": "BAL",
+      "name": "Ethan Burke",
+      "position": "DE",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "BAL",
+      "name": "Jahquez Robinson",
+      "position": "S",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "BAL",
+      "name": "Skylar Thompson",
+      "position": "QB",
+      "rating": 64,
+      "age": 29,
+      "was_espn_ir": true
+    },
+    {
+      "team": "BAL",
+      "name": "Carl Jones",
+      "position": "MLB",
+      "rating": 62,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "BAL",
+      "name": "Jay Higgins",
+      "position": "MLB",
+      "rating": 61,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "BAL",
+      "name": "Keondre Jackson",
+      "position": "S",
+      "rating": 60,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "BAL",
+      "name": "Joe Fagnano",
+      "position": "QB",
+      "rating": 59,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "BUF",
+      "name": "Keleki Latu",
+      "position": "TE",
+      "rating": 62,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "BUF",
+      "name": "Kyle Allen",
+      "position": "QB",
+      "rating": 60,
+      "age": 30,
+      "was_espn_ir": false
+    },
+    {
+      "team": "BUF",
+      "name": "Connor McGovern",
+      "position": "C",
+      "rating": 40,
+      "age": 29,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CAR",
+      "name": "Jackson Kuwatch",
+      "position": "MLB",
+      "rating": 65,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CAR",
+      "name": "Haynes King",
+      "position": "QB",
+      "rating": 65,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CAR",
+      "name": "JJ Jansen",
+      "position": "C",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CAR",
+      "name": "Stone Forsythe",
+      "position": "OT",
+      "rating": 64,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CAR",
+      "name": "Corey Bullock",
+      "position": "C",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CAR",
+      "name": "Bam Martin-Scott",
+      "position": "OLB",
+      "rating": 63,
+      "age": 26,
+      "was_espn_ir": true
+    },
+    {
+      "team": "CAR",
+      "name": "Albert Reese IV",
+      "position": "OT",
+      "rating": 62,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CAR",
+      "name": "TeRah Edwards",
+      "position": "DT",
+      "rating": 62,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CAR",
+      "name": "Feleipe Franks",
+      "position": "TE",
+      "rating": 55,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CHI",
+      "name": "Jonathan Garvin",
+      "position": "DE",
+      "rating": 66,
+      "age": 27,
+      "was_espn_ir": true
+    },
+    {
+      "team": "CHI",
+      "name": "Dallis Flowers",
+      "position": "CB",
+      "rating": 66,
+      "age": 29,
+      "was_espn_ir": true
+    },
+    {
+      "team": "CHI",
+      "name": "Sam Roush",
+      "position": "TE",
+      "rating": 65,
+      "age": 22,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CHI",
+      "name": "Josh Blackwell",
+      "position": "CB",
+      "rating": 65,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CHI",
+      "name": "Nephi Sewell",
+      "position": "OLB",
+      "rating": 65,
+      "age": 27,
+      "was_espn_ir": true
+    },
+    {
+      "team": "CHI",
+      "name": "Miller Moss",
+      "position": "QB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CHI",
+      "name": "Case Keenum",
+      "position": "QB",
+      "rating": 63,
+      "age": 38,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CHI",
+      "name": "Brittain Brown",
+      "position": "RB",
+      "rating": 62,
+      "age": 28,
+      "was_espn_ir": true
+    },
+    {
+      "team": "CHI",
+      "name": "Kaden Davis",
+      "position": "WR",
+      "rating": 60,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CHI",
+      "name": "Tyson Bagent",
+      "position": "QB",
+      "rating": 59,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CHI",
+      "name": "Scott Daly",
+      "position": "C",
+      "rating": 59,
+      "age": 32,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CHI",
+      "name": "Hayden Large",
+      "position": "TE",
+      "rating": 57,
+      "age": 24,
+      "was_espn_ir": true
+    },
+    {
+      "team": "CHI",
+      "name": "Nikola Kalinic",
+      "position": "TE",
+      "rating": 56,
+      "age": 29,
+      "was_espn_ir": true
+    },
+    {
+      "team": "CIN",
+      "name": "PJ Jules",
+      "position": "S",
+      "rating": 63,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CIN",
+      "name": "William Wagner",
+      "position": "C",
+      "rating": 63,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CIN",
+      "name": "Joe Giles-Harris",
+      "position": "MLB",
+      "rating": 62,
+      "age": 29,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CIN",
+      "name": "Josh Johnson",
+      "position": "QB",
+      "rating": 62,
+      "age": 40,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CLE",
+      "name": "Michael Burton",
+      "position": "RB",
+      "rating": 66,
+      "age": 34,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CLE",
+      "name": "Justin Jefferson",
+      "position": "MLB",
+      "rating": 65,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CLE",
+      "name": "Taylen Green",
+      "position": "QB",
+      "rating": 65,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CLE",
+      "name": "Adin Huntington",
+      "position": "DE",
+      "rating": 65,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CLE",
+      "name": "Easton Mascarenas-Arnold",
+      "position": "OLB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CLE",
+      "name": "Carsen Ryan",
+      "position": "TE",
+      "rating": 62,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CLE",
+      "name": "Donovan McMillon",
+      "position": "S",
+      "rating": 62,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CLE",
+      "name": "Blake Whiteheart",
+      "position": "TE",
+      "rating": 62,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "CLE",
+      "name": "Rex Sunahara",
+      "position": "C",
+      "rating": 58,
+      "age": 29,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DAL",
+      "name": "Sam Howell",
+      "position": "QB",
+      "rating": 65,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DAL",
+      "name": "Brevyn Spann-Ford",
+      "position": "TE",
+      "rating": 65,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DAL",
+      "name": "Ameer Speed",
+      "position": "CB",
+      "rating": 65,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DAL",
+      "name": "Tyrus Wheat",
+      "position": "DE",
+      "rating": 65,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DAL",
+      "name": "Kelvin Gilliam Jr.",
+      "position": "DT",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "DAL",
+      "name": "DJ Rogers",
+      "position": "TE",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "DAL",
+      "name": "Justin Barron",
+      "position": "MLB",
+      "rating": 63,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DAL",
+      "name": "Princeton Fant",
+      "position": "TE",
+      "rating": 61,
+      "age": 27,
+      "was_espn_ir": true
+    },
+    {
+      "team": "DAL",
+      "name": "Curtis Robinson",
+      "position": "MLB",
+      "rating": 59,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DEN",
+      "name": "Jarrett Stidham",
+      "position": "QB",
+      "rating": 64,
+      "age": 30,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DEN",
+      "name": "Karene Reid",
+      "position": "MLB",
+      "rating": 62,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DEN",
+      "name": "Caleb Lohner",
+      "position": "TE",
+      "rating": 60,
+      "age": 24,
+      "was_espn_ir": true
+    },
+    {
+      "team": "DET",
+      "name": "Jackson Meeks",
+      "position": "WR",
+      "rating": 65,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DET",
+      "name": "Eric O'Neill",
+      "position": "DE",
+      "rating": 65,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DET",
+      "name": "Brock Wright",
+      "position": "TE",
+      "rating": 65,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DET",
+      "name": "Justin Jackson",
+      "position": "RB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DET",
+      "name": "DJ Wonnum",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DET",
+      "name": "Seth McLaughlin",
+      "position": "C",
+      "rating": 64,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DET",
+      "name": "Trevor Nowaske",
+      "position": "OLB",
+      "rating": 64,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DET",
+      "name": "Khalil Dorsey",
+      "position": "CB",
+      "rating": 64,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DET",
+      "name": "Bishop Fitzgerald",
+      "position": "S",
+      "rating": 62,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "DET",
+      "name": "Ben Stille",
+      "position": "DT",
+      "rating": 56,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "GB",
+      "name": "Travis Glover",
+      "position": "OT",
+      "rating": 64,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "GB",
+      "name": "Donovan Jennings",
+      "position": "OG",
+      "rating": 64,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "GB",
+      "name": "Thomas Yassmin",
+      "position": "TE",
+      "rating": 64,
+      "age": 27,
+      "was_espn_ir": true
+    },
+    {
+      "team": "GB",
+      "name": "Mark Redman",
+      "position": "TE",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "GB",
+      "name": "Jonathan Ford",
+      "position": "DT",
+      "rating": 63,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "GB",
+      "name": "John Williams",
+      "position": "OG",
+      "rating": 62,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "GB",
+      "name": "Kristian Welch",
+      "position": "MLB",
+      "rating": 62,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "GB",
+      "name": "Matt Orzech",
+      "position": "C",
+      "rating": 61,
+      "age": 31,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Jamal Hill",
+      "position": "OLB",
+      "rating": 66,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Ali Gaye",
+      "position": "DE",
+      "rating": 66,
+      "age": 27,
+      "was_espn_ir": true
+    },
+    {
+      "team": "HOU",
+      "name": "Davis Mills",
+      "position": "QB",
+      "rating": 66,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Aiden Fisher",
+      "position": "OLB",
+      "rating": 65,
+      "age": 22,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Austin Brinkman",
+      "position": "C",
+      "rating": 65,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Sabastian Harsh",
+      "position": "DE",
+      "rating": 65,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Collin Wright",
+      "position": "CB",
+      "rating": 64,
+      "age": 22,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Lewis Bond",
+      "position": "WR",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Jake Hummel",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Marlin Klein",
+      "position": "TE",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Nate Thomas",
+      "position": "OT",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "George Odum",
+      "position": "S",
+      "rating": 64,
+      "age": 33,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Jake Hansen",
+      "position": "MLB",
+      "rating": 63,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "HOU",
+      "name": "Sam Hagen",
+      "position": "OT",
+      "rating": 62,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "HOU",
+      "name": "Graham Mertz",
+      "position": "QB",
+      "rating": 60,
+      "age": 25,
+      "was_espn_ir": true
+    },
+    {
+      "team": "IND",
+      "name": "Kenneth Harris",
+      "position": "CB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "IND",
+      "name": "Carson Towt",
+      "position": "TE",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "IND",
+      "name": "Jaylahn Tuimoloau",
+      "position": "DE",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "IND",
+      "name": "D.J. Montgomery",
+      "position": "WR",
+      "rating": 64,
+      "age": 29,
+      "was_espn_ir": true
+    },
+    {
+      "team": "IND",
+      "name": "Tahj Chambers",
+      "position": "OLB",
+      "rating": 63,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "IND",
+      "name": "Sean McKeon",
+      "position": "TE",
+      "rating": 63,
+      "age": 28,
+      "was_espn_ir": true
+    },
+    {
+      "team": "IND",
+      "name": "Luke Tenuta",
+      "position": "OT",
+      "rating": 62,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "JAX",
+      "name": "Matt Dickerson",
+      "position": "DE",
+      "rating": 65,
+      "age": 30,
+      "was_espn_ir": false
+    },
+    {
+      "team": "JAX",
+      "name": "B.J. Green II",
+      "position": "DE",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "JAX",
+      "name": "CJ Williams",
+      "position": "WR",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "JAX",
+      "name": "Branson Combs",
+      "position": "OLB",
+      "rating": 64,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "JAX",
+      "name": "Nick Mullens",
+      "position": "QB",
+      "rating": 64,
+      "age": 31,
+      "was_espn_ir": false
+    },
+    {
+      "team": "JAX",
+      "name": "Quinn Ewers",
+      "position": "QB",
+      "rating": 63,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "JAX",
+      "name": "Jonah Monheim",
+      "position": "C",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "JAX",
+      "name": "Quintin Morris",
+      "position": "TE",
+      "rating": 63,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "JAX",
+      "name": "Garrett DiGiorgio",
+      "position": "OG",
+      "rating": 62,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "KC",
+      "name": "Jimmy Holiday",
+      "position": "WR",
+      "rating": 60,
+      "age": 24,
+      "was_espn_ir": true
+    },
+    {
+      "team": "LAC",
+      "name": "Marlowe Wax",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LAC",
+      "name": "Trey Lance",
+      "position": "QB",
+      "rating": 64,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LAC",
+      "name": "Kendall Williamson",
+      "position": "S",
+      "rating": 64,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LAC",
+      "name": "Kayode Awosika",
+      "position": "OG",
+      "rating": 64,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LAC",
+      "name": "Jacob Spomer",
+      "position": "C",
+      "rating": 62,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LAC",
+      "name": "Isaiah World",
+      "position": "OT",
+      "rating": 61,
+      "age": 22,
+      "was_espn_ir": true
+    },
+    {
+      "team": "LAC",
+      "name": "Hayden Rucci",
+      "position": "TE",
+      "rating": 61,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LAR",
+      "name": "Daniel Rickert",
+      "position": "DE",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "LAR",
+      "name": "Eddie Walls III",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "LAR",
+      "name": "Dylan McMahon",
+      "position": "C",
+      "rating": 64,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LAR",
+      "name": "Grant Stuard",
+      "position": "OLB",
+      "rating": 64,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LAR",
+      "name": "Stetson Bennett",
+      "position": "QB",
+      "rating": 64,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LAR",
+      "name": "Maximus Pulley",
+      "position": "S",
+      "rating": 63,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LAR",
+      "name": "Tanner Ingle",
+      "position": "S",
+      "rating": 63,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LAR",
+      "name": "Keir Thomas",
+      "position": "DE",
+      "rating": 62,
+      "age": 28,
+      "was_espn_ir": true
+    },
+    {
+      "team": "LAR",
+      "name": "Joe Cardona",
+      "position": "C",
+      "rating": 60,
+      "age": 34,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LV",
+      "name": "Corey Rucker",
+      "position": "WR",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "LV",
+      "name": "Chris Collier",
+      "position": "RB",
+      "rating": 64,
+      "age": 26,
+      "was_espn_ir": true
+    },
+    {
+      "team": "LV",
+      "name": "Chris Myarick",
+      "position": "TE",
+      "rating": 64,
+      "age": 31,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LV",
+      "name": "Cody Lindenberg",
+      "position": "OLB",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LV",
+      "name": "Tristin McCollum",
+      "position": "S",
+      "rating": 62,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LV",
+      "name": "Alex Ward",
+      "position": "C",
+      "rating": 62,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LV",
+      "name": "Justin Shorter",
+      "position": "WR",
+      "rating": 60,
+      "age": 26,
+      "was_espn_ir": true
+    },
+    {
+      "team": "LV",
+      "name": "Foley Fatukasi",
+      "position": "DT",
+      "rating": 60,
+      "age": 31,
+      "was_espn_ir": false
+    },
+    {
+      "team": "LV",
+      "name": "Carter Runyon",
+      "position": "TE",
+      "rating": 59,
+      "age": 25,
+      "was_espn_ir": true
+    },
+    {
+      "team": "LV",
+      "name": "Cody White",
+      "position": "WR",
+      "rating": 58,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIA",
+      "name": "Brady Cook",
+      "position": "QB",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIA",
+      "name": "Seydou Traore",
+      "position": "TE",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIA",
+      "name": "Jackson Woodard",
+      "position": "MLB",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIA",
+      "name": "Storm Duck",
+      "position": "CB",
+      "rating": 63,
+      "age": 25,
+      "was_espn_ir": true
+    },
+    {
+      "team": "MIA",
+      "name": "Robert Beal Jr.",
+      "position": "DE",
+      "rating": 63,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIA",
+      "name": "Malik Herring",
+      "position": "DE",
+      "rating": 63,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIA",
+      "name": "Andre Jones Jr.",
+      "position": "DE",
+      "rating": 63,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIA",
+      "name": "Andrew Meyer",
+      "position": "C",
+      "rating": 62,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIA",
+      "name": "Clelin Ferrell",
+      "position": "DE",
+      "rating": 61,
+      "age": 29,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIA",
+      "name": "Tucker Addington",
+      "position": "C",
+      "rating": 56,
+      "age": 29,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIN",
+      "name": "Tyler Batty",
+      "position": "DE",
+      "rating": 63,
+      "age": 27,
+      "was_espn_ir": true
+    },
+    {
+      "team": "MIN",
+      "name": "Elijah Williams",
+      "position": "DE",
+      "rating": 62,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIN",
+      "name": "Joe Huber",
+      "position": "OG",
+      "rating": 62,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIN",
+      "name": "Dwight McGlothern",
+      "position": "CB",
+      "rating": 62,
+      "age": 24,
+      "was_espn_ir": true
+    },
+    {
+      "team": "MIN",
+      "name": "Nick Samac",
+      "position": "C",
+      "rating": 62,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIN",
+      "name": "Michael Jurgens",
+      "position": "C",
+      "rating": 62,
+      "age": 26,
+      "was_espn_ir": true
+    },
+    {
+      "team": "MIN",
+      "name": "Jeshaun Jones",
+      "position": "WR",
+      "rating": 60,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "MIN",
+      "name": "Ben Yurosek",
+      "position": "TE",
+      "rating": 55,
+      "age": 24,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NE",
+      "name": "Charles Woods",
+      "position": "CB",
+      "rating": 65,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NE",
+      "name": "Ben Brown",
+      "position": "C",
+      "rating": 65,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NE",
+      "name": "Khalil Jacobs",
+      "position": "MLB",
+      "rating": 64,
+      "age": 22,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NE",
+      "name": "Erick Hunter",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NE",
+      "name": "Jalen Hurd",
+      "position": "WR",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NE",
+      "name": "Myles Montgomery",
+      "position": "RB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NE",
+      "name": "Marcus Bryant",
+      "position": "OT",
+      "rating": 64,
+      "age": 24,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NE",
+      "name": "Cameron Latu",
+      "position": "TE",
+      "rating": 64,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NE",
+      "name": "Tanner Arkin",
+      "position": "TE",
+      "rating": 63,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NE",
+      "name": "Julian Hill",
+      "position": "TE",
+      "rating": 63,
+      "age": 26,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NE",
+      "name": "Tommy DeVito",
+      "position": "QB",
+      "rating": 61,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NE",
+      "name": "Behren Morton",
+      "position": "QB",
+      "rating": 60,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NO",
+      "name": "Zach Wilson",
+      "position": "QB",
+      "rating": 67,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NO",
+      "name": "Lorenzo Styles Jr.",
+      "position": "S",
+      "rating": 66,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NO",
+      "name": "Jayden Price",
+      "position": "CB",
+      "rating": 66,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NO",
+      "name": "John Ridgeway",
+      "position": "DT",
+      "rating": 66,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NO",
+      "name": "Rejzohn Wright",
+      "position": "CB",
+      "rating": 65,
+      "age": 25,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NO",
+      "name": "Isaiah Stalbird",
+      "position": "OLB",
+      "rating": 65,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NO",
+      "name": "Brock Rechsteiner",
+      "position": "WR",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NO",
+      "name": "William Sherman",
+      "position": "OG",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NO",
+      "name": "Asim Richards",
+      "position": "OT",
+      "rating": 64,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NO",
+      "name": "Mason Murphy",
+      "position": "OT",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NO",
+      "name": "Cal Adomitis",
+      "position": "C",
+      "rating": 63,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NO",
+      "name": "Moliki Matavao",
+      "position": "TE",
+      "rating": 62,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NO",
+      "name": "CJ Donaldson",
+      "position": "RB",
+      "rating": 61,
+      "age": 22,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NO",
+      "name": "Treyton Welch",
+      "position": "TE",
+      "rating": 61,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYG",
+      "name": "Zaire Barnes",
+      "position": "OLB",
+      "rating": 65,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYG",
+      "name": "Rico Payton",
+      "position": "CB",
+      "rating": 65,
+      "age": 26,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NYG",
+      "name": "Braxton Berrios",
+      "position": "WR",
+      "rating": 65,
+      "age": 31,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYG",
+      "name": "Thaddeus Dixon",
+      "position": "CB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NYG",
+      "name": "CJ Okoye",
+      "position": "DT",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYG",
+      "name": "Nikko Reed",
+      "position": "CB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYG",
+      "name": "Nic Jones",
+      "position": "CB",
+      "rating": 64,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYG",
+      "name": "Jarrick Bernard-Converse",
+      "position": "CB",
+      "rating": 64,
+      "age": 26,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NYG",
+      "name": "Elijah Campbell",
+      "position": "S",
+      "rating": 62,
+      "age": 31,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYG",
+      "name": "Bryan Hudson",
+      "position": "C",
+      "rating": 61,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYJ",
+      "name": "Isaiah Williams",
+      "position": "WR",
+      "rating": 67,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYJ",
+      "name": "Jelani Woods",
+      "position": "TE",
+      "rating": 67,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYJ",
+      "name": "Kene Nwangwu",
+      "position": "RB",
+      "rating": 67,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYJ",
+      "name": "Chukwuma Okorafor",
+      "position": "OT",
+      "rating": 67,
+      "age": 29,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYJ",
+      "name": "Max Mitchell",
+      "position": "OT",
+      "rating": 66,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYJ",
+      "name": "VJ Payne",
+      "position": "S",
+      "rating": 65,
+      "age": 22,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NYJ",
+      "name": "Caullin Lacy",
+      "position": "WR",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NYJ",
+      "name": "Chip Trayanum",
+      "position": "RB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NYJ",
+      "name": "Marcelino McCrary-Ball",
+      "position": "OLB",
+      "rating": 64,
+      "age": 27,
+      "was_espn_ir": true
+    },
+    {
+      "team": "NYJ",
+      "name": "Jack Heflin",
+      "position": "DT",
+      "rating": 64,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYJ",
+      "name": "Jordan Clark",
+      "position": "CB",
+      "rating": 63,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "NYJ",
+      "name": "Francisco Mauigoa",
+      "position": "MLB",
+      "rating": 60,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "PHI",
+      "name": "Hollywood Brown",
+      "position": "WR",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "PHI",
+      "name": "AJ Epenesa",
+      "position": "DE",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "PHI",
+      "name": "Tucker Large",
+      "position": "S",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "PHI",
+      "name": "Willie Lampkin",
+      "position": "C",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "PHI",
+      "name": "E.J. Jenkins",
+      "position": "TE",
+      "rating": 58,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "PHI",
+      "name": "Andre' Sam",
+      "position": "S",
+      "rating": 58,
+      "age": 27,
+      "was_espn_ir": true
+    },
+    {
+      "team": "PIT",
+      "name": "Gabriel Rubio",
+      "position": "DE",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "PIT",
+      "name": "Doneiko Slaughter",
+      "position": "CB",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "PIT",
+      "name": "Will Howard",
+      "position": "QB",
+      "rating": 64,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "PIT",
+      "name": "Riley Nowakowski",
+      "position": "RB",
+      "rating": 64,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "PIT",
+      "name": "Carson Bruener",
+      "position": "MLB",
+      "rating": 64,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "PIT",
+      "name": "Christian Kuntz",
+      "position": "C",
+      "rating": 62,
+      "age": 32,
+      "was_espn_ir": false
+    },
+    {
+      "team": "PIT",
+      "name": "Max Hurleman",
+      "position": "RB",
+      "rating": 60,
+      "age": 25,
+      "was_espn_ir": true
+    },
+    {
+      "team": "PIT",
+      "name": "Ryan McCollum",
+      "position": "C",
+      "rating": 54,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SEA",
+      "name": "Chazz Surratt",
+      "position": "OLB",
+      "rating": 64,
+      "age": 29,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SEA",
+      "name": "Avery Smith",
+      "position": "CB",
+      "rating": 63,
+      "age": 22,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SEA",
+      "name": "AJ Finley",
+      "position": "S",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SEA",
+      "name": "Mason Richman",
+      "position": "OG",
+      "rating": 63,
+      "age": 24,
+      "was_espn_ir": true
+    },
+    {
+      "team": "SEA",
+      "name": "Brandon Pili",
+      "position": "DT",
+      "rating": 63,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SEA",
+      "name": "Chris Stoll",
+      "position": "C",
+      "rating": 62,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SEA",
+      "name": "Nick Kallerup",
+      "position": "TE",
+      "rating": 60,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SEA",
+      "name": "Patrick O'Connell",
+      "position": "MLB",
+      "rating": 57,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "Carver Willis",
+      "position": "OG",
+      "rating": 67,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "Khalid Kareem",
+      "position": "DE",
+      "rating": 67,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "James Thompson Jr.",
+      "position": "DT",
+      "rating": 66,
+      "age": 24,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "Vederian Lowe",
+      "position": "OT",
+      "rating": 66,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "Luke Gifford",
+      "position": "OLB",
+      "rating": 66,
+      "age": 31,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "Siran Neal",
+      "position": "S",
+      "rating": 66,
+      "age": 32,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "Naquan Jones",
+      "position": "DT",
+      "rating": 65,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "Austen Pleasants",
+      "position": "OT",
+      "rating": 65,
+      "age": 29,
+      "was_espn_ir": true
+    },
+    {
+      "team": "SF",
+      "name": "Mikail Kamara",
+      "position": "DE",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "SF",
+      "name": "C.J. West",
+      "position": "DT",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": true
+    },
+    {
+      "team": "SF",
+      "name": "Luke Farrell",
+      "position": "TE",
+      "rating": 64,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "Kurtis Rourke",
+      "position": "QB",
+      "rating": 63,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "Andrew Farmer",
+      "position": "DE",
+      "rating": 63,
+      "age": 26,
+      "was_espn_ir": true
+    },
+    {
+      "team": "SF",
+      "name": "Brayden Willis",
+      "position": "TE",
+      "rating": 63,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "Garret Wallow",
+      "position": "OLB",
+      "rating": 63,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "SF",
+      "name": "Nick Zakelj",
+      "position": "OT",
+      "rating": 62,
+      "age": 27,
+      "was_espn_ir": true
+    },
+    {
+      "team": "SF",
+      "name": "Brett Toth",
+      "position": "C",
+      "rating": 62,
+      "age": 30,
+      "was_espn_ir": true
+    },
+    {
+      "team": "TB",
+      "name": "Bauer Sharp",
+      "position": "TE",
+      "rating": 63,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "TB",
+      "name": "Jalon Daniels",
+      "position": "QB",
+      "rating": 61,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "TB",
+      "name": "Benjamin Chukwuma",
+      "position": "OT",
+      "rating": 60,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "TB",
+      "name": "Evan Deckers",
+      "position": "C",
+      "rating": 60,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "TEN",
+      "name": "Truman Jones",
+      "position": "DE",
+      "rating": 65,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "TEN",
+      "name": "Mitchell Trubisky",
+      "position": "QB",
+      "rating": 65,
+      "age": 32,
+      "was_espn_ir": false
+    },
+    {
+      "team": "TEN",
+      "name": "James Hudson",
+      "position": "OT",
+      "rating": 63,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "TEN",
+      "name": "Dorian Mausi",
+      "position": "OLB",
+      "rating": 62,
+      "age": 24,
+      "was_espn_ir": true
+    },
+    {
+      "team": "TEN",
+      "name": "Atonio Mafi",
+      "position": "OG",
+      "rating": 62,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "TEN",
+      "name": "David Martin-Robinson",
+      "position": "TE",
+      "rating": 62,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "TEN",
+      "name": "Brandon Crenshaw-Dickson",
+      "position": "OT",
+      "rating": 61,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "TEN",
+      "name": "Jaren Kanak",
+      "position": "TE",
+      "rating": 60,
+      "age": 22,
+      "was_espn_ir": true
+    },
+    {
+      "team": "TEN",
+      "name": "Milo Eifler",
+      "position": "MLB",
+      "rating": 57,
+      "age": 28,
+      "was_espn_ir": true
+    },
+    {
+      "team": "WAS",
+      "name": "Javontae Jean-Baptiste",
+      "position": "DE",
+      "rating": 66,
+      "age": 26,
+      "was_espn_ir": false
+    },
+    {
+      "team": "WAS",
+      "name": "John Bates",
+      "position": "TE",
+      "rating": 66,
+      "age": 28,
+      "was_espn_ir": false
+    },
+    {
+      "team": "WAS",
+      "name": "Chig Okonkwo",
+      "position": "TE",
+      "rating": 65,
+      "age": 27,
+      "was_espn_ir": false
+    },
+    {
+      "team": "WAS",
+      "name": "Matt Gulbin",
+      "position": "C",
+      "rating": 64,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "WAS",
+      "name": "Julian Good-Jones",
+      "position": "OG",
+      "rating": 64,
+      "age": 29,
+      "was_espn_ir": false
+    },
+    {
+      "team": "WAS",
+      "name": "Tanoa Togiai",
+      "position": "OG",
+      "rating": 63,
+      "age": 25,
+      "was_espn_ir": false
+    },
+    {
+      "team": "WAS",
+      "name": "Athan Kaliakmanis",
+      "position": "QB",
+      "rating": 62,
+      "age": 23,
+      "was_espn_ir": false
+    },
+    {
+      "team": "WAS",
+      "name": "Colson Yankoff",
+      "position": "TE",
+      "rating": 61,
+      "age": 26,
+      "was_espn_ir": false
+    }
+  ],
+  "kept_former_ir": [
+    "ARI James Conner RB 80",
+    "ARI Will Johnson CB 77",
+    "ARI Chase Bisontis OG 75",
+    "ARI Trey Benson RB 73",
+    "ARI Kaleb Proctor DT 71",
+    "ARI Xavier Weaver WR 70",
+    "ARI Kitan Crawford S 66",
+    "ATL A.J. Terrell CB 88",
+    "ATL Da'Shawn Hand DT 74",
+    "ATL JD Bertrand OLB 69",
+    "ATL DeAngelo Malone MLB 69",
+    "ATL Beaux Collins WR 67",
+    "ATL Anterio Thompson DT 67",
+    "ATL Cameron Williams OT 66",
+    "ATL Trey Sermon RB 66",
+    "BAL Ja'Kobi Lane WR 72",
+    "BAL T.J. Tampa CB 70",
+    "BAL Bilhal Kone CB 69",
+    "BAL Danny Pinter C 66",
+    "BAL Adam Randall RB 65",
+    "BUF Dorian Strong CB 70",
+    "BUF Zane Durant DT 69",
+    "BUF Tyrell Shavers WR 65",
+    "CAR Taylor Moton OT 84",
+    "CAR Ikem Ekwonu OT 80",
+    "CAR Jonathon Brooks RB 76",
+    "CAR Brady Christensen OG 76",
+    "CAR Nic Scourton DE 75",
+    "CAR Tershawn Wharton DT 74",
+    "CAR Chris Brazzell II WR 72",
+    "CAR Trevor Etienne RB 71",
+    "CHI Kyler Gordon CB 83",
+    "CHI Coby Bryant S 77",
+    "CHI Shemar Turner DT 72",
+    "CHI Noah Sewell OLB 68",
+    "CHI Tony Fields II MLB 67",
+    "CHI Ruben Hyppolite II MLB 66",
+    "CIN Ja'Sir Taylor CB 71",
+    "CIN Brian Parker II OT 68",
+    "CLE Jeremiah Owusu-Koramoah OLB 83",
+    "CLE Dylan Sampson RB 75",
+    "CLE Elijah Chatman DT 72",
+    "CLE Alex Wright DE 72",
+    "CLE Damarri Mathis CB 70",
+    "CLE Kendrick Green OG 69",
+    "CLE Edefuan Ulofoshio MLB 67",
+    "CLE Kalia Davis DT 67",
+    "CLE Joe Royer TE 66",
+    "CLE Dillon Gabriel QB 66",
+    "DAL Malik Davis RB 73",
+    "DAL Devin Moore CB 71",
+    "DAL Marist Liufau DE 69",
+    "DAL Matt Hennessy C 67",
+    "DEN Matt Henningsen DE 68",
+    "DEN Levelle Bailey MLB 66",
+    "DEN Nick Gargiulo OG 66",
+    "DEN Michael Deiter C 66",
+    "DEN Frank Crum OT 64",
+    "DET Brian Branch S 91",
+    "DET Kerby Joseph S 91",
+    "DET Isiah Pacheco RB 76",
+    "DET Cade Mays C 74",
+    "DET Payton Turner DE 73",
+    "DET Avonte Maddox CB 73",
+    "DET Damone Clark MLB 71",
+    "DET Kendrick Law WR 70",
+    "DET Giovanni Manu OT 67",
+    "GB Micah Parsons DE 98",
+    "GB Collin Oliver DE 70",
+    "GB Savion Williams WR 70",
+    "GB Luke Musgrave TE 70",
+    "GB Jordon Riley DT 68",
+    "GB Johnathan Baldwin S 66",
+    "HOU Braden Smith OT 82",
+    "HOU Tank Dell WR 79",
+    "HOU Jayden Higgins WR 77",
+    "HOU Kayden McDonald DT 75",
+    "HOU Henry To'oTo'o OLB 75",
+    "HOU E.J. Speed OLB 75",
+    "HOU Ja'Marcus Ingram CB 72",
+    "HOU K.C. Ossai MLB 70",
+    "HOU M.J. Stewart S 70",
+    "HOU Solomon Byrd DE 67",
+    "HOU Dylan Horton DE 67",
+    "IND Micheal Clemons DE 71",
+    "IND Cameron Mitchell CB 65",
+    "IND Will Mallory TE 65",
+    "JAX Patrick Mekari OG 73",
+    "JAX Zach Durfee DE 70",
+    "JAX Sam Mustipher C 69",
+    "JAX Jared Bartlett MLB 68",
+    "JAX Devon Marshall CB 67",
+    "JAX Parker Hughes OLB 66",
+    "KC Omarr Norman-Lott DT 71",
+    "KC Matt Waletzko OT 70",
+    "KC Jeff Caldwell WR 64",
+    "KC Cooper McDonald MLB 64",
+    "KC Ethan Downs DE 63",
+    "KC John Michael Gyllenborg TE 62",
+    "LAC David Njoku TE 79",
+    "LAC Denzel Perryman MLB 76",
+    "LAC KeAndre Lambert-Smith WR 70",
+    "LAC Branson Taylor OG 65",
+    "LAC Scott Matlock RB 65",
+    "LAR Myles Garrett DE 99",
+    "LAR Keagen Trost OT 71",
+    "LAR Zech McPhearson CB 68",
+    "LAR Justin Dedich OG 67",
+    "LAR Ronnie Rivers RB 66",
+    "LAR Matthew Caldwell QB 64",
+    "LV Keyron Crawford DE 75",
+    "LV Brennan Jackson DE 70",
+    "LV Dont'e Thornton Jr. WR 68",
+    "LV Chigozie Anusiem CB 65",
+    "LV Justin Pickett OG 64",
+    "MIA Kenneth Grant DT 75",
+    "MIA Darrell Baker Jr. CB 74",
+    "MIA Trey Moore DE 72",
+    "MIA Kyle Louis S 71",
+    "MIA Ronnie Harrison OLB 71",
+    "MIA James Ester OG 67",
+    "MIA Cole Turner TE 66",
+    "MIA Rene Konga DT 64",
+    "MIN Jordan Mason RB 80",
+    "MIN Jamal Adams OLB 72",
+    "NE A.J. Brown WR 89",
+    "NE Mike Onwenu OG 86",
+    "NE Harold Landry III DE 82",
+    "NE Bryce Baringer P 78",
+    "NE Dell Pettus S 69",
+    "NE Jeremiah Webb WR 67",
+    "NE Brenden Schooler S 66",
+    "NO Zach Wood C 79",
+    "NO Kelvin Banks Jr. OT 78",
+    "NO Jordyn Tyson WR 76",
+    "NO Bryan Bresee DT 75",
+    "NO Nick Saldiveri OT 74",
+    "NO Ty Chandler RB 72",
+    "NO Dillon Radunz OG 72",
+    "NO Mason Tipton WR 70",
+    "NO David Long CB 68",
+    "NO Jaylan Ford MLB 67",
+    "NYG Jaxson Dart QB 78",
+    "NYG Paulson Adebo CB 76",
+    "NYG Calvin Austin III WR 76",
+    "NYG Roy Robertson-Harris DT 72",
+    "NYG Korie Black CB 68",
+    "NYG DJ James CB 68",
+    "NYG Gunner Olszewski WR 66",
+    "NYJ David Onyemata DT 78",
+    "NYJ Omar Cooper Jr. WR 75",
+    "NYJ Tim Patrick WR 74",
+    "NYJ Kingsley Jonathan DE 73",
+    "NYJ Tre Brown CB 71",
+    "NYJ Tyler Baron DE 69",
+    "NYJ Anez Cooper OG 68",
+    "NYJ Arian Smith WR 68",
+    "PHI Landon Dickerson OG 84",
+    "PHI Jakorian Bennett CB 73",
+    "PHI Eli Stowers TE 72",
+    "PHI Johnny Wilson WR 72",
+    "PHI Tariq Castro-Fields CB 72",
+    "PHI Grant Calcaterra TE 69",
+    "PIT DeShon Elliott S 80",
+    "PIT Daequan Hardy CB 71",
+    "PIT Logan Lee DT 70",
+    "PIT Donte Kent CB 68",
+    "PIT Cole Burgess WR 66",
+    "PIT Jack Driscoll OT 65",
+    "SEA Zach Charbonnet RB 83",
+    "SEA Bud Clark S 75",
+    "SEA Robbie Ouzts RB 73",
+    "SEA Anthony Bradford OG 72",
+    "SEA Jake Bobo WR 69",
+    "SEA Irv Charles WR 64",
+    "SF Ricky Pearsall WR 80",
+    "SF Christian Kirk WR 78",
+    "SF Mykel Williams DE 77",
+    "SF De'Zhaun Stribling WR 76",
+    "SF Nate Hobbs CB 76",
+    "SF Alfred Collins DT 72",
+    "SF Isaac Guerendo RB 72",
+    "SF Jake Tonges TE 72",
+    "SF Nick Martin OLB 71",
+    "SF Darrick Forrest S 71",
+    "SF Sam Okuayinonu DT 68",
+    "TB Josh Hayes CB 69",
+    "TB David Sills WR 69",
+    "TB Mohamed Kamara MLB 67",
+    "TEN Joshua Williams CB 75",
+    "TEN Tanoh Kpassagnon DE 71",
+    "TEN Jaylen Harrell DE 66",
+    "TEN Kendell Brooks S 66",
+    "TEN Andre James C 66",
+    "WAS Laremy Tunsil OT 94",
+    "WAS Trey Amos CB 77",
+    "WAS Jer'Zhan Newton DT 76",
+    "WAS Deatrich Wise DE 76",
+    "WAS Jeremy McNichols RB 72",
+    "WAS Jordan Magee OLB 68"
+  ],
+  "cut_former_ir": [
+    "ARI Tip Reiman TE 65",
+    "ARI Jameson Geers TE 64",
+    "ARI Josh Minkins S 64",
+    "ARI Joey Blount S 63",
+    "ARI Zachary Carter DT 57",
+    "ATL Storm Norton OT 63",
+    "ATL Keshawn Banks DE 53",
+    "BAL Jahquez Robinson S 64",
+    "BAL Skylar Thompson QB 64",
+    "CAR Bam Martin-Scott OLB 63",
+    "CHI Jonathan Garvin DE 66",
+    "CHI Dallis Flowers CB 66",
+    "CHI Nephi Sewell OLB 65",
+    "CHI Brittain Brown RB 62",
+    "CHI Hayden Large TE 57",
+    "CHI Nikola Kalinic TE 56",
+    "DAL Kelvin Gilliam Jr. DT 64",
+    "DAL DJ Rogers TE 64",
+    "DAL Princeton Fant TE 61",
+    "DEN Caleb Lohner TE 60",
+    "GB Thomas Yassmin TE 64",
+    "HOU Ali Gaye DE 66",
+    "HOU Sam Hagen OT 62",
+    "HOU Graham Mertz QB 60",
+    "IND Carson Towt TE 64",
+    "IND D.J. Montgomery WR 64",
+    "IND Sean McKeon TE 63",
+    "JAX B.J. Green II DE 64",
+    "JAX Garrett DiGiorgio OG 62",
+    "KC Jimmy Holiday WR 60",
+    "LAC Isaiah World OT 61",
+    "LAR Daniel Rickert DE 64",
+    "LAR Eddie Walls III MLB 64",
+    "LAR Keir Thomas DE 62",
+    "LV Corey Rucker WR 64",
+    "LV Chris Collier RB 64",
+    "LV Justin Shorter WR 60",
+    "LV Carter Runyon TE 59",
+    "MIA Storm Duck CB 63",
+    "MIN Tyler Batty DE 63",
+    "MIN Dwight McGlothern CB 62",
+    "MIN Michael Jurgens C 62",
+    "MIN Ben Yurosek TE 55",
+    "NE Khalil Jacobs MLB 64",
+    "NE Myles Montgomery RB 64",
+    "NE Marcus Bryant OT 64",
+    "NE Julian Hill TE 63",
+    "NO Lorenzo Styles Jr. S 66",
+    "NO Rejzohn Wright CB 65",
+    "NO Moliki Matavao TE 62",
+    "NYG Rico Payton CB 65",
+    "NYG Thaddeus Dixon CB 64",
+    "NYG Jarrick Bernard-Converse CB 64",
+    "NYJ VJ Payne S 65",
+    "NYJ Caullin Lacy WR 64",
+    "NYJ Chip Trayanum RB 64",
+    "NYJ Marcelino McCrary-Ball OLB 64",
+    "PHI Tucker Large S 64",
+    "PHI Andre' Sam S 58",
+    "PIT Max Hurleman RB 60",
+    "SEA Mason Richman OG 63",
+    "SF Austen Pleasants OT 65",
+    "SF Mikail Kamara DE 64",
+    "SF C.J. West DT 64",
+    "SF Andrew Farmer DE 63",
+    "SF Nick Zakelj OT 62",
+    "SF Brett Toth C 62",
+    "TEN Dorian Mausi OLB 62",
+    "TEN Jaren Kanak TE 60",
+    "TEN Milo Eifler MLB 57"
+  ]
+}

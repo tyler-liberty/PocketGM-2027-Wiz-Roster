@@ -1,23 +1,18 @@
 # PocketGM 2027 Wiz Roster
 
-## Current: v6.8
+Synced to **Madden NFL 27 Week 2** (2027-season teams & ratings), ESPN 53+IR as team membership truth, then trimmed.
 
-**[`Pre Draft v6.8.json`](./Pre%20Draft%20v6.8.json)**
+Based on [rgennat/PocketGM-2026-Wiz-Roster `Pre Draft v6.0`](https://github.com/rgennat/PocketGM-2026-Wiz-Roster).
 
-```
-https://raw.githubusercontent.com/tyler-liberty/PocketGM-2027-Wiz-Roster/main/Pre%20Draft%20v6.8.json
-```
+## Current roster (recommended)
 
-### What’s new in v6.8
-ESPN labels almost all linebackers as generic `LB`, which had mapped everyone to **MLB** (24 teams with 0 OLB).
+**[`Pre Draft v6.9.json`](./Pre%20Draft%20v6.9.json)** — each NFL team cut to **exactly 54** (highest OVR kept; cuts → Free Agent). ESPN IR players have no separate IR flag in PocketGM; they compete in the same 54 cut.
 
-Now ESPN LBs are remapped using **Madden 27** positions:
-- `MIKE` → MLB (Roquan, Warner)
-- `WILL` / `SAM` → OLB (Baun, Greenlaw, etc.)
-- `LEDG` / `REDG` → DE (Watt, Mack, Burns, Bonitto — true edges)
+Raw: https://raw.githubusercontent.com/tyler-liberty/PocketGM-2027-Wiz-Roster/main/Pre%20Draft%20v6.9.json
 
-**Every team now has OLBs.**
+### Prior versions
+- v6.8 — OLB remap + Justin Jefferson / Byron Young double-name fixes
+- v6.7 — created missing ESPN players from near-OVR templates
+- v6.6 and earlier — Madden sync / FA scrub / attr blend
 
-### Prior rules (still in place)
-- Teams from ESPN active 53 + IR
-- Ratings from Madden 27 (±5 blend; created cards for missing players)
+See `SUMMARY.md` for the latest changelog.
