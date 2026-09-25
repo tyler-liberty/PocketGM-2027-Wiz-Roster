@@ -1,4 +1,4 @@
-# PocketGM Pre Draft v6.5 — ESPN official rosters
+# PocketGM Pre Draft v6.6 — ESPN official rosters
 
 ## Team source of truth: [ESPN NFL rosters](https://www.espn.com/nfl/players)
 - **On team** = ESPN Offense + Defense + Special Teams (53-man) **+ Injured Reserve**
@@ -8,10 +8,10 @@
 
 ## Coverage
 - ESPN players (active+IR): **{len(espn)}**
-- Matched into PocketGM: **1823** (90.7%)
-- Unmatched (no PGM card): **186**
-- Demoted to FA: **266**
-- Mean roster size: **57.0**
+- Matched into PocketGM: **1839** (91.5%)
+- Unmatched (no PGM card): **170**
+- Demoted to FA: **257**
+- Mean roster size: **57.5**
 
 ## Spot checks
 | Player | Team | OVR |
@@ -43,10 +43,8 @@
 - BAL G Olaivavega Ioane
 - BAL P Ryan Eckley
 - BUF G Ar'maj Reed-Adams
-- BUF DE Mike Danna
 - BUF LB TJ Parker
 - BUF P Tommy Doman Jr.
-- CAR DT Aaron Hall
 - CAR OT Albert Reese IV
 - CAR QB Haynes King
 - CAR LS JJ Jansen
@@ -59,10 +57,8 @@
 - CHI S Skyler Thomas
 - CHI WR Zavion Thomas
 - CIN WR Colbie Young
-- CIN CB DJ Ivey
 - CIN CB Dax Hill
 - CIN WR Dohnte Meyers
-- CIN DT T.J. Slaton Jr.
 - CLE TE Carsen Ryan
 - CLE LB Justin Jefferson
 - CLE CB Toriano Pride Jr.
@@ -75,12 +71,16 @@
 - DET DE Eric O'Neill
 - DET LB Jimmy Rolder
 - DET RB Justin Jackson
-- GB WR Bo Melton
 - GB WR J. Michael Sturdivant
 - GB LS Matt Orzech
 - GB PK Trey Smack
-- GB OT Zach Bako-Bewele
 - HOU CB Collin Wright
 - HOU G Febechi Nwaiwu
 - HOU LB Jake Hummel
 - HOU WR Lewis Bond
+- HOU OT Nate Thomas
+- HOU DE Sabastian Harsh
+- HOU G IR Sam Hagen
+- HOU LB Wade Woodaz
+- IND LB Caden Curry
+- IND S Cam Bynum

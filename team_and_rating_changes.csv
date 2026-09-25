@@ -791,7 +791,7 @@ Nick Folk,rating,91,85,
 DJ Moore,rating,75,84,
 D.J. Reed,rating,74,83,
 Travis Hunter,rating,74,83,
-Travis Hunter,teamID,JAX,Free Agent,espn-demote
+Travis Hunter,position,CB,WR,
 Chase Young,rating,74,83,
 Christian Watson,rating,72,81,
 Woody Marks,rating,72,81,
@@ -2431,6 +2431,15 @@ Connor Lew,teamID,Rookie,CIN,espn
 Sam Hecht,rating,86,68,
 Sam Hecht,position,OG,C,
 Sam Hecht,teamID,Rookie,CAR,espn
+Nick Saldiveri,position,OG,OT,
+Mohamoud Diabate,position,OLB,MLB,
+Jalen McLeod,position,OLB,MLB,
+Bralen Trice,position,OLB,MLB,
+DeAngelo Malone,position,OLB,MLB,
+Connor Heyward,position,TE,RB,
+Ruben Hyppolite II,position,OLB,MLB,
+Julian Good-Jones,position,C,OG,
+Joe Giles-Harris,position,OLB,MLB,
 Jason Sanders,teamID,NYG,NYJ,espn
 Ifeatu Melifonwu,teamID,Free Agent,TB,espn
 Kingsley Jonathan,teamID,Free Agent,NYJ,espn
@@ -2438,7 +2447,9 @@ Tariq Castro-Fields,teamID,Free Agent,PHI,espn
 Will Levis,teamID,TEN,NYJ,espn
 Daequan Hardy,teamID,Free Agent,PIT,espn
 Gerad Lichtenhan,teamID,Free Agent,BAL,espn
+Michael Danna,teamID,KC,BUF,espn
 Matt Waletzko,teamID,Free Agent,KC,espn
+Michael Reid,teamID,Free Agent,NO,espn
 Travis Homer,teamID,Free Agent,PIT,espn
 Jared Bartlett,teamID,Free Agent,JAX,espn
 Zech McPhearson,teamID,Free Agent,LAR,espn
@@ -2463,6 +2474,7 @@ Josh Johnson,teamID,Free Agent,CIN,espn
 Kristian Welch,teamID,Free Agent,GB,espn
 Clelin Ferrell,teamID,Free Agent,MIA,espn
 Jimmy Holiday,teamID,Free Agent,KC,espn
+Foley Fatukasi,teamID,Free Agent,LV,espn
 Jeshaun Jones,teamID,Free Agent,MIN,espn
 Curtis Robinson,teamID,Free Agent,DAL,espn
 Cody White,teamID,Free Agent,LV,espn
@@ -2476,6 +2488,7 @@ Marcus Harris,teamID,Free Agent,KC,espn
 Xavier Weaver,teamID,Free Agent,ARI,espn
 K.C. Ossai,teamID,Free Agent,HOU,espn
 Jaylon Jones,teamID,Free Agent,TEN,espn
+Tedarrell Slaton,teamID,Free Agent,CIN,espn
 Lan Larison,teamID,Free Agent,NE,espn
 Josh Williams,teamID,Free Agent,TB,espn
 Braxton Berrios,teamID,Free Agent,NYG,espn
@@ -2486,20 +2499,20 @@ Kaden Davis,teamID,Free Agent,CHI,espn
 Max Hurleman,teamID,Free Agent,PIT,espn
 Connor McGovern,teamID,Free Agent,BUF,espn
 Max Llewellyn,teamID,Rookie,MIA,espn
-Nick Saldiveri,position,OG,OT,
-Mohamoud Diabate,position,OLB,MLB,
-Jalen McLeod,position,OLB,MLB,
-Bralen Trice,position,OLB,MLB,
-DeAngelo Malone,position,OLB,MLB,
-Ruben Hyppolite II,position,OLB,MLB,
-Julian Good-Jones,position,C,OG,
-Joe Giles-Harris,position,OLB,MLB,
 Kyle Van Noy,position,OLB,MLB,
 Kyle Van Noy,teamID,Free Agent,MIN,espn
+Aaron Hall,position,CB,DT,
+Aaron Hall,teamID,Rookie,CAR,espn
 Elijah Chatman,position,DE,DT,
 Elijah Chatman,teamID,NYG,CLE,espn
 Jeremiah Moon,position,OLB,MLB,
 Jeremiah Moon,teamID,Free Agent,CAR,espn
+Bo Melton,position,CB,WR,
+Bo Melton,teamID,Free Agent,GB,espn
+Velus Jones Jr.,position,RB,WR,
+Velus Jones Jr.,teamID,Free Agent,SEA,espn
+James Ester,position,DT,OG,
+James Ester,teamID,Free Agent,MIA,espn
 Johnathan Baldwin,position,CB,S,
 Johnathan Baldwin,teamID,Free Agent,GB,espn
 Andrew Farmer,position,OLB,DE,
@@ -2569,7 +2582,6 @@ Shaka Heyward,teamID,CIN,Free Agent,espn-demote
 Jordan Jefferson,teamID,CIN,Free Agent,espn-demote
 McKinnley Jackson,teamID,CIN,Free Agent,espn-demote
 Isaiah Foskey,teamID,CIN,Free Agent,espn-demote
-D.J. Ivey,teamID,CIN,Free Agent,espn-demote
 Matt Lee,teamID,CIN,Free Agent,espn-demote
 Gage Larvadain,teamID,CLE,Free Agent,espn-demote
 Cedric Tillman,teamID,CLE,Free Agent,espn-demote
@@ -2603,7 +2615,6 @@ Teddy Bridgewater,teamID,DET,Free Agent,espn-demote
 Michael Niese,teamID,DET,Free Agent,espn-demote
 Colby Sorsdal,teamID,DET,Free Agent,espn-demote
 Jakobie Keeney-James,teamID,GB,Free Agent,espn-demote
-Zach Tom,teamID,GB,Free Agent,espn-demote
 Darian Kinnard,teamID,GB,Free Agent,espn-demote
 Brandon McManus,teamID,GB,Free Agent,espn-demote
 Joe Mixon,teamID,HOU,Free Agent,espn-demote
@@ -2613,7 +2624,6 @@ Sidy Sow,teamID,HOU,Free Agent,espn-demote
 Kyonte Hamilton,teamID,HOU,Free Agent,espn-demote
 Denico Autry,teamID,HOU,Free Agent,espn-demote
 Alijah Huzzie,teamID,HOU,Free Agent,espn-demote
-Andrew Ogletree,teamID,IND,Free Agent,espn-demote
 Daniel Scott,teamID,IND,Free Agent,espn-demote
 Juanyeh Thomas,teamID,IND,Free Agent,espn-demote
 Jack Wilson,teamID,IND,Free Agent,espn-demote
@@ -2633,7 +2643,6 @@ Keith Taylor,teamID,JAX,Free Agent,espn-demote
 Kader Kohou,teamID,KC,Free Agent,espn-demote
 Mike Edwards,teamID,KC,Free Agent,espn-demote
 Kaiir Elam,teamID,KC,Free Agent,espn-demote
-Michael Danna,teamID,KC,Free Agent,espn-demote
 Wanya Morris,teamID,KC,Free Agent,espn-demote
 Brandon George,teamID,KC,Free Agent,espn-demote
 Christian Roland-Wallace,teamID,KC,Free Agent,espn-demote
@@ -2653,13 +2662,11 @@ Raheem Mostert,teamID,LV,Free Agent,espn-demote
 Jamin Davis,teamID,LV,Free Agent,espn-demote
 Brodric Martin,teamID,LV,Free Agent,espn-demote
 Laki Tasi,teamID,LV,Free Agent,espn-demote
-Connor Heyward,teamID,LV,Free Agent,espn-demote
 Jahfari Harvey,teamID,LV,Free Agent,espn-demote
 Greedy Vance,teamID,LV,Free Agent,espn-demote
 Shedrick Jackson,teamID,LV,Free Agent,espn-demote
 Ethan Robinson,teamID,MIA,Free Agent,espn-demote
 Alex Austin,teamID,MIA,Free Agent,espn-demote
-Julius Brents,teamID,MIA,Free Agent,espn-demote
 Zane Gonzalez,teamID,MIA,Free Agent,espn-demote
 James Daniels,teamID,MIA,Free Agent,espn-demote
 Jamaree Salyer,teamID,MIA,Free Agent,espn-demote
@@ -2709,9 +2716,7 @@ Quentin Skinner,teamID,NYJ,Free Agent,espn-demote
 Chris Smith II,teamID,NYJ,Free Agent,espn-demote
 Dean Clark,teamID,NYJ,Free Agent,espn-demote
 Khalil Herbert,teamID,NYJ,Free Agent,espn-demote
-Olumuyiwa Fashanu,teamID,NYJ,Free Agent,espn-demote
 Mykal Walker,teamID,NYJ,Free Agent,espn-demote
-Francisco Mauigoa,teamID,NYJ,Free Agent,espn-demote
 Kobe King,teamID,NYJ,Free Agent,espn-demote
 Cade York,teamID,NYJ,Free Agent,espn-demote
 Eric Watts,teamID,NYJ,Free Agent,espn-demote
