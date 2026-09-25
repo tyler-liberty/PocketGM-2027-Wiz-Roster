@@ -1,25 +1,20 @@
 # PocketGM 2027 Wiz Roster
 
-Updated PocketGM roster synced to **Madden NFL 27 Week 2** ratings (2027-season team & OVR baseline).
+PocketGM roster JSON synced to **Madden NFL 27 Week 2** (2027-season teams & ratings).
 
-Based on [rgennat/PocketGM-2026-Wiz-Roster](https://github.com/rgennat/PocketGM-2026-Wiz-Roster) **Pre Draft v6.0**.
+Based on [rgennat/PocketGM-2026-Wiz-Roster `Pre Draft v6.0`](https://github.com/rgennat/PocketGM-2026-Wiz-Roster).
 
-## Files
+## Roster file
 
-| File | Description |
-|------|-------------|
-| `Pre Draft v6.1` | Drop-in PocketGM roster JSON |
-| `SUMMARY.md` | Team moves, rating fixes, spot checks |
-| `team_and_rating_changes.csv` | Spreadsheet-friendly changelog |
+**[`Pre Draft v6.1.json`](./Pre%20Draft%20v6.1.json)** — same JSON schema as the upstream Pre Draft files.
 
-## What changed
+Raw URL:
+```
+https://raw.githubusercontent.com/tyler-liberty/PocketGM-2027-Wiz-Roster/main/Pre%20Draft%20v6.1.json
+```
 
-- Teams & overalls aligned to Madden 27 Week 2
-- Wrong-team players corrected (e.g. Tua Tagovailoa → ATL)
-- Free agents placed onto their Madden roster teams where matched
-- 2026 draftees promoted from the Rookie pool onto NFL teams when present in Madden
-- Attribute ratings (speed, awareness, coverage, etc.) synced from Madden
+## Notes
 
-## Import
-
-Use `Pre Draft v6.1` as a PocketGM wiz/custom roster file the same way you would the original Pre Draft builds.
+- Tua Tagovailoa → ATL (Madden 27)
+- Teams/OVRs/attrs aligned to Madden 27 Week 2
+- See `SUMMARY.md` for change details
