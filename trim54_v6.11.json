@@ -1,0 +1,3389 @@
+{
+  "version": "6.11",
+  "rule": "Fix rating from nonzero-attr mean when stale; trim each team to top 54 by rating (IR=active).",
+  "rating_fixes": 2236,
+  "cuts": [
+    {
+      "team": "ARI",
+      "name": "Karson Sharar",
+      "position": "OLB",
+      "rating": 66,
+      "age": 23
+    },
+    {
+      "team": "ARI",
+      "name": "Kitan Crawford",
+      "position": "S",
+      "rating": 66,
+      "age": 24
+    },
+    {
+      "team": "ARI",
+      "name": "Kalen King",
+      "position": "CB",
+      "rating": 65,
+      "age": 23
+    },
+    {
+      "team": "ARI",
+      "name": "Jayden Williams",
+      "position": "OT",
+      "rating": 65,
+      "age": 23
+    },
+    {
+      "team": "ARI",
+      "name": "Hayden Conner",
+      "position": "OG",
+      "rating": 65,
+      "age": 24
+    },
+    {
+      "team": "ARI",
+      "name": "Tip Reiman",
+      "position": "TE",
+      "rating": 65,
+      "age": 24
+    },
+    {
+      "team": "ARI",
+      "name": "Hunter Long",
+      "position": "TE",
+      "rating": 65,
+      "age": 28
+    },
+    {
+      "team": "ARI",
+      "name": "Josh Fryar",
+      "position": "OT",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "ARI",
+      "name": "Joey Blount",
+      "position": "S",
+      "rating": 63,
+      "age": 27
+    },
+    {
+      "team": "ARI",
+      "name": "Wydett Williams Jr.",
+      "position": "S",
+      "rating": 62,
+      "age": 22
+    },
+    {
+      "team": "ARI",
+      "name": "Eku Leota",
+      "position": "DE",
+      "rating": 62,
+      "age": 27
+    },
+    {
+      "team": "ATL",
+      "name": "Malcolm DeWalt IV",
+      "position": "CB",
+      "rating": 64,
+      "age": 24
+    },
+    {
+      "team": "ATL",
+      "name": "Yasir Abdullah",
+      "position": "OLB",
+      "rating": 64,
+      "age": 26
+    },
+    {
+      "team": "ATL",
+      "name": "Liam McCullough",
+      "position": "C",
+      "rating": 64,
+      "age": 29
+    },
+    {
+      "team": "ATL",
+      "name": "Corey Levin",
+      "position": "OG",
+      "rating": 64,
+      "age": 32
+    },
+    {
+      "team": "ATL",
+      "name": "Kyle Hinton",
+      "position": "OG",
+      "rating": 63,
+      "age": 28
+    },
+    {
+      "team": "ATL",
+      "name": "Storm Norton",
+      "position": "OT",
+      "rating": 63,
+      "age": 32
+    },
+    {
+      "team": "ATL",
+      "name": "Nick Muse",
+      "position": "TE",
+      "rating": 62,
+      "age": 27
+    },
+    {
+      "team": "ATL",
+      "name": "Cooper Rush",
+      "position": "QB",
+      "rating": 62,
+      "age": 32
+    },
+    {
+      "team": "ATL",
+      "name": "Josh Woods",
+      "position": "MLB",
+      "rating": 61,
+      "age": 30
+    },
+    {
+      "team": "ATL",
+      "name": "Jack Strand",
+      "position": "QB",
+      "rating": 60,
+      "age": 22
+    },
+    {
+      "team": "ATL",
+      "name": "Jared Ivey",
+      "position": "DE",
+      "rating": 59,
+      "age": 24
+    },
+    {
+      "team": "BAL",
+      "name": "Josh Cuevas",
+      "position": "TE",
+      "rating": 64,
+      "age": 22
+    },
+    {
+      "team": "BAL",
+      "name": "Ethan Burke",
+      "position": "DE",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "BAL",
+      "name": "Skylar Thompson",
+      "position": "QB",
+      "rating": 64,
+      "age": 29
+    },
+    {
+      "team": "BAL",
+      "name": "Carl Jones",
+      "position": "MLB",
+      "rating": 62,
+      "age": 25
+    },
+    {
+      "team": "BAL",
+      "name": "Jay Higgins",
+      "position": "MLB",
+      "rating": 61,
+      "age": 24
+    },
+    {
+      "team": "BAL",
+      "name": "Keondre Jackson",
+      "position": "S",
+      "rating": 60,
+      "age": 24
+    },
+    {
+      "team": "BAL",
+      "name": "Joe Fagnano",
+      "position": "QB",
+      "rating": 59,
+      "age": 25
+    },
+    {
+      "team": "BUF",
+      "name": "Tylan Grable",
+      "position": "OT",
+      "rating": 63,
+      "age": 26
+    },
+    {
+      "team": "BUF",
+      "name": "Keleki Latu",
+      "position": "TE",
+      "rating": 62,
+      "age": 24
+    },
+    {
+      "team": "BUF",
+      "name": "Kyle Allen",
+      "position": "QB",
+      "rating": 60,
+      "age": 30
+    },
+    {
+      "team": "CAR",
+      "name": "Jackson Kuwatch",
+      "position": "MLB",
+      "rating": 65,
+      "age": 23
+    },
+    {
+      "team": "CAR",
+      "name": "Haynes King",
+      "position": "QB",
+      "rating": 65,
+      "age": 25
+    },
+    {
+      "team": "CAR",
+      "name": "JJ Jansen",
+      "position": "C",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "CAR",
+      "name": "Stone Forsythe",
+      "position": "OT",
+      "rating": 64,
+      "age": 28
+    },
+    {
+      "team": "CAR",
+      "name": "Corey Bullock",
+      "position": "C",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "CAR",
+      "name": "Bam Martin-Scott",
+      "position": "OLB",
+      "rating": 63,
+      "age": 26
+    },
+    {
+      "team": "CAR",
+      "name": "Albert Reese IV",
+      "position": "OT",
+      "rating": 62,
+      "age": 24
+    },
+    {
+      "team": "CAR",
+      "name": "TeRah Edwards",
+      "position": "DT",
+      "rating": 62,
+      "age": 25
+    },
+    {
+      "team": "CAR",
+      "name": "Feleipe Franks",
+      "position": "TE",
+      "rating": 55,
+      "age": 28
+    },
+    {
+      "team": "CHI",
+      "name": "Luke Newman",
+      "position": "OT",
+      "rating": 66,
+      "age": 24
+    },
+    {
+      "team": "CHI",
+      "name": "Jordan McFadden",
+      "position": "OG",
+      "rating": 66,
+      "age": 26
+    },
+    {
+      "team": "CHI",
+      "name": "Jonathan Garvin",
+      "position": "DE",
+      "rating": 66,
+      "age": 27
+    },
+    {
+      "team": "CHI",
+      "name": "Dallis Flowers",
+      "position": "CB",
+      "rating": 66,
+      "age": 29
+    },
+    {
+      "team": "CHI",
+      "name": "Sam Roush",
+      "position": "TE",
+      "rating": 65,
+      "age": 22
+    },
+    {
+      "team": "CHI",
+      "name": "Josh Blackwell",
+      "position": "CB",
+      "rating": 65,
+      "age": 27
+    },
+    {
+      "team": "CHI",
+      "name": "Nephi Sewell",
+      "position": "OLB",
+      "rating": 65,
+      "age": 27
+    },
+    {
+      "team": "CHI",
+      "name": "Miller Moss",
+      "position": "QB",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "CHI",
+      "name": "Case Keenum",
+      "position": "QB",
+      "rating": 63,
+      "age": 38
+    },
+    {
+      "team": "CHI",
+      "name": "Brittain Brown",
+      "position": "RB",
+      "rating": 62,
+      "age": 28
+    },
+    {
+      "team": "CHI",
+      "name": "Tyson Bagent",
+      "position": "QB",
+      "rating": 59,
+      "age": 26
+    },
+    {
+      "team": "CHI",
+      "name": "Scott Daly",
+      "position": "C",
+      "rating": 59,
+      "age": 32
+    },
+    {
+      "team": "CHI",
+      "name": "Hayden Large",
+      "position": "TE",
+      "rating": 57,
+      "age": 24
+    },
+    {
+      "team": "CIN",
+      "name": "Swayze Bozeman",
+      "position": "MLB",
+      "rating": 64,
+      "age": 27
+    },
+    {
+      "team": "CIN",
+      "name": "Jacob Bayer",
+      "position": "C",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "CIN",
+      "name": "PJ Jules",
+      "position": "S",
+      "rating": 63,
+      "age": 25
+    },
+    {
+      "team": "CIN",
+      "name": "William Wagner",
+      "position": "C",
+      "rating": 63,
+      "age": 25
+    },
+    {
+      "team": "CLE",
+      "name": "Daniel Thomas",
+      "position": "S",
+      "rating": 66,
+      "age": 28
+    },
+    {
+      "team": "CLE",
+      "name": "Michael Burton",
+      "position": "RB",
+      "rating": 66,
+      "age": 34
+    },
+    {
+      "team": "CLE",
+      "name": "Taylen Green",
+      "position": "QB",
+      "rating": 65,
+      "age": 24
+    },
+    {
+      "team": "CLE",
+      "name": "Adin Huntington",
+      "position": "DE",
+      "rating": 65,
+      "age": 24
+    },
+    {
+      "team": "CLE",
+      "name": "Easton Mascarenas-Arnold",
+      "position": "OLB",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "CLE",
+      "name": "Carsen Ryan",
+      "position": "TE",
+      "rating": 62,
+      "age": 23
+    },
+    {
+      "team": "CLE",
+      "name": "Donovan McMillon",
+      "position": "S",
+      "rating": 62,
+      "age": 24
+    },
+    {
+      "team": "CLE",
+      "name": "Blake Whiteheart",
+      "position": "TE",
+      "rating": 62,
+      "age": 26
+    },
+    {
+      "team": "CLE",
+      "name": "Rex Sunahara",
+      "position": "C",
+      "rating": 58,
+      "age": 29
+    },
+    {
+      "team": "DAL",
+      "name": "Matt Hennessy",
+      "position": "C",
+      "rating": 67,
+      "age": 28
+    },
+    {
+      "team": "DAL",
+      "name": "Nick Leverett",
+      "position": "OG",
+      "rating": 67,
+      "age": 29
+    },
+    {
+      "team": "DAL",
+      "name": "Alijah Clark",
+      "position": "S",
+      "rating": 65,
+      "age": 23
+    },
+    {
+      "team": "DAL",
+      "name": "Sam Howell",
+      "position": "QB",
+      "rating": 65,
+      "age": 25
+    },
+    {
+      "team": "DAL",
+      "name": "Brevyn Spann-Ford",
+      "position": "TE",
+      "rating": 65,
+      "age": 26
+    },
+    {
+      "team": "DAL",
+      "name": "Ameer Speed",
+      "position": "CB",
+      "rating": 65,
+      "age": 26
+    },
+    {
+      "team": "DAL",
+      "name": "Tyrus Wheat",
+      "position": "DE",
+      "rating": 65,
+      "age": 26
+    },
+    {
+      "team": "DAL",
+      "name": "Kelvin Gilliam Jr.",
+      "position": "DT",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "DAL",
+      "name": "Princeton Fant",
+      "position": "TE",
+      "rating": 61,
+      "age": 27
+    },
+    {
+      "team": "DEN",
+      "name": "Jarrett Stidham",
+      "position": "QB",
+      "rating": 64,
+      "age": 30
+    },
+    {
+      "team": "DEN",
+      "name": "Karene Reid",
+      "position": "MLB",
+      "rating": 62,
+      "age": 26
+    },
+    {
+      "team": "DEN",
+      "name": "Caleb Lohner",
+      "position": "TE",
+      "rating": 60,
+      "age": 24
+    },
+    {
+      "team": "DET",
+      "name": "Jacob Saylors",
+      "position": "RB",
+      "rating": 66,
+      "age": 26
+    },
+    {
+      "team": "DET",
+      "name": "Skyler Gill-Howard",
+      "position": "DT",
+      "rating": 65,
+      "age": 23
+    },
+    {
+      "team": "DET",
+      "name": "Jackson Meeks",
+      "position": "WR",
+      "rating": 65,
+      "age": 23
+    },
+    {
+      "team": "DET",
+      "name": "Eric O'Neill",
+      "position": "DE",
+      "rating": 65,
+      "age": 23
+    },
+    {
+      "team": "DET",
+      "name": "Brock Wright",
+      "position": "TE",
+      "rating": 65,
+      "age": 27
+    },
+    {
+      "team": "DET",
+      "name": "DJ Wonnum",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "DET",
+      "name": "Seth McLaughlin",
+      "position": "C",
+      "rating": 64,
+      "age": 25
+    },
+    {
+      "team": "DET",
+      "name": "Trevor Nowaske",
+      "position": "OLB",
+      "rating": 64,
+      "age": 27
+    },
+    {
+      "team": "DET",
+      "name": "Khalil Dorsey",
+      "position": "CB",
+      "rating": 64,
+      "age": 28
+    },
+    {
+      "team": "DET",
+      "name": "Bishop Fitzgerald",
+      "position": "S",
+      "rating": 62,
+      "age": 23
+    },
+    {
+      "team": "GB",
+      "name": "Nick Niemann",
+      "position": "MLB",
+      "rating": 66,
+      "age": 28
+    },
+    {
+      "team": "GB",
+      "name": "Anthony Campbell",
+      "position": "DT",
+      "rating": 64,
+      "age": 25
+    },
+    {
+      "team": "GB",
+      "name": "Travis Glover",
+      "position": "OT",
+      "rating": 64,
+      "age": 26
+    },
+    {
+      "team": "GB",
+      "name": "Donovan Jennings",
+      "position": "OG",
+      "rating": 64,
+      "age": 26
+    },
+    {
+      "team": "GB",
+      "name": "Mark Redman",
+      "position": "TE",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "GB",
+      "name": "Jonathan Ford",
+      "position": "DT",
+      "rating": 63,
+      "age": 27
+    },
+    {
+      "team": "GB",
+      "name": "John Williams",
+      "position": "OG",
+      "rating": 62,
+      "age": 24
+    },
+    {
+      "team": "GB",
+      "name": "Matt Orzech",
+      "position": "C",
+      "rating": 61,
+      "age": 31
+    },
+    {
+      "team": "HOU",
+      "name": "Dylan Horton",
+      "position": "DE",
+      "rating": 67,
+      "age": 26
+    },
+    {
+      "team": "HOU",
+      "name": "Cade Stover",
+      "position": "TE",
+      "rating": 67,
+      "age": 26
+    },
+    {
+      "team": "HOU",
+      "name": "Jamal Hill",
+      "position": "OLB",
+      "rating": 66,
+      "age": 25
+    },
+    {
+      "team": "HOU",
+      "name": "Ali Gaye",
+      "position": "DE",
+      "rating": 66,
+      "age": 27
+    },
+    {
+      "team": "HOU",
+      "name": "Davis Mills",
+      "position": "QB",
+      "rating": 66,
+      "age": 27
+    },
+    {
+      "team": "HOU",
+      "name": "Aiden Fisher",
+      "position": "OLB",
+      "rating": 65,
+      "age": 22
+    },
+    {
+      "team": "HOU",
+      "name": "Austin Brinkman",
+      "position": "C",
+      "rating": 65,
+      "age": 24
+    },
+    {
+      "team": "HOU",
+      "name": "Sabastian Harsh",
+      "position": "DE",
+      "rating": 65,
+      "age": 24
+    },
+    {
+      "team": "HOU",
+      "name": "Collin Wright",
+      "position": "CB",
+      "rating": 64,
+      "age": 22
+    },
+    {
+      "team": "HOU",
+      "name": "Jake Hummel",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "HOU",
+      "name": "Marlin Klein",
+      "position": "TE",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "HOU",
+      "name": "Nate Thomas",
+      "position": "OT",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "HOU",
+      "name": "Jake Hansen",
+      "position": "MLB",
+      "rating": 63,
+      "age": 28
+    },
+    {
+      "team": "HOU",
+      "name": "Sam Hagen",
+      "position": "OT",
+      "rating": 62,
+      "age": 23
+    },
+    {
+      "team": "HOU",
+      "name": "Graham Mertz",
+      "position": "QB",
+      "rating": 60,
+      "age": 25
+    },
+    {
+      "team": "IND",
+      "name": "Dalton Tucker",
+      "position": "OG",
+      "rating": 65,
+      "age": 26
+    },
+    {
+      "team": "IND",
+      "name": "Will Mallory",
+      "position": "TE",
+      "rating": 65,
+      "age": 27
+    },
+    {
+      "team": "IND",
+      "name": "Carson Towt",
+      "position": "TE",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "IND",
+      "name": "Jaylahn Tuimoloau",
+      "position": "DE",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "IND",
+      "name": "D.J. Montgomery",
+      "position": "WR",
+      "rating": 64,
+      "age": 29
+    },
+    {
+      "team": "IND",
+      "name": "Tahj Chambers",
+      "position": "OLB",
+      "rating": 63,
+      "age": 26
+    },
+    {
+      "team": "IND",
+      "name": "Luke Tenuta",
+      "position": "OT",
+      "rating": 62,
+      "age": 27
+    },
+    {
+      "team": "JAX",
+      "name": "Danny Striggow",
+      "position": "DE",
+      "rating": 65,
+      "age": 24
+    },
+    {
+      "team": "JAX",
+      "name": "Matt Dickerson",
+      "position": "DE",
+      "rating": 65,
+      "age": 30
+    },
+    {
+      "team": "JAX",
+      "name": "B.J. Green II",
+      "position": "DE",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "JAX",
+      "name": "CJ Williams",
+      "position": "WR",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "JAX",
+      "name": "Branson Combs",
+      "position": "OLB",
+      "rating": 64,
+      "age": 26
+    },
+    {
+      "team": "JAX",
+      "name": "Quinn Ewers",
+      "position": "QB",
+      "rating": 63,
+      "age": 23
+    },
+    {
+      "team": "JAX",
+      "name": "Jonah Monheim",
+      "position": "C",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "JAX",
+      "name": "Quintin Morris",
+      "position": "TE",
+      "rating": 63,
+      "age": 27
+    },
+    {
+      "team": "JAX",
+      "name": "Garrett DiGiorgio",
+      "position": "OG",
+      "rating": 62,
+      "age": 23
+    },
+    {
+      "team": "KC",
+      "name": "Jack Cochrane",
+      "position": "OLB",
+      "rating": 62,
+      "age": 27
+    },
+    {
+      "team": "LAC",
+      "name": "Marlowe Wax",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "LAC",
+      "name": "Trey Lance",
+      "position": "QB",
+      "rating": 64,
+      "age": 26
+    },
+    {
+      "team": "LAC",
+      "name": "Kendall Williamson",
+      "position": "S",
+      "rating": 64,
+      "age": 26
+    },
+    {
+      "team": "LAC",
+      "name": "Kayode Awosika",
+      "position": "OG",
+      "rating": 64,
+      "age": 27
+    },
+    {
+      "team": "LAC",
+      "name": "Jacob Spomer",
+      "position": "C",
+      "rating": 62,
+      "age": 23
+    },
+    {
+      "team": "LAC",
+      "name": "Isaiah World",
+      "position": "OT",
+      "rating": 61,
+      "age": 22
+    },
+    {
+      "team": "LAC",
+      "name": "Hayden Rucci",
+      "position": "TE",
+      "rating": 61,
+      "age": 25
+    },
+    {
+      "team": "LAR",
+      "name": "Elias Neal",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "LAR",
+      "name": "Eddie Walls III",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "LAR",
+      "name": "Dylan McMahon",
+      "position": "C",
+      "rating": 64,
+      "age": 25
+    },
+    {
+      "team": "LAR",
+      "name": "Grant Stuard",
+      "position": "OLB",
+      "rating": 64,
+      "age": 27
+    },
+    {
+      "team": "LAR",
+      "name": "Stetson Bennett",
+      "position": "QB",
+      "rating": 64,
+      "age": 28
+    },
+    {
+      "team": "LAR",
+      "name": "Maximus Pulley",
+      "position": "S",
+      "rating": 63,
+      "age": 23
+    },
+    {
+      "team": "LAR",
+      "name": "Tanner Ingle",
+      "position": "S",
+      "rating": 63,
+      "age": 26
+    },
+    {
+      "team": "LAR",
+      "name": "Keir Thomas",
+      "position": "DE",
+      "rating": 62,
+      "age": 28
+    },
+    {
+      "team": "LAR",
+      "name": "Joe Cardona",
+      "position": "C",
+      "rating": 60,
+      "age": 34
+    },
+    {
+      "team": "LV",
+      "name": "Thomas Booker",
+      "position": "DT",
+      "rating": 66,
+      "age": 26
+    },
+    {
+      "team": "LV",
+      "name": "Dareke Young",
+      "position": "WR",
+      "rating": 66,
+      "age": 27
+    },
+    {
+      "team": "LV",
+      "name": "Patrick Johnson",
+      "position": "DE",
+      "rating": 66,
+      "age": 28
+    },
+    {
+      "team": "LV",
+      "name": "Chigozie Anusiem",
+      "position": "CB",
+      "rating": 65,
+      "age": 25
+    },
+    {
+      "team": "LV",
+      "name": "Segun Olubi",
+      "position": "MLB",
+      "rating": 65,
+      "age": 26
+    },
+    {
+      "team": "LV",
+      "name": "Justin Pickett",
+      "position": "OG",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "LV",
+      "name": "Cody Lindenberg",
+      "position": "OLB",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "LV",
+      "name": "Tristin McCollum",
+      "position": "S",
+      "rating": 62,
+      "age": 27
+    },
+    {
+      "team": "LV",
+      "name": "Alex Ward",
+      "position": "C",
+      "rating": 62,
+      "age": 27
+    },
+    {
+      "team": "LV",
+      "name": "Justin Shorter",
+      "position": "WR",
+      "rating": 60,
+      "age": 26
+    },
+    {
+      "team": "MIA",
+      "name": "Josh Uche",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "MIA",
+      "name": "Brady Cook",
+      "position": "QB",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "MIA",
+      "name": "Seydou Traore",
+      "position": "TE",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "MIA",
+      "name": "Jackson Woodard",
+      "position": "MLB",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "MIA",
+      "name": "Storm Duck",
+      "position": "CB",
+      "rating": 63,
+      "age": 25
+    },
+    {
+      "team": "MIA",
+      "name": "Robert Beal Jr.",
+      "position": "DE",
+      "rating": 63,
+      "age": 27
+    },
+    {
+      "team": "MIA",
+      "name": "Malik Herring",
+      "position": "DE",
+      "rating": 63,
+      "age": 27
+    },
+    {
+      "team": "MIA",
+      "name": "Andre Jones Jr.",
+      "position": "DE",
+      "rating": 63,
+      "age": 27
+    },
+    {
+      "team": "MIA",
+      "name": "Andrew Meyer",
+      "position": "C",
+      "rating": 62,
+      "age": 26
+    },
+    {
+      "team": "MIA",
+      "name": "Tucker Addington",
+      "position": "C",
+      "rating": 56,
+      "age": 29
+    },
+    {
+      "team": "MIN",
+      "name": "Gavin Bartholomew",
+      "position": "TE",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "MIN",
+      "name": "Ryan Van Demark",
+      "position": "OT",
+      "rating": 64,
+      "age": 28
+    },
+    {
+      "team": "MIN",
+      "name": "Jacob Thomas",
+      "position": "S",
+      "rating": 63,
+      "age": 22
+    },
+    {
+      "team": "MIN",
+      "name": "Tyler Batty",
+      "position": "DE",
+      "rating": 63,
+      "age": 27
+    },
+    {
+      "team": "MIN",
+      "name": "Elijah Williams",
+      "position": "DE",
+      "rating": 62,
+      "age": 23
+    },
+    {
+      "team": "MIN",
+      "name": "Joe Huber",
+      "position": "OG",
+      "rating": 62,
+      "age": 24
+    },
+    {
+      "team": "MIN",
+      "name": "Nick Samac",
+      "position": "C",
+      "rating": 62,
+      "age": 25
+    },
+    {
+      "team": "MIN",
+      "name": "Michael Jurgens",
+      "position": "C",
+      "rating": 62,
+      "age": 26
+    },
+    {
+      "team": "NE",
+      "name": "Leonard Taylor III",
+      "position": "DT",
+      "rating": 65,
+      "age": 24
+    },
+    {
+      "team": "NE",
+      "name": "Walter Rouse",
+      "position": "OT",
+      "rating": 65,
+      "age": 25
+    },
+    {
+      "team": "NE",
+      "name": "Charles Woods",
+      "position": "CB",
+      "rating": 65,
+      "age": 26
+    },
+    {
+      "team": "NE",
+      "name": "Ben Brown",
+      "position": "C",
+      "rating": 65,
+      "age": 28
+    },
+    {
+      "team": "NE",
+      "name": "Khalil Jacobs",
+      "position": "MLB",
+      "rating": 64,
+      "age": 22
+    },
+    {
+      "team": "NE",
+      "name": "Erick Hunter",
+      "position": "MLB",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "NE",
+      "name": "Marcus Bryant",
+      "position": "OT",
+      "rating": 64,
+      "age": 24
+    },
+    {
+      "team": "NE",
+      "name": "Cameron Latu",
+      "position": "TE",
+      "rating": 64,
+      "age": 26
+    },
+    {
+      "team": "NE",
+      "name": "Tanner Arkin",
+      "position": "TE",
+      "rating": 63,
+      "age": 23
+    },
+    {
+      "team": "NE",
+      "name": "Julian Hill",
+      "position": "TE",
+      "rating": 63,
+      "age": 26
+    },
+    {
+      "team": "NE",
+      "name": "Tommy DeVito",
+      "position": "QB",
+      "rating": 61,
+      "age": 28
+    },
+    {
+      "team": "NE",
+      "name": "Behren Morton",
+      "position": "QB",
+      "rating": 60,
+      "age": 24
+    },
+    {
+      "team": "NO",
+      "name": "Zach Wilson",
+      "position": "QB",
+      "rating": 67,
+      "age": 27
+    },
+    {
+      "team": "NO",
+      "name": "Lorenzo Styles Jr.",
+      "position": "S",
+      "rating": 66,
+      "age": 23
+    },
+    {
+      "team": "NO",
+      "name": "Jayden Price",
+      "position": "CB",
+      "rating": 66,
+      "age": 26
+    },
+    {
+      "team": "NO",
+      "name": "John Ridgeway",
+      "position": "DT",
+      "rating": 66,
+      "age": 27
+    },
+    {
+      "team": "NO",
+      "name": "Rejzohn Wright",
+      "position": "CB",
+      "rating": 65,
+      "age": 25
+    },
+    {
+      "team": "NO",
+      "name": "Isaiah Stalbird",
+      "position": "OLB",
+      "rating": 65,
+      "age": 26
+    },
+    {
+      "team": "NO",
+      "name": "Brock Rechsteiner",
+      "position": "WR",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "NO",
+      "name": "William Sherman",
+      "position": "OG",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "NO",
+      "name": "Asim Richards",
+      "position": "OT",
+      "rating": 64,
+      "age": 25
+    },
+    {
+      "team": "NO",
+      "name": "Mason Murphy",
+      "position": "OT",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "NO",
+      "name": "Cal Adomitis",
+      "position": "C",
+      "rating": 63,
+      "age": 28
+    },
+    {
+      "team": "NO",
+      "name": "Moliki Matavao",
+      "position": "TE",
+      "rating": 62,
+      "age": 23
+    },
+    {
+      "team": "NO",
+      "name": "CJ Donaldson",
+      "position": "RB",
+      "rating": 61,
+      "age": 22
+    },
+    {
+      "team": "NO",
+      "name": "Treyton Welch",
+      "position": "TE",
+      "rating": 61,
+      "age": 25
+    },
+    {
+      "team": "NYG",
+      "name": "Bobby Jamison-Travis",
+      "position": "DT",
+      "rating": 66,
+      "age": 25
+    },
+    {
+      "team": "NYG",
+      "name": "Gunner Olszewski",
+      "position": "WR",
+      "rating": 66,
+      "age": 29
+    },
+    {
+      "team": "NYG",
+      "name": "Thomas Fidone II",
+      "position": "TE",
+      "rating": 65,
+      "age": 23
+    },
+    {
+      "team": "NYG",
+      "name": "Ben Mann",
+      "position": "C",
+      "rating": 65,
+      "age": 24
+    },
+    {
+      "team": "NYG",
+      "name": "Zaire Barnes",
+      "position": "OLB",
+      "rating": 65,
+      "age": 26
+    },
+    {
+      "team": "NYG",
+      "name": "CJ Okoye",
+      "position": "DT",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "NYG",
+      "name": "Nikko Reed",
+      "position": "CB",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "NYG",
+      "name": "Nic Jones",
+      "position": "CB",
+      "rating": 64,
+      "age": 24
+    },
+    {
+      "team": "NYG",
+      "name": "Elijah Campbell",
+      "position": "S",
+      "rating": 62,
+      "age": 31
+    },
+    {
+      "team": "NYG",
+      "name": "Bryan Hudson",
+      "position": "C",
+      "rating": 61,
+      "age": 25
+    },
+    {
+      "team": "NYJ",
+      "name": "Malik McClain",
+      "position": "WR",
+      "rating": 67,
+      "age": 23
+    },
+    {
+      "team": "NYJ",
+      "name": "Braiden McGregor",
+      "position": "DE",
+      "rating": 67,
+      "age": 25
+    },
+    {
+      "team": "NYJ",
+      "name": "Isaiah Williams",
+      "position": "WR",
+      "rating": 67,
+      "age": 25
+    },
+    {
+      "team": "NYJ",
+      "name": "Jelani Woods",
+      "position": "TE",
+      "rating": 67,
+      "age": 27
+    },
+    {
+      "team": "NYJ",
+      "name": "Kene Nwangwu",
+      "position": "RB",
+      "rating": 67,
+      "age": 28
+    },
+    {
+      "team": "NYJ",
+      "name": "Chukwuma Okorafor",
+      "position": "OT",
+      "rating": 67,
+      "age": 29
+    },
+    {
+      "team": "NYJ",
+      "name": "Max Mitchell",
+      "position": "OT",
+      "rating": 66,
+      "age": 26
+    },
+    {
+      "team": "NYJ",
+      "name": "VJ Payne",
+      "position": "S",
+      "rating": 65,
+      "age": 22
+    },
+    {
+      "team": "NYJ",
+      "name": "Caullin Lacy",
+      "position": "WR",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "NYJ",
+      "name": "Marcelino McCrary-Ball",
+      "position": "OLB",
+      "rating": 64,
+      "age": 27
+    },
+    {
+      "team": "NYJ",
+      "name": "Jack Heflin",
+      "position": "DT",
+      "rating": 64,
+      "age": 28
+    },
+    {
+      "team": "NYJ",
+      "name": "Jordan Clark",
+      "position": "CB",
+      "rating": 63,
+      "age": 25
+    },
+    {
+      "team": "PHI",
+      "name": "Rocco Underwood",
+      "position": "C",
+      "rating": 65,
+      "age": 24
+    },
+    {
+      "team": "PHI",
+      "name": "Britain Covey",
+      "position": "WR",
+      "rating": 65,
+      "age": 29
+    },
+    {
+      "team": "PHI",
+      "name": "Fred Johnson",
+      "position": "OT",
+      "rating": 65,
+      "age": 29
+    },
+    {
+      "team": "PHI",
+      "name": "AJ Epenesa",
+      "position": "DE",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "PHI",
+      "name": "Willie Lampkin",
+      "position": "C",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "PHI",
+      "name": "E.J. Jenkins",
+      "position": "TE",
+      "rating": 58,
+      "age": 27
+    },
+    {
+      "team": "PIT",
+      "name": "Dylan Cook",
+      "position": "OT",
+      "rating": 65,
+      "age": 28
+    },
+    {
+      "team": "PIT",
+      "name": "Jack Driscoll",
+      "position": "OT",
+      "rating": 65,
+      "age": 29
+    },
+    {
+      "team": "PIT",
+      "name": "Gabriel Rubio",
+      "position": "DE",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "PIT",
+      "name": "Will Howard",
+      "position": "QB",
+      "rating": 64,
+      "age": 24
+    },
+    {
+      "team": "PIT",
+      "name": "Riley Nowakowski",
+      "position": "RB",
+      "rating": 64,
+      "age": 24
+    },
+    {
+      "team": "PIT",
+      "name": "Carson Bruener",
+      "position": "MLB",
+      "rating": 64,
+      "age": 25
+    },
+    {
+      "team": "PIT",
+      "name": "Christian Kuntz",
+      "position": "C",
+      "rating": 62,
+      "age": 32
+    },
+    {
+      "team": "PIT",
+      "name": "Ryan McCollum",
+      "position": "C",
+      "rating": 54,
+      "age": 28
+    },
+    {
+      "team": "SEA",
+      "name": "Chazz Surratt",
+      "position": "OLB",
+      "rating": 64,
+      "age": 29
+    },
+    {
+      "team": "SEA",
+      "name": "Avery Smith",
+      "position": "CB",
+      "rating": 63,
+      "age": 22
+    },
+    {
+      "team": "SEA",
+      "name": "AJ Finley",
+      "position": "S",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "SEA",
+      "name": "Mason Richman",
+      "position": "OG",
+      "rating": 63,
+      "age": 24
+    },
+    {
+      "team": "SEA",
+      "name": "Brandon Pili",
+      "position": "DT",
+      "rating": 63,
+      "age": 27
+    },
+    {
+      "team": "SEA",
+      "name": "Chris Stoll",
+      "position": "C",
+      "rating": 62,
+      "age": 28
+    },
+    {
+      "team": "SEA",
+      "name": "Nick Kallerup",
+      "position": "TE",
+      "rating": 60,
+      "age": 25
+    },
+    {
+      "team": "SEA",
+      "name": "Patrick O'Connell",
+      "position": "MLB",
+      "rating": 57,
+      "age": 27
+    },
+    {
+      "team": "SF",
+      "name": "Enrique Cruz Jr.",
+      "position": "OT",
+      "rating": 68,
+      "age": 23
+    },
+    {
+      "team": "SF",
+      "name": "Sam Okuayinonu",
+      "position": "DT",
+      "rating": 68,
+      "age": 28
+    },
+    {
+      "team": "SF",
+      "name": "Carver Willis",
+      "position": "OG",
+      "rating": 67,
+      "age": 24
+    },
+    {
+      "team": "SF",
+      "name": "Khalid Kareem",
+      "position": "DE",
+      "rating": 67,
+      "age": 28
+    },
+    {
+      "team": "SF",
+      "name": "James Thompson Jr.",
+      "position": "DT",
+      "rating": 66,
+      "age": 24
+    },
+    {
+      "team": "SF",
+      "name": "Vederian Lowe",
+      "position": "OT",
+      "rating": 66,
+      "age": 27
+    },
+    {
+      "team": "SF",
+      "name": "Luke Gifford",
+      "position": "OLB",
+      "rating": 66,
+      "age": 31
+    },
+    {
+      "team": "SF",
+      "name": "Siran Neal",
+      "position": "S",
+      "rating": 66,
+      "age": 32
+    },
+    {
+      "team": "SF",
+      "name": "Naquan Jones",
+      "position": "DT",
+      "rating": 65,
+      "age": 28
+    },
+    {
+      "team": "SF",
+      "name": "Austen Pleasants",
+      "position": "OT",
+      "rating": 65,
+      "age": 29
+    },
+    {
+      "team": "SF",
+      "name": "Mikail Kamara",
+      "position": "DE",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "SF",
+      "name": "C.J. West",
+      "position": "DT",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "SF",
+      "name": "Luke Farrell",
+      "position": "TE",
+      "rating": 64,
+      "age": 28
+    },
+    {
+      "team": "SF",
+      "name": "Kurtis Rourke",
+      "position": "QB",
+      "rating": 63,
+      "age": 25
+    },
+    {
+      "team": "SF",
+      "name": "Brayden Willis",
+      "position": "TE",
+      "rating": 63,
+      "age": 26
+    },
+    {
+      "team": "SF",
+      "name": "Garret Wallow",
+      "position": "OLB",
+      "rating": 63,
+      "age": 27
+    },
+    {
+      "team": "SF",
+      "name": "Brett Toth",
+      "position": "C",
+      "rating": 62,
+      "age": 30
+    },
+    {
+      "team": "TB",
+      "name": "Bauer Sharp",
+      "position": "TE",
+      "rating": 63,
+      "age": 23
+    },
+    {
+      "team": "TB",
+      "name": "Jalon Daniels",
+      "position": "QB",
+      "rating": 61,
+      "age": 23
+    },
+    {
+      "team": "TB",
+      "name": "Benjamin Chukwuma",
+      "position": "OT",
+      "rating": 60,
+      "age": 25
+    },
+    {
+      "team": "TB",
+      "name": "Evan Deckers",
+      "position": "C",
+      "rating": 60,
+      "age": 27
+    },
+    {
+      "team": "TEN",
+      "name": "Truman Jones",
+      "position": "DE",
+      "rating": 65,
+      "age": 26
+    },
+    {
+      "team": "TEN",
+      "name": "Mitchell Trubisky",
+      "position": "QB",
+      "rating": 65,
+      "age": 32
+    },
+    {
+      "team": "TEN",
+      "name": "James Hudson",
+      "position": "OT",
+      "rating": 63,
+      "age": 27
+    },
+    {
+      "team": "TEN",
+      "name": "Dorian Mausi",
+      "position": "OLB",
+      "rating": 62,
+      "age": 24
+    },
+    {
+      "team": "TEN",
+      "name": "Atonio Mafi",
+      "position": "OG",
+      "rating": 62,
+      "age": 25
+    },
+    {
+      "team": "TEN",
+      "name": "David Martin-Robinson",
+      "position": "TE",
+      "rating": 62,
+      "age": 26
+    },
+    {
+      "team": "TEN",
+      "name": "Brandon Crenshaw-Dickson",
+      "position": "OT",
+      "rating": 61,
+      "age": 25
+    },
+    {
+      "team": "TEN",
+      "name": "Jaren Kanak",
+      "position": "TE",
+      "rating": 60,
+      "age": 22
+    },
+    {
+      "team": "TEN",
+      "name": "Milo Eifler",
+      "position": "MLB",
+      "rating": 57,
+      "age": 28
+    },
+    {
+      "team": "WAS",
+      "name": "Tyler Owens",
+      "position": "S",
+      "rating": 67,
+      "age": 25
+    },
+    {
+      "team": "WAS",
+      "name": "Kain Medrano",
+      "position": "OLB",
+      "rating": 66,
+      "age": 25
+    },
+    {
+      "team": "WAS",
+      "name": "Javontae Jean-Baptiste",
+      "position": "DE",
+      "rating": 66,
+      "age": 26
+    },
+    {
+      "team": "WAS",
+      "name": "John Bates",
+      "position": "TE",
+      "rating": 66,
+      "age": 28
+    },
+    {
+      "team": "WAS",
+      "name": "Matt Gulbin",
+      "position": "C",
+      "rating": 64,
+      "age": 23
+    },
+    {
+      "team": "WAS",
+      "name": "Tanoa Togiai",
+      "position": "OG",
+      "rating": 63,
+      "age": 25
+    },
+    {
+      "team": "WAS",
+      "name": "Athan Kaliakmanis",
+      "position": "QB",
+      "rating": 62,
+      "age": 23
+    },
+    {
+      "team": "WAS",
+      "name": "Colson Yankoff",
+      "position": "TE",
+      "rating": 61,
+      "age": 26
+    }
+  ],
+  "accidental_active53": [
+    {
+      "team": "CHI",
+      "name": "Jordan McFadden",
+      "ovr": 66,
+      "cutoff": 66,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "CHI",
+      "name": "Luke Newman",
+      "ovr": 66,
+      "cutoff": 66,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "CLE",
+      "name": "Michael Burton",
+      "ovr": 66,
+      "cutoff": 66,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "CLE",
+      "name": "Daniel Thomas",
+      "ovr": 66,
+      "cutoff": 66,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "DEN",
+      "name": "Jarrett Stidham",
+      "ovr": 64,
+      "cutoff": 64,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "DET",
+      "name": "Jacob Saylors",
+      "ovr": 66,
+      "cutoff": 66,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "GB",
+      "name": "Nick Niemann",
+      "ovr": 66,
+      "cutoff": 66,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "HOU",
+      "name": "Cade Stover",
+      "ovr": 67,
+      "cutoff": 67,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "IND",
+      "name": "Dalton Tucker",
+      "ovr": 65,
+      "cutoff": 65,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "JAX",
+      "name": "Matt Dickerson",
+      "ovr": 65,
+      "cutoff": 65,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "JAX",
+      "name": "Danny Striggow",
+      "ovr": 65,
+      "cutoff": 65,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "KC",
+      "name": "Jack Cochrane",
+      "ovr": 62,
+      "cutoff": 62,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "LAR",
+      "name": "Stetson Bennett IV",
+      "ovr": 64,
+      "cutoff": 64,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "LAR",
+      "name": "Dylan McMahon",
+      "ovr": 64,
+      "cutoff": 64,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "LAR",
+      "name": "Elias Neal",
+      "ovr": 64,
+      "cutoff": 64,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "LAR",
+      "name": "Grant Stuard",
+      "ovr": 64,
+      "cutoff": 64,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "LV",
+      "name": "Dareke Young",
+      "ovr": 66,
+      "cutoff": 66,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "LV",
+      "name": "Patrick Johnson",
+      "ovr": 66,
+      "cutoff": 66,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "LV",
+      "name": "Thomas Booker IV",
+      "ovr": 66,
+      "cutoff": 66,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "MIA",
+      "name": "Josh Uche",
+      "ovr": 64,
+      "cutoff": 64,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "NE",
+      "name": "Ben Brown",
+      "ovr": 65,
+      "cutoff": 65,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "NE",
+      "name": "Walter Rouse",
+      "ovr": 65,
+      "cutoff": 65,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "NE",
+      "name": "Leonard Taylor III",
+      "ovr": 65,
+      "cutoff": 65,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "NE",
+      "name": "Charles Woods",
+      "ovr": 65,
+      "cutoff": 65,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "NO",
+      "name": "Zach Wilson",
+      "ovr": 67,
+      "cutoff": 67,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "NYJ",
+      "name": "Kene Nwangwu",
+      "ovr": 67,
+      "cutoff": 67,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "NYJ",
+      "name": "Malik McClain",
+      "ovr": 67,
+      "cutoff": 67,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "NYJ",
+      "name": "Isaiah Williams",
+      "ovr": 67,
+      "cutoff": 67,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "NYJ",
+      "name": "Jelani Woods",
+      "ovr": 67,
+      "cutoff": 67,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "NYJ",
+      "name": "Chukwuma Okorafor",
+      "ovr": 67,
+      "cutoff": 67,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "NYJ",
+      "name": "Braiden McGregor",
+      "ovr": 67,
+      "cutoff": 67,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "PIT",
+      "name": "Dylan Cook",
+      "ovr": 65,
+      "cutoff": 65,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "SEA",
+      "name": "Chazz Surratt",
+      "ovr": 64,
+      "cutoff": 64,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "SF",
+      "name": "Enrique Cruz Jr.",
+      "ovr": 68,
+      "cutoff": 68,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "TEN",
+      "name": "Mitchell Trubisky",
+      "ovr": 65,
+      "cutoff": 65,
+      "why": "FA but OVR >= team min kept"
+    },
+    {
+      "team": "TEN",
+      "name": "Truman Jones",
+      "ovr": 65,
+      "cutoff": 65,
+      "why": "FA but OVR >= team min kept"
+    }
+  ],
+  "legit_low_active53": [
+    {
+      "team": "ARI",
+      "name": "Hunter Long",
+      "ovr": 65,
+      "cutoff": 67
+    },
+    {
+      "team": "ARI",
+      "name": "Hayden Conner",
+      "ovr": 65,
+      "cutoff": 67
+    },
+    {
+      "team": "ARI",
+      "name": "Josh Fryar",
+      "ovr": 63,
+      "cutoff": 67
+    },
+    {
+      "team": "ARI",
+      "name": "Jayden Williams",
+      "ovr": 65,
+      "cutoff": 67
+    },
+    {
+      "team": "ARI",
+      "name": "Eku Leota",
+      "ovr": 62,
+      "cutoff": 67
+    },
+    {
+      "team": "ARI",
+      "name": "Karson Sharar",
+      "ovr": 66,
+      "cutoff": 67
+    },
+    {
+      "team": "ARI",
+      "name": "Kalen King",
+      "ovr": 65,
+      "cutoff": 67
+    },
+    {
+      "team": "ARI",
+      "name": "Wydett Williams Jr.",
+      "ovr": 62,
+      "cutoff": 67
+    },
+    {
+      "team": "ATL",
+      "name": "Cooper Rush",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "ATL",
+      "name": "Jack Strand",
+      "ovr": 60,
+      "cutoff": 65
+    },
+    {
+      "team": "ATL",
+      "name": "Nick Muse",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "ATL",
+      "name": "Kyle Hinton",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "ATL",
+      "name": "Corey Levin",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "ATL",
+      "name": "Yasir Abdullah",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "ATL",
+      "name": "Jared Ivey",
+      "ovr": 59,
+      "cutoff": 65
+    },
+    {
+      "team": "ATL",
+      "name": "Josh Woods",
+      "ovr": 61,
+      "cutoff": 65
+    },
+    {
+      "team": "ATL",
+      "name": "Malcolm DeWalt IV",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "ATL",
+      "name": "Liam McCullough",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "BAL",
+      "name": "Joe Fagnano",
+      "ovr": 59,
+      "cutoff": 65
+    },
+    {
+      "team": "BAL",
+      "name": "Josh Cuevas",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "BAL",
+      "name": "Ethan Burke",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "BAL",
+      "name": "Jay Higgins IV",
+      "ovr": 61,
+      "cutoff": 65
+    },
+    {
+      "team": "BAL",
+      "name": "Carl Jones",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "BAL",
+      "name": "Keondre Jackson",
+      "ovr": 60,
+      "cutoff": 65
+    },
+    {
+      "team": "BUF",
+      "name": "Kyle Allen",
+      "ovr": 60,
+      "cutoff": 65
+    },
+    {
+      "team": "BUF",
+      "name": "Keleki Latu",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "BUF",
+      "name": "Tylan Grable",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "CAR",
+      "name": "Haynes King",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "CAR",
+      "name": "Feleipe Franks",
+      "ovr": 55,
+      "cutoff": 66
+    },
+    {
+      "team": "CAR",
+      "name": "Corey Bullock",
+      "ovr": 63,
+      "cutoff": 66
+    },
+    {
+      "team": "CAR",
+      "name": "Stone Forsythe",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "CAR",
+      "name": "Albert Reese IV",
+      "ovr": 62,
+      "cutoff": 66
+    },
+    {
+      "team": "CAR",
+      "name": "TeRah Edwards",
+      "ovr": 62,
+      "cutoff": 66
+    },
+    {
+      "team": "CAR",
+      "name": "Jackson Kuwatch",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "CAR",
+      "name": "JJ Jansen",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "CHI",
+      "name": "Tyson Bagent",
+      "ovr": 59,
+      "cutoff": 66
+    },
+    {
+      "team": "CHI",
+      "name": "Case Keenum",
+      "ovr": 63,
+      "cutoff": 66
+    },
+    {
+      "team": "CHI",
+      "name": "Miller Moss",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "CHI",
+      "name": "Sam Roush",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "CHI",
+      "name": "Josh Blackwell",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "CHI",
+      "name": "Scott Daly",
+      "ovr": 59,
+      "cutoff": 66
+    },
+    {
+      "team": "CIN",
+      "name": "Jacob Bayer",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "CIN",
+      "name": "Swayze Bozeman",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "CIN",
+      "name": "PJ Jules",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "CIN",
+      "name": "William Wagner",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "CLE",
+      "name": "Taylen Green",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "CLE",
+      "name": "Carsen Ryan",
+      "ovr": 62,
+      "cutoff": 66
+    },
+    {
+      "team": "CLE",
+      "name": "Blake Whiteheart",
+      "ovr": 62,
+      "cutoff": 66
+    },
+    {
+      "team": "CLE",
+      "name": "Adin Huntington",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "CLE",
+      "name": "Easton Mascarenas-Arnold",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "CLE",
+      "name": "Donovan McMillon",
+      "ovr": 62,
+      "cutoff": 66
+    },
+    {
+      "team": "CLE",
+      "name": "Rex Sunahara",
+      "ovr": 58,
+      "cutoff": 66
+    },
+    {
+      "team": "DAL",
+      "name": "Sam Howell",
+      "ovr": 65,
+      "cutoff": 68
+    },
+    {
+      "team": "DAL",
+      "name": "Brevyn Spann-Ford",
+      "ovr": 65,
+      "cutoff": 68
+    },
+    {
+      "team": "DAL",
+      "name": "Nick Leverett",
+      "ovr": 67,
+      "cutoff": 68
+    },
+    {
+      "team": "DAL",
+      "name": "Tyrus Wheat",
+      "ovr": 65,
+      "cutoff": 68
+    },
+    {
+      "team": "DAL",
+      "name": "Ameer Speed",
+      "ovr": 65,
+      "cutoff": 68
+    },
+    {
+      "team": "DAL",
+      "name": "Alijah Clark",
+      "ovr": 65,
+      "cutoff": 68
+    },
+    {
+      "team": "DEN",
+      "name": "Karene Reid",
+      "ovr": 62,
+      "cutoff": 64
+    },
+    {
+      "team": "DET",
+      "name": "Jackson Meeks",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "DET",
+      "name": "Brock Wright",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "DET",
+      "name": "Seth McLaughlin",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "DET",
+      "name": "Eric O'Neill",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "DET",
+      "name": "Skyler Gill-Howard",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "DET",
+      "name": "Trevor Nowaske",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "DET",
+      "name": "DJ Wonnum",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "DET",
+      "name": "Khalil Dorsey",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "DET",
+      "name": "Bishop Fitzgerald",
+      "ovr": 62,
+      "cutoff": 66
+    },
+    {
+      "team": "GB",
+      "name": "Mark Redman",
+      "ovr": 63,
+      "cutoff": 66
+    },
+    {
+      "team": "GB",
+      "name": "Donovan Jennings",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "GB",
+      "name": "John Williams",
+      "ovr": 62,
+      "cutoff": 66
+    },
+    {
+      "team": "GB",
+      "name": "Travis Glover",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "GB",
+      "name": "Anthony Campbell",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "GB",
+      "name": "Jonathan Ford",
+      "ovr": 63,
+      "cutoff": 66
+    },
+    {
+      "team": "GB",
+      "name": "Matt Orzech",
+      "ovr": 61,
+      "cutoff": 66
+    },
+    {
+      "team": "HOU",
+      "name": "Davis Mills",
+      "ovr": 66,
+      "cutoff": 67
+    },
+    {
+      "team": "HOU",
+      "name": "Marlin Klein",
+      "ovr": 64,
+      "cutoff": 67
+    },
+    {
+      "team": "HOU",
+      "name": "Nate Thomas",
+      "ovr": 64,
+      "cutoff": 67
+    },
+    {
+      "team": "HOU",
+      "name": "Sabastian Harsh",
+      "ovr": 65,
+      "cutoff": 67
+    },
+    {
+      "team": "HOU",
+      "name": "Aiden Fisher",
+      "ovr": 65,
+      "cutoff": 67
+    },
+    {
+      "team": "HOU",
+      "name": "Jake Hansen",
+      "ovr": 63,
+      "cutoff": 67
+    },
+    {
+      "team": "HOU",
+      "name": "Jamal Hill",
+      "ovr": 66,
+      "cutoff": 67
+    },
+    {
+      "team": "HOU",
+      "name": "Jake Hummel",
+      "ovr": 64,
+      "cutoff": 67
+    },
+    {
+      "team": "HOU",
+      "name": "Collin Wright",
+      "ovr": 64,
+      "cutoff": 67
+    },
+    {
+      "team": "HOU",
+      "name": "Austin Brinkman",
+      "ovr": 65,
+      "cutoff": 67
+    },
+    {
+      "team": "IND",
+      "name": "Luke Tenuta",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "IND",
+      "name": "Jaylahn Tuimoloau",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "IND",
+      "name": "Tahj Chambers",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "JAX",
+      "name": "Quinn Ewers",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "JAX",
+      "name": "CJ Williams",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "JAX",
+      "name": "Quintin Morris",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "JAX",
+      "name": "Jonah Monheim",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "JAX",
+      "name": "Branson Combs",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "LAC",
+      "name": "Trey Lance",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "LAC",
+      "name": "Hayden Rucci",
+      "ovr": 61,
+      "cutoff": 65
+    },
+    {
+      "team": "LAC",
+      "name": "Jacob Spomer",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "LAC",
+      "name": "Kayode Awosika",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "LAC",
+      "name": "Marlowe Wax",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "LAC",
+      "name": "Kendall Williamson",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "LAR",
+      "name": "Tanner Ingle",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "LAR",
+      "name": "Maximus Pulley",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "LAR",
+      "name": "Joe Cardona",
+      "ovr": 60,
+      "cutoff": 64
+    },
+    {
+      "team": "LV",
+      "name": "Cody Lindenberg",
+      "ovr": 63,
+      "cutoff": 66
+    },
+    {
+      "team": "LV",
+      "name": "Segun Olubi",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "LV",
+      "name": "Tristin McCollum",
+      "ovr": 62,
+      "cutoff": 66
+    },
+    {
+      "team": "LV",
+      "name": "Alex Ward",
+      "ovr": 62,
+      "cutoff": 66
+    },
+    {
+      "team": "MIA",
+      "name": "Brady Cook",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "MIA",
+      "name": "Seydou Traore",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "MIA",
+      "name": "Andrew Meyer",
+      "ovr": 62,
+      "cutoff": 64
+    },
+    {
+      "team": "MIA",
+      "name": "Robert Beal Jr.",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "MIA",
+      "name": "Malik Herring",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "MIA",
+      "name": "Andre Jones Jr.",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "MIA",
+      "name": "Jackson Woodard",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "MIA",
+      "name": "Tucker Addington",
+      "ovr": 56,
+      "cutoff": 64
+    },
+    {
+      "team": "MIN",
+      "name": "Gavin Bartholomew",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "MIN",
+      "name": "Nick Samac",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "MIN",
+      "name": "Joe Huber",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "MIN",
+      "name": "Ryan Van Demark",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "MIN",
+      "name": "Elijah Williams",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "MIN",
+      "name": "Jacob Thomas",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "NE",
+      "name": "Tommy DeVito",
+      "ovr": 61,
+      "cutoff": 65
+    },
+    {
+      "team": "NE",
+      "name": "Behren Morton",
+      "ovr": 60,
+      "cutoff": 65
+    },
+    {
+      "team": "NE",
+      "name": "Tanner Arkin",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "NE",
+      "name": "Cameron Latu",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "NE",
+      "name": "Erick Hunter",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "NO",
+      "name": "CJ Donaldson",
+      "ovr": 61,
+      "cutoff": 67
+    },
+    {
+      "team": "NO",
+      "name": "Brock Rechsteiner",
+      "ovr": 64,
+      "cutoff": 67
+    },
+    {
+      "team": "NO",
+      "name": "Treyton Welch",
+      "ovr": 61,
+      "cutoff": 67
+    },
+    {
+      "team": "NO",
+      "name": "William Sherman",
+      "ovr": 64,
+      "cutoff": 67
+    },
+    {
+      "team": "NO",
+      "name": "Mason Murphy",
+      "ovr": 63,
+      "cutoff": 67
+    },
+    {
+      "team": "NO",
+      "name": "Asim Richards",
+      "ovr": 64,
+      "cutoff": 67
+    },
+    {
+      "team": "NO",
+      "name": "John Ridgeway III",
+      "ovr": 66,
+      "cutoff": 67
+    },
+    {
+      "team": "NO",
+      "name": "Isaiah Stalbird",
+      "ovr": 65,
+      "cutoff": 67
+    },
+    {
+      "team": "NO",
+      "name": "Jayden Price",
+      "ovr": 66,
+      "cutoff": 67
+    },
+    {
+      "team": "NO",
+      "name": "Cal Adomitis",
+      "ovr": 63,
+      "cutoff": 67
+    },
+    {
+      "team": "NYG",
+      "name": "Thomas Fidone II",
+      "ovr": 65,
+      "cutoff": 67
+    },
+    {
+      "team": "NYG",
+      "name": "Bryan Hudson",
+      "ovr": 61,
+      "cutoff": 67
+    },
+    {
+      "team": "NYG",
+      "name": "Bobby Jamison-Travis",
+      "ovr": 66,
+      "cutoff": 67
+    },
+    {
+      "team": "NYG",
+      "name": "CJ Okoye",
+      "ovr": 64,
+      "cutoff": 67
+    },
+    {
+      "team": "NYG",
+      "name": "Zaire Barnes",
+      "ovr": 65,
+      "cutoff": 67
+    },
+    {
+      "team": "NYG",
+      "name": "Nic Jones",
+      "ovr": 64,
+      "cutoff": 67
+    },
+    {
+      "team": "NYG",
+      "name": "Nikko Reed",
+      "ovr": 64,
+      "cutoff": 67
+    },
+    {
+      "team": "NYG",
+      "name": "Elijah Campbell",
+      "ovr": 62,
+      "cutoff": 67
+    },
+    {
+      "team": "NYG",
+      "name": "Ben Mann",
+      "ovr": 65,
+      "cutoff": 67
+    },
+    {
+      "team": "NYJ",
+      "name": "Max Mitchell",
+      "ovr": 66,
+      "cutoff": 67
+    },
+    {
+      "team": "NYJ",
+      "name": "Jack Heflin",
+      "ovr": 64,
+      "cutoff": 67
+    },
+    {
+      "team": "NYJ",
+      "name": "Jordan Clark",
+      "ovr": 63,
+      "cutoff": 67
+    },
+    {
+      "team": "PHI",
+      "name": "Britain Covey",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "PHI",
+      "name": "E.J. Jenkins",
+      "ovr": 58,
+      "cutoff": 66
+    },
+    {
+      "team": "PHI",
+      "name": "Willie Lampkin",
+      "ovr": 63,
+      "cutoff": 66
+    },
+    {
+      "team": "PHI",
+      "name": "Fred Johnson",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "PHI",
+      "name": "AJ Epenesa",
+      "ovr": 64,
+      "cutoff": 66
+    },
+    {
+      "team": "PHI",
+      "name": "Rocco Underwood",
+      "ovr": 65,
+      "cutoff": 66
+    },
+    {
+      "team": "PIT",
+      "name": "Will Howard",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "PIT",
+      "name": "Riley Nowakowski",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "PIT",
+      "name": "Ryan McCollum",
+      "ovr": 54,
+      "cutoff": 65
+    },
+    {
+      "team": "PIT",
+      "name": "Gabriel Rubio",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "PIT",
+      "name": "Carson Bruener",
+      "ovr": 64,
+      "cutoff": 65
+    },
+    {
+      "team": "PIT",
+      "name": "Christian Kuntz",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "SEA",
+      "name": "Nick Kallerup",
+      "ovr": 60,
+      "cutoff": 64
+    },
+    {
+      "team": "SEA",
+      "name": "Brandon Pili",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "SEA",
+      "name": "Patrick O'Connell",
+      "ovr": 57,
+      "cutoff": 64
+    },
+    {
+      "team": "SEA",
+      "name": "Avery Smith",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "SEA",
+      "name": "AJ Finley",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "SEA",
+      "name": "Chris Stoll",
+      "ovr": 62,
+      "cutoff": 64
+    },
+    {
+      "team": "SF",
+      "name": "Kurtis Rourke",
+      "ovr": 63,
+      "cutoff": 68
+    },
+    {
+      "team": "SF",
+      "name": "Luke Farrell",
+      "ovr": 64,
+      "cutoff": 68
+    },
+    {
+      "team": "SF",
+      "name": "Brayden Willis",
+      "ovr": 63,
+      "cutoff": 68
+    },
+    {
+      "team": "SF",
+      "name": "Vederian Lowe",
+      "ovr": 66,
+      "cutoff": 68
+    },
+    {
+      "team": "SF",
+      "name": "Carver Willis",
+      "ovr": 67,
+      "cutoff": 68
+    },
+    {
+      "team": "SF",
+      "name": "Khalid Kareem",
+      "ovr": 67,
+      "cutoff": 68
+    },
+    {
+      "team": "SF",
+      "name": "Naquan Jones",
+      "ovr": 65,
+      "cutoff": 68
+    },
+    {
+      "team": "SF",
+      "name": "James Thompson Jr.",
+      "ovr": 66,
+      "cutoff": 68
+    },
+    {
+      "team": "SF",
+      "name": "Luke Gifford",
+      "ovr": 66,
+      "cutoff": 68
+    },
+    {
+      "team": "SF",
+      "name": "Garret Wallow",
+      "ovr": 63,
+      "cutoff": 68
+    },
+    {
+      "team": "SF",
+      "name": "Siran Neal",
+      "ovr": 66,
+      "cutoff": 68
+    },
+    {
+      "team": "TB",
+      "name": "Jalon Daniels",
+      "ovr": 61,
+      "cutoff": 64
+    },
+    {
+      "team": "TB",
+      "name": "Bauer Sharp",
+      "ovr": 63,
+      "cutoff": 64
+    },
+    {
+      "team": "TB",
+      "name": "Benjamin Chukwuma",
+      "ovr": 60,
+      "cutoff": 64
+    },
+    {
+      "team": "TB",
+      "name": "Evan Deckers",
+      "ovr": 60,
+      "cutoff": 64
+    },
+    {
+      "team": "TEN",
+      "name": "David Martin-Robinson",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "TEN",
+      "name": "Atonio Mafi",
+      "ovr": 62,
+      "cutoff": 65
+    },
+    {
+      "team": "TEN",
+      "name": "Brandon Crenshaw-Dickson",
+      "ovr": 61,
+      "cutoff": 65
+    },
+    {
+      "team": "TEN",
+      "name": "James Hudson III",
+      "ovr": 63,
+      "cutoff": 65
+    },
+    {
+      "team": "WAS",
+      "name": "Athan Kaliakmanis",
+      "ovr": 62,
+      "cutoff": 68
+    },
+    {
+      "team": "WAS",
+      "name": "John Bates",
+      "ovr": 66,
+      "cutoff": 68
+    },
+    {
+      "team": "WAS",
+      "name": "Colson Yankoff",
+      "ovr": 61,
+      "cutoff": 68
+    },
+    {
+      "team": "WAS",
+      "name": "Matt Gulbin",
+      "ovr": 64,
+      "cutoff": 68
+    },
+    {
+      "team": "WAS",
+      "name": "Tanoa Togiai",
+      "ovr": 63,
+      "cutoff": 68
+    },
+    {
+      "team": "WAS",
+      "name": "Javontae Jean-Baptiste",
+      "ovr": 66,
+      "cutoff": 68
+    },
+    {
+      "team": "WAS",
+      "name": "Kain Medrano",
+      "ovr": 66,
+      "cutoff": 68
+    },
+    {
+      "team": "WAS",
+      "name": "Tyler Owens",
+      "ovr": 67,
+      "cutoff": 68
+    }
+  ],
+  "unmatched_active53": [
+    {
+      "team": "GB",
+      "name": "Zach Bako-Bewele",
+      "position": "OT"
+    }
+  ]
+}
