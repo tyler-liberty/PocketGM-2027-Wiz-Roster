@@ -1,86 +1,40 @@
-# PocketGM Pre Draft v6.6 — ESPN official rosters
+# PocketGM Pre Draft v6.7 — created missing ESPN players
 
-## Team source of truth: [ESPN NFL rosters](https://www.espn.com/nfl/players)
-- **On team** = ESPN Offense + Defense + Special Teams (53-man) **+ Injured Reserve**
-- Practice squad excluded
-- Players on a PocketGM NFL team who are not on that ESPN list → **Free Agent**
-- Ratings: Madden 27 Week 2 OVR + ±5 attr blend
+Missing ESPN roster players (no PGM card) were **created** by:
+1. Finding a same-position PocketGM player with the closest overall
+2. Cloning that card (contracts/appearance/growth curve)
+3. Applying **Madden 27** OVR + attributes (stronger pull, ±15 from template)
+4. Placing them on their **ESPN team**
 
-## Coverage
-- ESPN players (active+IR): **{len(espn)}**
-- Matched into PocketGM: **1839** (91.5%)
-- Unmatched (no PGM card): **170**
-- Demoted to FA: **257**
-- Mean roster size: **57.5**
+## Created: **168**
+- With Madden ratings: **122**
+- Estimated (no Madden card): **46**
 
-## Spot checks
-| Player | Team | OVR |
-|---|---|---|
-| Tua Tagovailoa | ATL | 73 |
-| Micah Parsons | GB | 98 |
-| Myles Garrett | LAR | 99 |
-| A.J. Brown | NE | 89 |
-| Budda Baker | ARI | 90 |
-| Patrick Mahomes | KC | 94 |
-
-## Unmatched ESPN (sample)
-- ARI TE IR Jameson Geers
-- ARI OT Jayden Williams
-- ARI S IR Josh Minkins
-- ARI LB Karson Sharar
-- ARI S Wydett Williams Jr.
-- ATL DT IR Anterio Thompson
-- ATL OT Ethan Onianwa
-- ATL QB Jack Strand
-- ATL LB Kendal Daniels
-- ATL CB Malcolm DeWalt IV
-- ATL DE Za'Darius Smith
-- BAL RB IR Adam Randall
-- BAL S IR Jahquez Robinson
-- BAL QB Joe Fagnano
-- BAL TE Josh Cuevas
-- BAL TE Matthew Hibner
-- BAL G Olaivavega Ioane
-- BAL P Ryan Eckley
-- BUF G Ar'maj Reed-Adams
-- BUF LB TJ Parker
-- BUF P Tommy Doman Jr.
-- CAR OT Albert Reese IV
-- CAR QB Haynes King
-- CAR LS JJ Jansen
-- CAR LB Jackson Kuwatch
-- CHI TE IR Hayden Large
-- CHI DT Jayden Loving
-- CHI DT Jordan van den Berg
-- CHI LB Keyshaun Elliott
-- CHI QB Miller Moss
-- CHI S Skyler Thomas
-- CHI WR Zavion Thomas
-- CIN WR Colbie Young
-- CIN CB Dax Hill
-- CIN WR Dohnte Meyers
-- CLE TE Carsen Ryan
-- CLE LB Justin Jefferson
-- CLE CB Toriano Pride Jr.
-- DAL WR Camden Brown
-- DAL TE IR DJ Rogers
-- DAL DT IR Kelvin Gilliam Jr.
-- DAL G T.J. Bass
-- DET S Bishop Fitzgerald
-- DET LB DJ Wonnum
-- DET DE Eric O'Neill
-- DET LB Jimmy Rolder
-- DET RB Justin Jackson
-- GB WR J. Michael Sturdivant
-- GB LS Matt Orzech
-- GB PK Trey Smack
-- HOU CB Collin Wright
-- HOU G Febechi Nwaiwu
-- HOU LB Jake Hummel
-- HOU WR Lewis Bond
-- HOU OT Nate Thomas
-- HOU DE Sabastian Harsh
-- HOU G IR Sam Hagen
-- HOU LB Wade Woodaz
-- IND LB Caden Curry
-- IND S Cam Bynum
+## Highest created
+| Player | Team | Pos | OVR | Template |
+|---|---|---|---|---|
+| Aaron Donald | LAR | DT | 95 | Jeffery Simmons (DT 95) |
+| Dax Hill | CIN | CB | 78 | Andru Phillips (CB 78) |
+| Olaivavega Ioane | BAL | OG | 77 | Matthew Bergeron (OG 77) |
+| TJ Parker | BUF | DE | 77 | Lukas Van Ness (DE 77) |
+| Trey Smack | GB | K | 77 | Eddy Pineiro (K 77) |
+| Za'Darius Smith | ATL | DE | 76 | Charles Omenihu (DE 76) |
+| Josiah Trotter | TB | MLB | 75 | Teddye Buchanan (MLB 75) |
+| Ryan Eckley | BAL | P | 73 | Austin McNamara (P 73) |
+| Tommy Doman Jr. | BUF | P | 73 | Austin McNamara (P 73) |
+| Caden Curry | IND | DE | 73 | Myles Murphy (DE 73) |
+| Wesley Williams | JAX | DE | 73 | Myles Murphy (DE 73) |
+| Albert Regis | JAX | DT | 73 | Ruke Orhorhoro (DT 73) |
+| Jadon Canady | KC | S | 73 | Caleb Ransaw (S 73) |
+| Jakobe Thomas | MIN | S | 73 | Caleb Ransaw (S 73) |
+| Brett Thorson | MIN | P | 73 | Austin McNamara (P 73) |
+| Drew Stevens | WAS | K | 73 | Blake Grupe (K 73) |
+| Zavion Thomas | CHI | WR | 72 | Jaden Smith (WR 72) |
+| Febechi Nwaiwu | HOU | OG | 72 | LaDarius Henderson (OG 72) |
+| Caleb Douglas | MIA | WR | 72 | Jaden Smith (WR 72) |
+| Trey Moore | MIA | DE | 72 | Isaiah McGuire (DE 72) |
+| Dominic Zvada | NYG | K | 72 | Riley Patterson (K 72) |
+| Keagen Trost | LAR | OT | 71 | Trey Wedig (OT 71) |
+| Max Bredeson | MIN | RB | 71 | Tahj Brooks (RB 71) |
+| Colbie Young | CIN | WR | 70 | LaJohntay Wester (WR 70) |
+| T.J. Bass | DAL | OG | 70 | Caleb Rogers (OG 70) |

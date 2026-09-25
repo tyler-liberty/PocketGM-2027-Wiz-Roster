@@ -1,17 +1,23 @@
 # PocketGM 2027 Wiz Roster
 
-## Current: v6.6
+## Current: v6.7
 
-**[`Pre Draft v6.6.json`](./Pre%20Draft%20v6.6.json)**
+**[`Pre Draft v6.7.json`](./Pre%20Draft%20v6.7.json)**
 
 ```
-https://raw.githubusercontent.com/tyler-liberty/PocketGM-2027-Wiz-Roster/main/Pre%20Draft%20v6.6.json
+https://raw.githubusercontent.com/tyler-liberty/PocketGM-2027-Wiz-Roster/main/Pre%20Draft%20v6.7.json
 ```
 
-### What’s in this build
-- **Teams**: ESPN active 53 + IR ([espn.com/nfl/players](https://www.espn.com/nfl/players))
-- **Ratings**: Madden 27 Week 2 OVR + ±5 attr blend
-- **Name-mismatch fixes**: Mike Danna→Michael Danna, Olu Fashanu→Olumuyiwa Fashanu, T.J. Slaton→Tedarrell Slaton, etc.; unique-name matches ignore position flips (Travis Hunter CB→WR, Bo Melton CB→WR)
+### Build rules
+1. **Teams** — ESPN active 53 + IR
+2. **Ratings** — Madden 27 Week 2 OVR + ±5 blend for existing cards
+3. **Name mismatches** — aliases (Danna, Fashanu, Slaton, etc.)
+4. **Missing players** — created by cloning a same-position PGM player near their Madden OVR, then applying Madden attrs (±15 from template)
 
-### Still unmatched (~170)
-Mostly 2026 rookies/UDFA with **no PocketGM card**. A few true missing vets (no PGM card): Za'Darius Smith, Dax Hill, Aaron Donald, T.J. Bass, Dohnte Meyers, Matt Orzech.
+### Created this version
+**168** new cards (122 with Madden ratings, 46 estimated). Examples:
+- Aaron Donald LAR DT 95 (template: Jeffery Simmons 95)
+- Dax Hill CIN CB 78 (template: Andru Phillips 78)
+- Za'Darius Smith ATL DE 76 (template: Charles Omenihu 76)
+
+See `created_players_v6.7.json` for the full list + templates used.
