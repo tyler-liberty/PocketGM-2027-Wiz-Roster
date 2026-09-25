@@ -1,0 +1,1575 @@
+{
+  "counts": {
+    "MLB\u2192DE": 83,
+    "unchanged_MLB": 98,
+    "unchanged_OLB": 8,
+    "MLB\u2192OLB": 87,
+    "unchanged_DE": 6,
+    "WR\u2192MLB": 1,
+    "espn_lb_no_pgm": 1,
+    "MLB\u2192DT": 1,
+    "MLB\u2192S": 1
+  },
+  "changes": [
+    {
+      "player": "Baron Browning",
+      "team": "ARI",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 73,
+      "team_fix": null
+    },
+    {
+      "player": "Jordan Burch",
+      "team": "ARI",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 73,
+      "team_fix": null
+    },
+    {
+      "player": "Zaven Collins",
+      "team": "ARI",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 76,
+      "team_fix": null
+    },
+    {
+      "player": "Eku Leota",
+      "team": "ARI",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 62,
+      "team_fix": null
+    },
+    {
+      "player": "Cody Simon",
+      "team": "ARI",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 70,
+      "team_fix": null
+    },
+    {
+      "player": "Josh Sweat",
+      "team": "ARI",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 85,
+      "team_fix": null
+    },
+    {
+      "player": "Yasir Abdullah",
+      "team": "ATL",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 64,
+      "team_fix": null
+    },
+    {
+      "player": "Jared Ivey",
+      "team": "ATL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 59,
+      "team_fix": null
+    },
+    {
+      "player": "James Pearce Jr.",
+      "team": "ATL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 79,
+      "team_fix": null
+    },
+    {
+      "player": "Harold Perkins Jr.",
+      "team": "ATL",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 66,
+      "team_fix": null
+    },
+    {
+      "player": "JD Bertrand",
+      "team": "ATL",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 69,
+      "team_fix": null
+    },
+    {
+      "player": "Teddye Buchanan",
+      "team": "BAL",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Ethan Burke",
+      "team": "BAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 64,
+      "team_fix": null
+    },
+    {
+      "player": "Mike Green",
+      "team": "BAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Trey Hendrickson",
+      "team": "BAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 88,
+      "team_fix": null
+    },
+    {
+      "player": "Tavius Robinson",
+      "team": "BAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 74,
+      "team_fix": null
+    },
+    {
+      "player": "Trenton Simpson",
+      "team": "BAL",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 78,
+      "team_fix": null
+    },
+    {
+      "player": "Zion Young",
+      "team": "BAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 76,
+      "team_fix": null
+    },
+    {
+      "player": "Bradley Chubb",
+      "team": "BUF",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 78,
+      "team_fix": null
+    },
+    {
+      "player": "Kaleb Elarms-Orr",
+      "team": "BUF",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 71,
+      "team_fix": null
+    },
+    {
+      "player": "Greg Rousseau",
+      "team": "BUF",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 89,
+      "team_fix": null
+    },
+    {
+      "player": "Javon Solomon",
+      "team": "BUF",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 69,
+      "team_fix": null
+    },
+    {
+      "player": "Dorian Williams",
+      "team": "BUF",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 74,
+      "team_fix": null
+    },
+    {
+      "player": "Claudin Cherelus",
+      "team": "CAR",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 69,
+      "team_fix": null
+    },
+    {
+      "player": "Tyrel Dodson",
+      "team": "CAR",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 77,
+      "team_fix": null
+    },
+    {
+      "player": "Trevis Gipson",
+      "team": "CAR",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 71,
+      "team_fix": null
+    },
+    {
+      "player": "Thomas Incoom",
+      "team": "CAR",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 66,
+      "team_fix": null
+    },
+    {
+      "player": "Patrick Jones II",
+      "team": "CAR",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 72,
+      "team_fix": null
+    },
+    {
+      "player": "Devin Lloyd",
+      "team": "CAR",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 88,
+      "team_fix": null
+    },
+    {
+      "player": "Jaelan Phillips",
+      "team": "CAR",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 82,
+      "team_fix": null
+    },
+    {
+      "player": "Princely Umanmielen",
+      "team": "CAR",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 72,
+      "team_fix": null
+    },
+    {
+      "player": "Bam Martin-Scott",
+      "team": "CAR",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 63,
+      "team_fix": null
+    },
+    {
+      "player": "Nic Scourton",
+      "team": "CAR",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "T.J. Edwards",
+      "team": "CHI",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 81,
+      "team_fix": null
+    },
+    {
+      "player": "D'Marco Jackson",
+      "team": "CHI",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 71,
+      "team_fix": null
+    },
+    {
+      "player": "Nephi Sewell",
+      "team": "CHI",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 65,
+      "team_fix": null
+    },
+    {
+      "player": "Noah Sewell",
+      "team": "CHI",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 68,
+      "team_fix": null
+    },
+    {
+      "player": "Oren Burks",
+      "team": "CIN",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 69,
+      "team_fix": null
+    },
+    {
+      "player": "Demetrius Knight Jr.",
+      "team": "CIN",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 73,
+      "team_fix": null
+    },
+    {
+      "player": "Justin Jefferson",
+      "team": "CLE",
+      "from": "WR",
+      "to": "MLB",
+      "source": "madden:MIKE",
+      "rating": 97,
+      "team_fix": {
+        "from": "MIN",
+        "to": "CLE"
+      }
+    },
+    {
+      "player": "Easton Mascarenas-Arnold",
+      "team": "CLE",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 64,
+      "team_fix": null
+    },
+    {
+      "player": "Winston Reid",
+      "team": "CLE",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 67,
+      "team_fix": null
+    },
+    {
+      "player": "Quincy Williams",
+      "team": "CLE",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 79,
+      "team_fix": null
+    },
+    {
+      "player": "Sam Williams",
+      "team": "CLE",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 73,
+      "team_fix": null
+    },
+    {
+      "player": "Jeremiah Owusu-Koramoah",
+      "team": "CLE",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 83,
+      "team_fix": null
+    },
+    {
+      "player": "Jaishawn Barham",
+      "team": "DAL",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 73,
+      "team_fix": null
+    },
+    {
+      "player": "Donovan Ezeiruaku",
+      "team": "DAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Rashan Gary",
+      "team": "DAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 84,
+      "team_fix": null
+    },
+    {
+      "player": "James Houston",
+      "team": "DAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 72,
+      "team_fix": null
+    },
+    {
+      "player": "Malachi Lawrence",
+      "team": "DAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 78,
+      "team_fix": null
+    },
+    {
+      "player": "Von Miller",
+      "team": "DAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 78,
+      "team_fix": null
+    },
+    {
+      "player": "Tyrus Wheat",
+      "team": "DAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 65,
+      "team_fix": null
+    },
+    {
+      "player": "Dee Winters",
+      "team": "DAL",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 77,
+      "team_fix": null
+    },
+    {
+      "player": "Marist Liufau",
+      "team": "DAL",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 69,
+      "team_fix": null
+    },
+    {
+      "player": "Nik Bonitto",
+      "team": "DEN",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 91,
+      "team_fix": null
+    },
+    {
+      "player": "Jonathon Cooper",
+      "team": "DEN",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 84,
+      "team_fix": null
+    },
+    {
+      "player": "Jonah Elliss",
+      "team": "DEN",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 73,
+      "team_fix": null
+    },
+    {
+      "player": "Que Robinson",
+      "team": "DEN",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 69,
+      "team_fix": null
+    },
+    {
+      "player": "Justin Strnad",
+      "team": "DEN",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 74,
+      "team_fix": null
+    },
+    {
+      "player": "Dondrea Tillman",
+      "team": "DEN",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 70,
+      "team_fix": null
+    },
+    {
+      "player": "Jordan Turner",
+      "team": "DEN",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 64,
+      "team_fix": null
+    },
+    {
+      "player": "Derrick Barnes",
+      "team": "DET",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Trevor Nowaske",
+      "team": "DET",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 64,
+      "team_fix": null
+    },
+    {
+      "player": "Malcolm Rodriguez",
+      "team": "DET",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 74,
+      "team_fix": null
+    },
+    {
+      "player": "Devin White",
+      "team": "DET",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 73,
+      "team_fix": null
+    },
+    {
+      "player": "Edgerrin Cooper",
+      "team": "GB",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 80,
+      "team_fix": null
+    },
+    {
+      "player": "Ty'Ron Hopper",
+      "team": "GB",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 66,
+      "team_fix": null
+    },
+    {
+      "player": "Isaiah McDuffie",
+      "team": "GB",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 78,
+      "team_fix": null
+    },
+    {
+      "player": "Aiden Fisher",
+      "team": "HOU",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 65,
+      "team_fix": null
+    },
+    {
+      "player": "Jamal Hill",
+      "team": "HOU",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 66,
+      "team_fix": null
+    },
+    {
+      "player": "E.J. Speed",
+      "team": "HOU",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Henry To'oTo'o",
+      "team": "HOU",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Bryce Boettcher",
+      "team": "IND",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 70,
+      "team_fix": null
+    },
+    {
+      "player": "Jaylon Carlies",
+      "team": "IND",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 69,
+      "team_fix": null
+    },
+    {
+      "player": "Branson Combs",
+      "team": "JAX",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 64,
+      "team_fix": null
+    },
+    {
+      "player": "Dennis Gardeck",
+      "team": "JAX",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 74,
+      "team_fix": null
+    },
+    {
+      "player": "Ventrell Miller",
+      "team": "JAX",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 70,
+      "team_fix": null
+    },
+    {
+      "player": "Jeffrey Bassa",
+      "team": "KC",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 67,
+      "team_fix": null
+    },
+    {
+      "player": "Jack Cochrane",
+      "team": "KC",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 62,
+      "team_fix": null
+    },
+    {
+      "player": "Drue Tranquill",
+      "team": "KC",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 89,
+      "team_fix": null
+    },
+    {
+      "player": "Ethan Downs",
+      "team": "KC",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 63,
+      "team_fix": null
+    },
+    {
+      "player": "Bud Dupree",
+      "team": "LAC",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 72,
+      "team_fix": null
+    },
+    {
+      "player": "Troy Dye",
+      "team": "LAC",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 71,
+      "team_fix": null
+    },
+    {
+      "player": "Daiyan Henley",
+      "team": "LAC",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 82,
+      "team_fix": null
+    },
+    {
+      "player": "Khalil Mack",
+      "team": "LAC",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 86,
+      "team_fix": null
+    },
+    {
+      "player": "Akheem Mesidor",
+      "team": "LAC",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 79,
+      "team_fix": null
+    },
+    {
+      "player": "Del'Shawn Phillips",
+      "team": "LAC",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 67,
+      "team_fix": null
+    },
+    {
+      "player": "Tuli Tuipulotu",
+      "team": "LAC",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 78,
+      "team_fix": null
+    },
+    {
+      "player": "Omar Speights",
+      "team": "LAR",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 78,
+      "team_fix": null
+    },
+    {
+      "player": "Josaiah Stewart",
+      "team": "LAR",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 74,
+      "team_fix": null
+    },
+    {
+      "player": "Grant Stuard",
+      "team": "LAR",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 64,
+      "team_fix": null
+    },
+    {
+      "player": "Byron Young",
+      "team": "LAR",
+      "from": "MLB",
+      "to": "DT",
+      "source": "madden:DT",
+      "rating": 84,
+      "team_fix": null
+    },
+    {
+      "player": "Keir Thomas",
+      "team": "LAR",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 62,
+      "team_fix": null
+    },
+    {
+      "player": "Cody Lindenberg",
+      "team": "LV",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 63,
+      "team_fix": null
+    },
+    {
+      "player": "Quay Walker",
+      "team": "LV",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 80,
+      "team_fix": null
+    },
+    {
+      "player": "Brennan Jackson",
+      "team": "LV",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 70,
+      "team_fix": null
+    },
+    {
+      "player": "Jordyn Brooks",
+      "team": "MIA",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 84,
+      "team_fix": null
+    },
+    {
+      "player": "Willie Gay Jr.",
+      "team": "MIA",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 72,
+      "team_fix": null
+    },
+    {
+      "player": "Andre Jones Jr.",
+      "team": "MIA",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 63,
+      "team_fix": null
+    },
+    {
+      "player": "Chop Robinson",
+      "team": "MIA",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Ronnie Harrison",
+      "team": "MIA",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 71,
+      "team_fix": null
+    },
+    {
+      "player": "Kyle Louis",
+      "team": "MIA",
+      "from": "MLB",
+      "to": "S",
+      "source": "madden:SS",
+      "rating": 71,
+      "team_fix": null
+    },
+    {
+      "player": "Chaz Chambliss",
+      "team": "MIN",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 65,
+      "team_fix": null
+    },
+    {
+      "player": "Jake Golday",
+      "team": "MIN",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 74,
+      "team_fix": null
+    },
+    {
+      "player": "Bo Richter",
+      "team": "MIN",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 69,
+      "team_fix": null
+    },
+    {
+      "player": "Dallas Turner",
+      "team": "MIN",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 80,
+      "team_fix": null
+    },
+    {
+      "player": "Andrew Van Ginkel",
+      "team": "MIN",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 83,
+      "team_fix": null
+    },
+    {
+      "player": "Eric Wilson",
+      "team": "MIN",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 77,
+      "team_fix": null
+    },
+    {
+      "player": "Jamal Adams",
+      "team": "MIN",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 72,
+      "team_fix": null
+    },
+    {
+      "player": "Tyler Batty",
+      "team": "MIN",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 63,
+      "team_fix": null
+    },
+    {
+      "player": "Christian Elliss",
+      "team": "NE",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Gabe Jacas",
+      "team": "NE",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 76,
+      "team_fix": null
+    },
+    {
+      "player": "Elijah Ponder",
+      "team": "NE",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 70,
+      "team_fix": null
+    },
+    {
+      "player": "Jose Ramirez",
+      "team": "NE",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 67,
+      "team_fix": null
+    },
+    {
+      "player": "Harold Landry III",
+      "team": "NE",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 82,
+      "team_fix": null
+    },
+    {
+      "player": "Kaden Elliss",
+      "team": "NO",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 83,
+      "team_fix": null
+    },
+    {
+      "player": "Anfernee Jennings",
+      "team": "NO",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 77,
+      "team_fix": null
+    },
+    {
+      "player": "Isaiah Stalbird",
+      "team": "NO",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 65,
+      "team_fix": null
+    },
+    {
+      "player": "Zaire Barnes",
+      "team": "NYG",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 65,
+      "team_fix": null
+    },
+    {
+      "player": "Brian Burns",
+      "team": "NYG",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 89,
+      "team_fix": null
+    },
+    {
+      "player": "Abdul Carter",
+      "team": "NYG",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 82,
+      "team_fix": null
+    },
+    {
+      "player": "Arvell Reese",
+      "team": "NYG",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 79,
+      "team_fix": null
+    },
+    {
+      "player": "Kayvon Thibodeaux",
+      "team": "NYG",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 78,
+      "team_fix": null
+    },
+    {
+      "player": "David Bailey",
+      "team": "NYJ",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 81,
+      "team_fix": null
+    },
+    {
+      "player": "Kingsley Enagbare",
+      "team": "NYJ",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 73,
+      "team_fix": null
+    },
+    {
+      "player": "Troy Reeder",
+      "team": "NYJ",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 69,
+      "team_fix": null
+    },
+    {
+      "player": "Jamien Sherwood",
+      "team": "NYJ",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 76,
+      "team_fix": null
+    },
+    {
+      "player": "Marcelino McCrary-Ball",
+      "team": "NYJ",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 64,
+      "team_fix": null
+    },
+    {
+      "player": "Zack Baun",
+      "team": "PHI",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 93,
+      "team_fix": null
+    },
+    {
+      "player": "Arnold Ebiketie",
+      "team": "PHI",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 77,
+      "team_fix": null
+    },
+    {
+      "player": "Jonathan Greenard",
+      "team": "PHI",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 85,
+      "team_fix": null
+    },
+    {
+      "player": "Jalyx Hunt",
+      "team": "PHI",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 76,
+      "team_fix": null
+    },
+    {
+      "player": "Smael Mondon Jr.",
+      "team": "PHI",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 69,
+      "team_fix": null
+    },
+    {
+      "player": "Nolan Smith",
+      "team": "PHI",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 83,
+      "team_fix": null
+    },
+    {
+      "player": "Jeremiah Trotter Jr.",
+      "team": "PHI",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 68,
+      "team_fix": null
+    },
+    {
+      "player": "Nick Herbig",
+      "team": "PIT",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 78,
+      "team_fix": null
+    },
+    {
+      "player": "Alex Highsmith",
+      "team": "PIT",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 87,
+      "team_fix": null
+    },
+    {
+      "player": "Cole Holcomb",
+      "team": "PIT",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Jack Sawyer",
+      "team": "PIT",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 72,
+      "team_fix": null
+    },
+    {
+      "player": "T.J. Watt",
+      "team": "PIT",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 96,
+      "team_fix": null
+    },
+    {
+      "player": "Payton Wilson",
+      "team": "PIT",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Dante Fowler Jr.",
+      "team": "SEA",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Derick Hall",
+      "team": "SEA",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 77,
+      "team_fix": null
+    },
+    {
+      "player": "Tyrice Knight",
+      "team": "SEA",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "DeMarcus Lawrence",
+      "team": "SEA",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 87,
+      "team_fix": null
+    },
+    {
+      "player": "Uchenna Nwosu",
+      "team": "SEA",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 76,
+      "team_fix": null
+    },
+    {
+      "player": "Connor O'Toole",
+      "team": "SEA",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 64,
+      "team_fix": null
+    },
+    {
+      "player": "Chazz Surratt",
+      "team": "SEA",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 64,
+      "team_fix": null
+    },
+    {
+      "player": "Drake Thomas",
+      "team": "SEA",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Luke Gifford",
+      "team": "SF",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:SAM",
+      "rating": 66,
+      "team_fix": null
+    },
+    {
+      "player": "Dre Greenlaw",
+      "team": "SF",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 85,
+      "team_fix": null
+    },
+    {
+      "player": "Ogbo Okoronkwo",
+      "team": "SF",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 72,
+      "team_fix": null
+    },
+    {
+      "player": "Garret Wallow",
+      "team": "SF",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 63,
+      "team_fix": null
+    },
+    {
+      "player": "Nick Martin",
+      "team": "SF",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 71,
+      "team_fix": null
+    },
+    {
+      "player": "Alex Anzalone",
+      "team": "TB",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 80,
+      "team_fix": null
+    },
+    {
+      "player": "Rueben Bain Jr.",
+      "team": "TB",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 80,
+      "team_fix": null
+    },
+    {
+      "player": "Yaya Diaby",
+      "team": "TB",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 79,
+      "team_fix": null
+    },
+    {
+      "player": "Al-Quadin Muhammad",
+      "team": "TB",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 76,
+      "team_fix": null
+    },
+    {
+      "player": "Anthony Nelson",
+      "team": "TB",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 74,
+      "team_fix": null
+    },
+    {
+      "player": "Christian Rozeboom",
+      "team": "TB",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 73,
+      "team_fix": null
+    },
+    {
+      "player": "David Walker",
+      "team": "TB",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 69,
+      "team_fix": null
+    },
+    {
+      "player": "Cedric Gray",
+      "team": "TEN",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 78,
+      "team_fix": null
+    },
+    {
+      "player": "Owen Pappoe",
+      "team": "TEN",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 68,
+      "team_fix": null
+    },
+    {
+      "player": "James Williams",
+      "team": "TEN",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 66,
+      "team_fix": null
+    },
+    {
+      "player": "Jaylen Harrell",
+      "team": "TEN",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 66,
+      "team_fix": null
+    },
+    {
+      "player": "Dorian Mausi",
+      "team": "TEN",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 62,
+      "team_fix": null
+    },
+    {
+      "player": "K'Lavon Chaisson",
+      "team": "WAS",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 75,
+      "team_fix": null
+    },
+    {
+      "player": "Javontae Jean-Baptiste",
+      "team": "WAS",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:REDG",
+      "rating": 66,
+      "team_fix": null
+    },
+    {
+      "player": "Joshua Josephs",
+      "team": "WAS",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 72,
+      "team_fix": null
+    },
+    {
+      "player": "Frankie Luvu",
+      "team": "WAS",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 79,
+      "team_fix": null
+    },
+    {
+      "player": "Kain Medrano",
+      "team": "WAS",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 66,
+      "team_fix": null
+    },
+    {
+      "player": "Odafe Oweh",
+      "team": "WAS",
+      "from": "MLB",
+      "to": "DE",
+      "source": "madden:LEDG",
+      "rating": 80,
+      "team_fix": null
+    },
+    {
+      "player": "Jordan Magee",
+      "team": "WAS",
+      "from": "MLB",
+      "to": "OLB",
+      "source": "madden:WILL",
+      "rating": 68,
+      "team_fix": null
+    }
+  ]
+}

@@ -1,23 +1,23 @@
 # PocketGM 2027 Wiz Roster
 
-## Current: v6.7
+## Current: v6.8
 
-**[`Pre Draft v6.7.json`](./Pre%20Draft%20v6.7.json)**
+**[`Pre Draft v6.8.json`](./Pre%20Draft%20v6.8.json)**
 
 ```
-https://raw.githubusercontent.com/tyler-liberty/PocketGM-2027-Wiz-Roster/main/Pre%20Draft%20v6.7.json
+https://raw.githubusercontent.com/tyler-liberty/PocketGM-2027-Wiz-Roster/main/Pre%20Draft%20v6.8.json
 ```
 
-### Build rules
-1. **Teams** — ESPN active 53 + IR
-2. **Ratings** — Madden 27 Week 2 OVR + ±5 blend for existing cards
-3. **Name mismatches** — aliases (Danna, Fashanu, Slaton, etc.)
-4. **Missing players** — created by cloning a same-position PGM player near their Madden OVR, then applying Madden attrs (±15 from template)
+### What’s new in v6.8
+ESPN labels almost all linebackers as generic `LB`, which had mapped everyone to **MLB** (24 teams with 0 OLB).
 
-### Created this version
-**168** new cards (122 with Madden ratings, 46 estimated). Examples:
-- Aaron Donald LAR DT 95 (template: Jeffery Simmons 95)
-- Dax Hill CIN CB 78 (template: Andru Phillips 78)
-- Za'Darius Smith ATL DE 76 (template: Charles Omenihu 76)
+Now ESPN LBs are remapped using **Madden 27** positions:
+- `MIKE` → MLB (Roquan, Warner)
+- `WILL` / `SAM` → OLB (Baun, Greenlaw, etc.)
+- `LEDG` / `REDG` → DE (Watt, Mack, Burns, Bonitto — true edges)
 
-See `created_players_v6.7.json` for the full list + templates used.
+**Every team now has OLBs.**
+
+### Prior rules (still in place)
+- Teams from ESPN active 53 + IR
+- Ratings from Madden 27 (±5 blend; created cards for missing players)
