@@ -956,60 +956,102 @@ Jer'Zhan Newton,Jer'Zhan Newton,rating,51,76
 A.J. Terrell,A.J. Terrell Jr,rating,65,88
 Myles Garrett,Myles Garrett,teamID,CLE,LAR
 Kayshon Boutte,Kayshon Boutte,teamID,NE,HOU
+Monroe Freeling,Monroe Freeling,teamID,Rookie,CAR
+Markquese Bell,Markquese Bell,teamID,Free Agent,DAL
+Tim Settle,Tim Settle Jr,teamID,Free Agent,WAS
 Sydney Brown,Sydney Brown,teamID,PHI,ATL
+Aaron Stinnie,Aaron Stinnie,teamID,Free Agent,NYG
+Laquon Treadwell,Laquon Treadwell,teamID,Free Agent,IND
+Corey Kiner,Corey Kiner,teamID,Free Agent,NE
+Gunner Olszewski,Gunner Olszewski,teamID,Free Agent,NYG
 Nazir Stackhouse,Nazir Stackhouse,teamID,GB,TEN
+Charles Woods,Charles Woods,teamID,Free Agent,NE
+Fred Johnson,Fred Johnson,teamID,Free Agent,PHI
 Nikko Reed,Nikko Reed,teamID,LAC,NYG
 Cameron Latu,Cameron Latu,teamID,PHI,NE
+Elijah Campbell,Elijah Campbell,teamID,Free Agent,NYG
+Princeton Fant,Princeton Fant,teamID,Free Agent,DAL
 A.J. Brown,A.J. Brown,teamID,PHI,NE
 A.J. Brown,A.J. Brown,rating,90,89
+Jeremiyah Love,Jeremiyah Love,teamID,Rookie,ARI
 Jeremiyah Love,Jeremiyah Love,rating,81,82
+Deebo Samuel Sr.,Deebo Samuel Sr,teamID,Free Agent,SF
 Deebo Samuel Sr.,Deebo Samuel Sr,rating,78,77
+Jordyn Tyson,Jordyn Tyson,teamID,Rookie,NO
 Jordyn Tyson,Jordyn Tyson,rating,77,76
+Christen Miller,Christen Miller,teamID,Rookie,NO
 Christen Miller,Christen Miller,rating,74,75
+Chase Bisontis,Chase Bisontis,teamID,Rookie,ARI
 Chase Bisontis,Chase Bisontis,rating,76,75
 Kaleb Johnson,Kaleb Johnson,teamID,PIT,GB
 Kaleb Johnson,Kaleb Johnson,rating,73,74
 Sam Williams,Sam Williams,teamID,DAL,CLE
 Sam Williams,Sam Williams,rating,72,73
+Noah Gray,Noah Gray,teamID,Free Agent,KC
 Noah Gray,Noah Gray,rating,74,73
+Ogbo Okoronkwo,Ogbo Okoronkwo,teamID,Free Agent,SF
 Ogbo Okoronkwo,Ogbo Okoronkwo,rating,71,72
+Aireontae Ersery,Aireontae Ersery,teamID,Free Agent,HOU
 Aireontae Ersery,Aireontae Ersery,rating,72,71
+Rock Ya-Sin,Rock Ya-Sin,teamID,Free Agent,DET
 Rock Ya-Sin,Rock Ya-Sin,rating,72,71
+Percy Butler,Percy Butler,teamID,Free Agent,WAS
 Percy Butler,Percy Butler,rating,69,70
+Myles Harden,Myles Harden,teamID,Free Agent,CLE
 Myles Harden,Myles Harden,rating,69,70
 Sam Mustipher,Sam Mustipher,teamID,DEN,JAX
 Sam Mustipher,Sam Mustipher,rating,70,69
+Malachi Corley,Malachi Corley,teamID,Free Agent,CLE
 Malachi Corley,Malachi Corley,rating,68,69
 Tyler Goodson,Tyler Goodson,teamID,ATL,DAL
 Tyler Goodson,Tyler Goodson,rating,67,68
+Sam Franklin Jr.,Sam Franklin Jr,teamID,Free Agent,BUF
 Sam Franklin Jr.,Sam Franklin Jr,rating,69,68
+Josh Tupou,Josh Tupou,teamID,Free Agent,NYG
 Josh Tupou,Josh Tupou,rating,68,67
+Justin Dedich,Justin Dedich,teamID,Free Agent,LAR
 Justin Dedich,Justin Dedich,rating,66,67
+Matt Peart,Matt Peart,teamID,Free Agent,DEN
 Matt Peart,Matt Peart,rating,66,67
 Nathan Thomas,Nathan Thomas,teamID,DAL,HOU
 Nathan Thomas,Nathan Thomas,rating,65,66
+Julius Wood,Julius Wood,teamID,Free Agent,MIA
 Julius Wood,Julius Wood,rating,65,66
+Michael Burton,Michael Burton,teamID,Free Agent,CLE
 Michael Burton,Michael Burton,rating,65,66
+Brenden Schooler,Brenden Schooler,teamID,Free Agent,NE
 Brenden Schooler,Brenden Schooler,rating,65,66
+Tyrus Wheat,Tyrus Wheat,teamID,Free Agent,DAL
 Tyrus Wheat,Tyrus Wheat,rating,66,65
 Myles Hinton,Myles Hinton,teamID,PHI,CIN
 Myles Hinton,Myles Hinton,rating,64,65
+Jack Heflin,Jack Heflin,teamID,Free Agent,NYJ
 Jack Heflin,Jack Heflin,rating,65,64
+Quintin Morris,Quintin Morris,teamID,Free Agent,JAX
 Quintin Morris,Quintin Morris,rating,64,63
+Carl Jones,Carl Jones,teamID,Free Agent,BAL
 Carl Jones,Carl Jones,rating,63,62
+Joe Cardona,Joe Cardona,teamID,Free Agent,LAR
 Joe Cardona,Joe Cardona,rating,61,60
+Tucker Addington,Tucker Addington,teamID,Free Agent,MIA
 Tucker Addington,Tucker Addington,rating,55,56
+Feleipe Franks,Feleipe Franks,teamID,Free Agent,CAR
 Feleipe Franks,Feleipe Franks,rating,56,55
+Caleb Downs,Caleb Downs,teamID,Rookie,DAL
 Caleb Downs,Caleb Downs,rating,84,82
+Aaron Rodgers,Aaron Rodgers,teamID,Free Agent,PIT
 Aaron Rodgers,Aaron Rodgers,rating,77,79
+Keldric Faulk,Keldric Faulk,teamID,Rookie,TEN
 Keldric Faulk,Keldric Faulk,rating,80,78
 Mitch Wishnowsky,Mitch Wishnowsky,teamID,BUF,NE
 Mitch Wishnowsky,Mitch Wishnowsky,rating,74,76
+Dante Fowler Jr.,Dante Fowler Jr,teamID,Free Agent,SEA
 Dante Fowler Jr.,Dante Fowler Jr,rating,73,75
 Jaylon Jones,Jaylon Jones,teamID,IND,TEN
 Jaylon Jones,Jaylon Jones,rating,71,73
 Daniel Faalele,Daniel Faalele,teamID,NYG,JAX
 Daniel Faalele,Daniel Faalele,rating,70,72
+Casey Kreiter,Casey Kreiter,teamID,Free Agent,ARI
 Casey Kreiter,Casey Kreiter,rating,68,70
 Robert Longerbeam,Robert Longerbeam,teamID,BAL,ATL
 Robert Longerbeam,Robert Longerbeam,rating,67,69
@@ -1019,88 +1061,146 @@ Jaylin Simpson,Jaylin Simpson,teamID,GB,MIA
 Jaylin Simpson,Jaylin Simpson,rating,66,68
 Joshua Dobbs,Joshua Dobbs,teamID,NE,DET
 Joshua Dobbs,Joshua Dobbs,rating,70,68
+Jamree Kromah,Jamree Kromah,teamID,Free Agent,CHI
 Jamree Kromah,Jamree Kromah,rating,69,67
+Miles Killebrew,Miles Killebrew,teamID,Free Agent,TB
 Miles Killebrew,Miles Killebrew,rating,65,67
+Dallis Flowers,Dallis Flowers,teamID,Free Agent,CHI
 Dallis Flowers,Dallis Flowers,rating,68,66
+Ryan Miller,Ryan Miller,teamID,Free Agent,MIA
 Ryan Miller,Ryan Miller,rating,68,66
+Dareke Young,Dareke Young,teamID,Free Agent,LV
 Dareke Young,Dareke Young,rating,64,66
+Jacob Saylors,Jacob Saylors,teamID,Free Agent,DET
 Jacob Saylors,Jacob Saylors,rating,64,66
+Leonard Taylor III,Leonard Taylor III,teamID,Free Agent,NE
 Leonard Taylor III,Leonard Taylor III,rating,67,65
+Ben Brown,Ben Brown,teamID,Free Agent,NE
 Ben Brown,Ben Brown,rating,67,65
+Brady Russell,Brady Russell,teamID,Free Agent,SEA
 Brady Russell,Brady Russell,rating,67,65
+Naquan Jones,Naquan Jones,teamID,Free Agent,SF
 Naquan Jones,Naquan Jones,rating,63,65
+Mitchell Trubisky,Mitchell Trubisky,teamID,Free Agent,TEN
 Mitchell Trubisky,Mitchell Trubisky,rating,63,65
+Dylan McMahon,Dylan McMahon,teamID,Free Agent,LAR
 Dylan McMahon,Dylan McMahon,rating,62,64
 Kevin Knowles,Kevin Knowles,teamID,KC,TB
 Kevin Knowles,Kevin Knowles,rating,62,64
+Joey Blount,Joey Blount,teamID,Free Agent,ARI
 Joey Blount,Joey Blount,rating,65,63
+Quinn Ewers,Quinn Ewers,teamID,Free Agent,JAX
 Quinn Ewers,Quinn Ewers,rating,65,63
+Nick Muse,Nick Muse,teamID,Free Agent,ATL
 Nick Muse,Nick Muse,rating,64,62
+Cooper Rush,Cooper Rush,teamID,Free Agent,ATL
 Cooper Rush,Cooper Rush,rating,64,62
+Cameron Jordan,Cameron Jordan,teamID,Free Agent,NO
 Cameron Jordan,Cameron Jordan,rating,76,79
+Arvell Reese,Arvell Reese,teamID,Rookie,NYG
 Arvell Reese,Arvell Reese,rating,82,79
+Jarran Reed,Jarran Reed,teamID,Free Agent,SEA
 Jarran Reed,Jarran Reed,rating,75,78
 Darius Slayton,Darius Slayton,teamID,NYG,IND
 Darius Slayton,Darius Slayton,rating,75,78
 Clark Phillips III,Clark Phillips III,teamID,ATL,CHI
 Clark Phillips III,Clark Phillips III,rating,78,75
+Ty Okada,Ty Okada,teamID,Free Agent,SEA
 Ty Okada,Ty Okada,rating,72,75
+Spencer Shrader,Spencer Shrader,teamID,Free Agent,IND
 Spencer Shrader,Spencer Shrader,rating,77,74
+Greg Gaines,Greg Gaines,teamID,Free Agent,BUF
 Greg Gaines,Greg Gaines,rating,70,73
+Jaishawn Barham,Jaishawn Barham,teamID,Rookie,DAL
 Jaishawn Barham,Jaishawn Barham,rating,76,73
+Darrick Forrest,Darrick Forrest,teamID,Free Agent,SF
 Darrick Forrest,Darrick Forrest,rating,74,71
+Ja'Sir Taylor,Ja'Sir Taylor,teamID,Free Agent,CIN
 Ja'Sir Taylor,Ja'Sir Taylor,rating,68,71
 Broderick Jones,Broderick Jones,teamID,PIT,DAL
 Broderick Jones,Broderick Jones,rating,74,71
+Cameron Thomas,Cameron Thomas,teamID,Free Agent,ATL
 Cameron Thomas,Cameron Thomas,rating,73,70
+Nick Moore,Nick Moore,teamID,Free Agent,BAL
 Nick Moore,Nick Moore,rating,67,70
 Jaden Crumedy,Jaden Crumedy,teamID,GB,HOU
 Jaden Crumedy,Jaden Crumedy,rating,73,70
 Emari Demercado,Emari Demercado,teamID,KC,DAL
 Emari Demercado,Emari Demercado,rating,73,70
+Grant Calcaterra,Grant Calcaterra,teamID,Free Agent,PHI
 Grant Calcaterra,Grant Calcaterra,rating,66,69
 Darrell Luter Jr.,Darrell Luter Jr,teamID,SF,LV
 Darrell Luter Jr.,Darrell Luter Jr,rating,66,69
+Drew Sample,Drew Sample,teamID,Free Agent,CIN
 Drew Sample,Drew Sample,rating,65,68
+Marcus Mbow,Marcus Mbow,teamID,Free Agent,NYG
 Marcus Mbow,Marcus Mbow,rating,64,67
+Beaux Collins,Beaux Collins,teamID,Free Agent,ATL
 Beaux Collins,Beaux Collins,rating,64,67
+Robert Tonyan,Robert Tonyan,teamID,Free Agent,PIT
 Robert Tonyan,Robert Tonyan,rating,70,67
+Ben VanSumeren,Ben VanSumeren,teamID,Free Agent,KC
 Ben VanSumeren,Ben VanSumeren,rating,64,67
+Tay Martin,Tay Martin,teamID,Free Agent,DET
 Tay Martin,Tay Martin,rating,64,67
 Sedrick Van Pran-Granger,Sedrick Van Pran-Granger,teamID,BUF,IND
+Luke Wypler,Luke Wypler,teamID,Free Agent,CLE
 Luke Wypler,Luke Wypler,rating,69,66
+Zayne Anderson,Zayne Anderson,teamID,Free Agent,MIA
 Zayne Anderson,Zayne Anderson,rating,63,66
 Marcellas Dial Jr.,Marcellas Dial Jr,teamID,NE,MIA
 Marcellas Dial Jr.,Marcellas Dial Jr,rating,69,66
+Josh Blackwell,Josh Blackwell,teamID,Free Agent,CHI
 Josh Blackwell,Josh Blackwell,rating,68,65
+Tyrell Shavers,Tyrell Shavers,teamID,Free Agent,BUF
 Tyrell Shavers,Tyrell Shavers,rating,62,65
+Matt Dickerson,Matt Dickerson,teamID,Free Agent,JAX
 Matt Dickerson,Matt Dickerson,rating,62,65
+Britain Covey,Britain Covey,teamID,Free Agent,PHI
 Britain Covey,Britain Covey,rating,62,65
+Seth McLaughlin,Seth McLaughlin,teamID,Free Agent,DET
 Seth McLaughlin,Seth McLaughlin,rating,67,64
+Skylar Thompson,Skylar Thompson,teamID,Free Agent,BAL
 Skylar Thompson,Skylar Thompson,rating,67,64
+Donovan Jennings,Donovan Jennings,teamID,Free Agent,GB
 Donovan Jennings,Donovan Jennings,rating,61,64
 Yasir Abdullah,Yasir Abdullah,teamID,JAX,ATL
 Yasir Abdullah,Yasir Abdullah,rating,67,64
+Brayden Willis,Brayden Willis,teamID,Free Agent,SF
 Brayden Willis,Brayden Willis,rating,66,63
+AJ Finley,AJ Finley,teamID,Free Agent,SEA
+William Wagner,William Wagner,teamID,Free Agent,CIN
 William Wagner,William Wagner,rating,60,63
+Tanner Ingle,Tanner Ingle,teamID,Free Agent,LAR
+Cal Adomitis,Cal Adomitis,teamID,Free Agent,NO
 Cal Adomitis,Cal Adomitis,rating,60,63
+Case Keenum,Case Keenum,teamID,Free Agent,CHI
 Case Keenum,Case Keenum,rating,60,63
+Chris Stoll,Chris Stoll,teamID,Free Agent,SEA
 Chris Stoll,Chris Stoll,rating,59,62
+Tristin McCollum,Tristin McCollum,teamID,Free Agent,LV
 Tristin McCollum,Tristin McCollum,rating,59,62
 Rasul Douglas,Rasul Douglas,teamID,MIA,WAS
 Rasul Douglas,Rasul Douglas,rating,78,77
+Carnell Tate,Carnell Tate,teamID,Rookie,TEN
 Carnell Tate,Carnell Tate,rating,81,77
 Darnell Mooney,Darnell Mooney,teamID,ATL,NYG
 Darnell Mooney,Darnell Mooney,rating,75,76
+Roger McCreary,Roger McCreary,teamID,Free Agent,DET
 Roger McCreary,Roger McCreary,rating,72,76
 Nate Hobbs,Nate Hobbs,teamID,GB,SF
 Nate Hobbs,Nate Hobbs,rating,72,76
 Jahlani Tavai,Jahlani Tavai,teamID,NE,JAX
 Jahlani Tavai,Jahlani Tavai,rating,74,75
+Montaric Brown,Montaric Brown,teamID,Free Agent,JAX
 Montaric Brown,Montaric Brown,rating,78,74
+Ben Bredeson,Ben Bredeson,teamID,Free Agent,TB
 Ben Bredeson,Ben Bredeson,rating,70,74
+Ozzy Trapilo,Ozzy Trapilo,teamID,Free Agent,CHI
 Ozzy Trapilo,Ozzy Trapilo,rating,72,73
+Odell Beckham Jr.,Odell Beckham Jr,teamID,Free Agent,NYG
 Odell Beckham Jr.,Odell Beckham Jr,rating,72,73
+Starling Thomas,Starling Thomas V,teamID,Free Agent,ARI
 Starling Thomas,Starling Thomas V,rating,69,73
 Tyree Wilson,Tyree Wilson,teamID,LV,NO
 Tyree Wilson,Tyree Wilson,rating,69,73
@@ -1108,238 +1208,431 @@ Isaac Yiadom,Isaac Yiadom,teamID,NO,WAS
 Isaac Yiadom,Isaac Yiadom,rating,68,72
 Lucas Patrick,Lucas Patrick,teamID,NYG,WAS
 Lucas Patrick,Lucas Patrick,rating,76,72
+Darrell Jackson Jr.,Darrell Jackson Jr,teamID,Rookie,NYJ
 Darrell Jackson Jr.,Darrell Jackson Jr,rating,73,72
+Eli Stowers,Eli Stowers,teamID,Rookie,PHI
 Eli Stowers,Eli Stowers,rating,76,72
 Jaleel McLaughlin,Jaleel McLaughlin,teamID,DEN,CLE
 Jaleel McLaughlin,Jaleel McLaughlin,rating,70,71
+Jerry Tillery,Jerry Tillery,teamID,Free Agent,IND
 Jerry Tillery,Jerry Tillery,rating,72,71
+Fabian Moreau,Fabian Moreau,teamID,Free Agent,WAS
 Fabian Moreau,Fabian Moreau,rating,67,71
 Jarrett Patterson,Jarrett Patterson,teamID,HOU,SF
 Jarrett Patterson,Jarrett Patterson,rating,66,70
+Kendrick Law,Kendrick Law,teamID,Rookie,DET
 Kendrick Law,Kendrick Law,rating,71,70
+Beau Stephens,Beau Stephens,teamID,Rookie,SEA
 Beau Stephens,Beau Stephens,rating,66,70
+Tyler Badie,Tyler Badie,teamID,Free Agent,DEN
 Tyler Badie,Tyler Badie,rating,70,69
+Kevin Coleman Jr.,Kevin Coleman Jr,teamID,Rookie,MIA
 Kevin Coleman Jr.,Kevin Coleman Jr,rating,70,69
+Ahmed Hassanein,Ahmed Hassanein,teamID,Free Agent,DET
 Ahmed Hassanein,Ahmed Hassanein,rating,72,68
+Drew Lock,Drew Lock,teamID,Free Agent,SEA
 Drew Lock,Drew Lock,rating,64,68
+Andrew Beck,Andrew Beck,teamID,Free Agent,NYJ
 Andrew Beck,Andrew Beck,rating,64,68
+Tim Smith,Tim Smith,teamID,Free Agent,IND
 Tim Smith,Tim Smith,rating,63,67
+Kene Nwangwu,Kene Nwangwu,teamID,Free Agent,NYJ
 Kene Nwangwu,Kene Nwangwu,rating,71,67
+Chukwuebuka Godrick,Chukwuebuka Godrick,teamID,Free Agent,MIA
 Chukwuebuka Godrick,Chukwuebuka Godrick,rating,66,67
+J.C. Davis,J.C. Davis,teamID,Rookie,NYG
 J.C. Davis,J.C. Davis,rating,66,67
+Jayden Price,Jayden Price,teamID,Free Agent,NO
 Jayden Price,Jayden Price,rating,70,66
+Ronnie Rivers,Ronnie Rivers,teamID,Free Agent,LAR
 Ronnie Rivers,Ronnie Rivers,rating,70,66
+Montorie Foster,Montorie Foster Jr,teamID,Free Agent,SEA
 Montorie Foster,Montorie Foster Jr,rating,62,66
+Daniel Thomas,Daniel Thomas,teamID,Free Agent,CLE
 Daniel Thomas,Daniel Thomas,rating,62,66
+Morgan Cox,Morgan Cox,teamID,Free Agent,TEN
 Morgan Cox,Morgan Cox,rating,62,66
+Trey Sermon,Trey Sermon,teamID,Free Agent,ATL
 Trey Sermon,Trey Sermon,rating,62,66
+Hayden Conner,Hayden Conner,teamID,Free Agent,ARI
 Hayden Conner,Hayden Conner,rating,69,65
+Austen Pleasants,Austen Pleasants,teamID,Free Agent,SF
 Austen Pleasants,Austen Pleasants,rating,61,65
+Aiden Fisher,Aiden Fisher,teamID,Rookie,HOU
 Aiden Fisher,Aiden Fisher,rating,66,65
+Keith Cooper Jr.,Keith Cooper Jr.,teamID,Free Agent,MIA
 Keith Cooper Jr.,Keith Cooper Jr.,rating,68,64
+Kayode Awosika,Kayode Awosika,teamID,Free Agent,LAC
 Kayode Awosika,Kayode Awosika,rating,63,64
+Jonathan Ford,Jonathan Ford,teamID,Free Agent,GB
 Jonathan Ford,Jonathan Ford,rating,64,63
+Jake Haener,Jake Haener,teamID,Free Agent,NYG
 Jake Haener,Jake Haener,rating,66,62
+Christian Kuntz,Christian Kuntz,teamID,Free Agent,PIT
 Christian Kuntz,Christian Kuntz,rating,66,62
+Brittain Brown,Brittain Brown,teamID,Free Agent,CHI
 Brittain Brown,Brittain Brown,rating,63,62
+Hayden Rucci,Hayden Rucci,teamID,Free Agent,LAC
 Hayden Rucci,Hayden Rucci,rating,65,61
+Tommy DeVito,Tommy DeVito,teamID,Free Agent,NE
 Tommy DeVito,Tommy DeVito,rating,65,61
+Kyle Allen,Kyle Allen,teamID,Free Agent,BUF
 Kyle Allen,Kyle Allen,rating,56,60
+Milo Eifler,Milo Eifler,teamID,Free Agent,TEN
 Milo Eifler,Milo Eifler,rating,61,57
 DeMario Davis,Demario Davis,teamID,NO,NYJ
 DeMario Davis,Demario Davis,rating,85,90
+Calais Campbell,Calais Campbell,teamID,Free Agent,BAL
 Calais Campbell,Calais Campbell,rating,77,82
+Jauan Jennings,Jauan Jennings,teamID,Free Agent,MIN
 Jauan Jennings,Jauan Jennings,rating,76,81
+Spencer Fano,Spencer Fano,teamID,Rookie,CLE
 Spencer Fano,Spencer Fano,rating,77,79
+Micah McFadden,Micah McFadden,teamID,Free Agent,NYG
 Micah McFadden,Micah McFadden,rating,70,75
+Germie Bernard,Germie Bernard,teamID,Rookie,PIT
 Germie Bernard,Germie Bernard,rating,80,75
+Max Iheanachor,Max Iheanachor,teamID,Rookie,PIT
 Max Iheanachor,Max Iheanachor,rating,80,75
+Braxton Jones,Braxton Jones,teamID,Free Agent,CHI
 Braxton Jones,Braxton Jones,rating,69,74
+Davison Igbinosun,Davison Igbinosun,teamID,Rookie,BUF
 Davison Igbinosun,Davison Igbinosun,rating,79,74
+Derek Barnett,Derek Barnett,teamID,Free Agent,CLE
 Derek Barnett,Derek Barnett,rating,68,73
+Markel Bell,Markel Bell,teamID,Rookie,PHI
 Markel Bell,Markel Bell,rating,71,73
+Joshua Josephs,Joshua Josephs,teamID,Rookie,WAS
 Joshua Josephs,Joshua Josephs,rating,77,72
+Tanoh Kpassagnon,Tanoh Kpassagnon,teamID,Free Agent,TEN
 Tanoh Kpassagnon,Tanoh Kpassagnon,rating,66,71
+Darius Muasau,Darius Muasau,teamID,Free Agent,NE
 Darius Muasau,Darius Muasau,rating,64,69
+Byron Young,Byron Young,teamID,Free Agent,PHI
 Byron Young,Byron Young,rating,64,69
+Xavier Smith,Xavier Smith,teamID,Free Agent,LAR
 Xavier Smith,Xavier Smith,rating,66,68
 Jaylen Reed,Jaylen Reed,teamID,HOU,NE
 Jaylen Reed,Jaylen Reed,rating,63,68
 Johnny Mundt,Johnny Mundt,teamID,JAX,PHI
 Johnny Mundt,Johnny Mundt,rating,73,68
+Brian Parker II,Brian Parker II,teamID,Rookie,CIN
 Brian Parker II,Brian Parker II,rating,70,68
+Chris Blair,Chris Blair,teamID,Free Agent,ATL
 Chris Blair,Chris Blair,rating,69,67
+Eric Saubert,Eric Saubert,teamID,Free Agent,SEA
 Eric Saubert,Eric Saubert,rating,62,67
+Daniel Hardy,Daniel Hardy,teamID,Free Agent,CHI
 Daniel Hardy,Daniel Hardy,rating,62,67
+Braiden McGregor,Braiden McGregor,teamID,Free Agent,NYJ
 Braiden McGregor,Braiden McGregor,rating,62,67
+Christian Braswell,Christian Braswell,teamID,Free Agent,JAX
 Christian Braswell,Christian Braswell,rating,64,66
+Jalen Davis,Jalen Davis,teamID,Free Agent,CIN
 Jalen Davis,Jalen Davis,rating,61,66
 Bryce Cabeldue,Bryce Cabeldue,teamID,SEA,LV
 Bryce Cabeldue,Bryce Cabeldue,rating,68,66
+Bill Murray,Bill Murray,teamID,Free Agent,LAR
 Bill Murray,Bill Murray,rating,70,65
+Marcelino McCrary-Ball,Marcelino McCrary-Ball,teamID,Free Agent,NYJ
 Marcelino McCrary-Ball,Marcelino McCrary-Ball,rating,59,64
+Storm Duck,Storm Duck,teamID,Free Agent,MIA
 Storm Duck,Storm Duck,rating,68,63
+Atonio Mafi,Atonio Mafi,teamID,Free Agent,TEN
 Atonio Mafi,Atonio Mafi,rating,60,62
+Stefon Diggs,Stefon Diggs,teamID,Free Agent,WAS
 Stefon Diggs,Stefon Diggs,rating,80,86
 Bobby Okereke,Bobby Okereke,teamID,NYG,CAR
 Bobby Okereke,Bobby Okereke,rating,77,83
+Harrison Phillips,Harrison Phillips,teamID,Free Agent,NYJ
 Harrison Phillips,Harrison Phillips,rating,72,78
+R Mason Thomas,R Mason Thomas,teamID,Rookie,KC
+Greg Van Roten,Greg Van Roten,teamID,Free Agent,NE
 Greg Van Roten,Greg Van Roten,rating,70,76
+Jonnu Smith,Jonnu Smith,teamID,Free Agent,GB
 Jonnu Smith,Jonnu Smith,rating,70,76
 Tutu Atwell,Tutu Atwell,teamID,MIA,LAR
 Tutu Atwell,Tutu Atwell,rating,78,75
+Nathan Shepherd,Nathan Shepherd,teamID,Free Agent,NO
 Nathan Shepherd,Nathan Shepherd,rating,71,74
+Damar Hamlin,Damar Hamlin,teamID,Free Agent,BUF
 Damar Hamlin,Damar Hamlin,rating,67,73
+Malik Davis,Malik Davis,teamID,Free Agent,DAL
 Malik Davis,Malik Davis,rating,67,73
+Mike Ford,Mike Ford Jr,teamID,Free Agent,ATL
 Mike Ford,Mike Ford Jr,rating,66,72
+Genesis Smith,Genesis Smith,teamID,Rookie,LAC
 Genesis Smith,Genesis Smith,rating,75,72
+Jalen Farmer,Jalen Farmer,teamID,Rookie,IND
 Jalen Farmer,Jalen Farmer,rating,75,72
+Ethan Pocic,Ethan Pocic,teamID,Free Agent,BAL
 Ethan Pocic,Ethan Pocic,rating,76,70
+David Sills,David Sills V,teamID,Free Agent,TB
 David Sills,David Sills V,rating,66,69
+Dominique Robinson,Dominique Robinson,teamID,Free Agent,HOU
 Dominique Robinson,Dominique Robinson,rating,63,69
+Rakeem Nunez-Roches,Rakeem Nunez-Roches Sr,teamID,Free Agent,TB
 Rakeem Nunez-Roches,Rakeem Nunez-Roches Sr,rating,63,69
+Hezekiah Masses,Hezekiah Masses,teamID,Rookie,LV
 Hezekiah Masses,Hezekiah Masses,rating,72,69
+Brevin Jordan,Brevin Jordan,teamID,Free Agent,HOU
 Brevin Jordan,Brevin Jordan,rating,74,68
+Carson Wentz,Carson Wentz,teamID,Free Agent,MIN
 Carson Wentz,Carson Wentz,rating,62,68
+David Long,David Long Jr,teamID,Free Agent,NO
 David Long,David Long Jr,rating,62,68
+Michael Deiter,Michael Deiter,teamID,Free Agent,DEN
 Michael Deiter,Michael Deiter,rating,69,66
+Ryan Van Demark,Ryan Van Demark,teamID,Free Agent,MIN
 Ryan Van Demark,Ryan Van Demark,rating,70,64
+Malik Herring,Malik Herring,teamID,Free Agent,MIA
 Malik Herring,Malik Herring,rating,60,63
+Alex Ward,Alex Ward,teamID,Free Agent,LV
 Alex Ward,Alex Ward,rating,56,62
+Colson Yankoff,Colson Yankoff,teamID,Free Agent,WAS
 Colson Yankoff,Colson Yankoff,rating,67,61
+Scott Daly,Scott Daly,teamID,Free Agent,CHI
 Scott Daly,Scott Daly,rating,53,59
+Harrison Smith,Harrison Smith,teamID,Free Agent,MIN
 Harrison Smith,Harrison Smith,rating,80,87
+Keenan Allen,Keenan Allen,teamID,Free Agent,IND
 Keenan Allen,Keenan Allen,rating,75,82
+Jadeveon Clowney,Jadeveon Clowney,teamID,Free Agent,HOU
 Jadeveon Clowney,Jadeveon Clowney,rating,73,80
 L'Jarius Sneed,L'Jarius Sneed,teamID,TEN,KC
 L'Jarius Sneed,L'Jarius Sneed,rating,73,80
+Calvin Austin III,Calvin Austin,teamID,Free Agent,NYG
 Calvin Austin III,Calvin Austin,rating,69,76
+Mekhi Blackmon,Mekhi Blackmon,teamID,Free Agent,CLE
 Mekhi Blackmon,Mekhi Blackmon,rating,69,76
+Peter Woods,Peter Woods,teamID,Rookie,KC
 Peter Woods,Peter Woods,rating,83,76
+De'Zhaun Stribling,De'Zhaun Stribling,teamID,Rookie,SF
 De'Zhaun Stribling,De'Zhaun Stribling,rating,77,76
+Emmanuel McNeil-Warren,Emmanuel McNeil-Warren,teamID,Rookie,CLE
 Emmanuel McNeil-Warren,Emmanuel McNeil-Warren,rating,79,75
+John Metchie III,John Metchie III,teamID,Free Agent,CAR
 John Metchie III,John Metchie III,rating,66,73
+Ameer Abdullah,Ameer Abdullah,teamID,Free Agent,JAX
 Ameer Abdullah,Ameer Abdullah,rating,66,73
+Solomon Thomas,Solomon Thomas,teamID,Free Agent,TEN
 Solomon Thomas,Solomon Thomas,rating,65,72
+Devin Moore,Devin Moore,teamID,Rookie,DAL
 Devin Moore,Devin Moore,rating,75,71
+Will Lee III,Will Lee III,teamID,Rookie,CAR
 Will Lee III,Will Lee III,rating,78,71
+Anthony Belton,Anthony Belton,teamID,Free Agent,GB
 Anthony Belton,Anthony Belton,rating,63,70
+Jon Weeks,Jon Weeks,teamID,Free Agent,SF
 Jon Weeks,Jon Weeks,rating,62,69
+Jude Bowry,Jude Bowry,teamID,Rookie,BUF
 Jude Bowry,Jude Bowry,rating,73,69
+Darius Cooper,Darius Cooper,teamID,Free Agent,PHI
 Darius Cooper,Darius Cooper,rating,61,68
+Jalen Brooks,Jalen Brooks,teamID,Free Agent,ARI
 Jalen Brooks,Jalen Brooks,rating,61,68
+Otito Ogbonnia,Otito Ogbonnia,teamID,Free Agent,DAL
 Otito Ogbonnia,Otito Ogbonnia,rating,61,68
+Drew Shelton,Drew Shelton,teamID,Rookie,DAL
 Drew Shelton,Drew Shelton,rating,72,68
+CJ Daniels,CJ Daniels,teamID,Rookie,LAR
 CJ Daniels,CJ Daniels,rating,69,68
+Nikko Remigio,Nikko Remigio,teamID,Free Agent,KC
 Nikko Remigio,Nikko Remigio,rating,63,67
+George Holani,George Holani,teamID,Free Agent,SEA
 George Holani,George Holani,rating,60,67
 DeeJay Dallas,DeeJay Dallas,teamID,JAX,MIN
 DeeJay Dallas,DeeJay Dallas,rating,71,67
+Thomas Booker,Thomas Booker IV,teamID,Free Agent,LV
 Thomas Booker,Thomas Booker IV,rating,59,66
+Ameer Speed,Ameer Speed,teamID,Free Agent,DAL
 Ameer Speed,Ameer Speed,rating,61,65
+D.J. Montgomery,D.J. Montgomery,teamID,Free Agent,IND
 D.J. Montgomery,D.J. Montgomery,rating,57,64
+Andre Jones Jr.,Andre Jones Jr,teamID,Free Agent,MIA
 Andre Jones Jr.,Andre Jones Jr,rating,67,63
+James Hudson,James Hudson III,teamID,Free Agent,TEN
 James Hudson,James Hudson III,rating,56,63
+Rex Sunahara,Rex Sunahara,teamID,Free Agent,CLE
 Rex Sunahara,Rex Sunahara,rating,54,58
+Darren Waller,Darren Waller,teamID,Free Agent,CAR
 Darren Waller,Darren Waller,rating,74,79
+Devonte Wyatt,Devonte Wyatt,teamID,Free Agent,GB
 Devonte Wyatt,Devonte Wyatt,rating,70,78
+Daniel Carlson,Daniel Carlson,teamID,Free Agent,NO
 Daniel Carlson,Daniel Carlson,rating,69,77
+Shelby Harris,Shelby Harris,teamID,Free Agent,NYG
 Shelby Harris,Shelby Harris,rating,69,77
+Martin Emerson,Martin Emerson Jr,teamID,Free Agent,NO
 Martin Emerson,Martin Emerson Jr,rating,70,75
+Avieon Terrell,Avieon Terrell,teamID,Rookie,ATL
 Avieon Terrell,Avieon Terrell,rating,83,75
+Kayden McDonald,Kayden McDonald,teamID,Rookie,HOU
 Kayden McDonald,Kayden McDonald,rating,83,75
+Caleb Lomu,Caleb Lomu,teamID,Rookie,NE
 Caleb Lomu,Caleb Lomu,rating,83,75
 Trevin Wallace,Trevin Wallace,teamID,CAR,NYJ
 Trevin Wallace,Trevin Wallace,rating,66,74
+Andrei Iosivas,Andrei Iosivas,teamID,Free Agent,CIN
 Andrei Iosivas,Andrei Iosivas,rating,68,73
+Jamal Adams,Jamal Adams,teamID,Free Agent,MIN
 Jamal Adams,Jamal Adams,rating,67,72
 Noah Igbinoghene,Noah Igbinoghene,teamID,SEA,CLE
 Noah Igbinoghene,Noah Igbinoghene,rating,63,71
+Mason Tipton,Mason Tipton,teamID,Free Agent,NO
 Mason Tipton,Mason Tipton,rating,65,70
+Damarri Mathis,Damarri Mathis,teamID,Free Agent,CLE
 Damarri Mathis,Damarri Mathis,rating,62,70
+Kentavius Street,Kentavius Street,teamID,Free Agent,CHI
 Kentavius Street,Kentavius Street,rating,62,70
+Lil'Jordan Humphrey,Lil'Jordan Humphrey,teamID,Free Agent,DEN
 Lil'Jordan Humphrey,Lil'Jordan Humphrey,rating,61,69
+Julius Chestnut,Julius Chestnut,teamID,Free Agent,TEN
 Julius Chestnut,Julius Chestnut,rating,73,68
+Jalon Kilgore,Jalon Kilgore,teamID,Rookie,BUF
 Jalon Kilgore,Jalon Kilgore,rating,72,67
+DJ Campbell,DJ Campbell,teamID,Rookie,MIA
 DJ Campbell,DJ Campbell,rating,65,67
+Davis Mills,Davis Mills,teamID,Free Agent,HOU
 Davis Mills,Davis Mills,rating,71,66
+Kyle McCord,Kyle McCord,teamID,Free Agent,MIA
 Kyle McCord,Kyle McCord,rating,70,65
+Tip Reiman,Tip Reiman,teamID,Free Agent,ARI
 Tip Reiman,Tip Reiman,rating,60,65
+Rejzohn Wright,Rejzohn Wright,teamID,Free Agent,NO
 Rejzohn Wright,Rejzohn Wright,rating,60,65
+Skyler Gill-Howard,Skyler Gill-Howard,teamID,Rookie,DET
 Skyler Gill-Howard,Skyler Gill-Howard,rating,70,65
+Nic Jones,Nic Jones,teamID,Free Agent,NYG
 Nic Jones,Nic Jones,rating,69,64
+Khalil Dorsey,Khalil Dorsey,teamID,Free Agent,DET
 Khalil Dorsey,Khalil Dorsey,rating,56,64
+Josh Fryar,Josh Fryar,teamID,Free Agent,ARI
 Josh Fryar,Josh Fryar,rating,71,63
+Julian Hill,Julian Hill,teamID,Free Agent,NE
 Julian Hill,Julian Hill,rating,55,63
+Mark Redman,Mark Redman,teamID,Free Agent,GB
 Mark Redman,Mark Redman,rating,55,63
 Nick Samac,Nick Samac,teamID,CAR,MIN
 Nick Samac,Nick Samac,rating,70,62
+Caleb Lohner,Caleb Lohner,teamID,Free Agent,DEN
 Caleb Lohner,Caleb Lohner,rating,65,60
+Mansoor Delane,Mansoor Delane,teamID,Rookie,KC
 Mansoor Delane,Mansoor Delane,rating,88,79
+Xavier Woods,Xavier Woods,teamID,Free Agent,CHI
 Xavier Woods,Xavier Woods,rating,69,78
+Hogan Hatten,Hogan Hatten,teamID,Free Agent,DET
 Hogan Hatten,Hogan Hatten,rating,69,78
+Jacob Rodriguez,Jacob Rodriguez,teamID,Rookie,MIA
+Gabe Jacas,Gabe Jacas,teamID,Rookie,NE
 Gabe Jacas,Gabe Jacas,rating,82,76
+Keyron Crawford,Keyron Crawford,teamID,Rookie,LV
 Keyron Crawford,Keyron Crawford,rating,84,75
+Alec Ingold,Alec Ingold,teamID,Free Agent,LAC
 Alec Ingold,Alec Ingold,rating,65,74
+Terrell Burgess,Terrell Burgess,teamID,Free Agent,TEN
 Terrell Burgess,Terrell Burgess,rating,68,71
+Tre Brown,Tre Brown,teamID,Free Agent,NYJ
 Tre Brown,Tre Brown,rating,65,71
+Malik Muhammad,Malik Muhammad II,teamID,Rookie,CHI
 Malik Muhammad,Malik Muhammad II,rating,80,71
+Julian Neal,Julian Neal,teamID,Rookie,SEA
 Julian Neal,Julian Neal,rating,77,71
+M.J. Stewart,M.J. Stewart Jr,teamID,Free Agent,HOU
 M.J. Stewart,M.J. Stewart Jr,rating,64,70
+Ephesians Prysock,Ephesians Prysock,teamID,Rookie,SF
 Ephesians Prysock,Ephesians Prysock,rating,76,70
+Kamal Hadden,Kamal Hadden,teamID,Free Agent,GB
 Kamal Hadden,Kamal Hadden,rating,76,67
+Khalid Kareem,Khalid Kareem,teamID,Free Agent,SF
 Khalid Kareem,Khalid Kareem,rating,58,67
+Jager Burton,Jager Burton,teamID,Rookie,GB
 Jager Burton,Jager Burton,rating,73,67
 Joshua Ezeudu,Joshua Ezeudu,teamID,NYG,KC
 Joshua Ezeudu,Joshua Ezeudu,rating,72,66
 Cameron Williams,Cameron Williams,teamID,PHI,ATL
 Cameron Williams,Cameron Williams,rating,72,66
+Mike Caliendo,Mike Caliendo,teamID,Free Agent,KC
 Mike Caliendo,Mike Caliendo,rating,71,65
+Swayze Bozeman,Swayze Bozeman,teamID,Free Agent,CIN
 Swayze Bozeman,Swayze Bozeman,rating,58,64
+Kendall Williamson,Kendall Williamson,teamID,Free Agent,LAC
 Kendall Williamson,Kendall Williamson,rating,55,64
+Brady Cook,Brady Cook,teamID,Free Agent,MIA
 Brady Cook,Brady Cook,rating,57,63
+Evan Deckers,Evan Deckers,teamID,Free Agent,TB
 Evan Deckers,Evan Deckers,rating,69,60
+DaQuan Jones,DaQuan Jones,teamID,Free Agent,NE
 DaQuan Jones,DaQuan Jones,rating,71,81
+Malachi Lawrence,Malachi Lawrence,teamID,Rookie,DAL
 Malachi Lawrence,Malachi Lawrence,rating,82,78
+Cashius Howell,Cashius Howell,teamID,Rookie,CIN
 Cashius Howell,Cashius Howell,rating,81,77
 Dee Winters,Dee Winters,teamID,SF,DAL
 Dee Winters,Dee Winters,rating,70,77
+Jacob Martin,Jacob Martin,teamID,Free Agent,TEN
 Jacob Martin,Jacob Martin,rating,66,76
+Makai Lemon,Makai Lemon,teamID,Rookie,PHI
 Makai Lemon,Makai Lemon,rating,80,76
+Caleb Banks,Caleb Banks,teamID,Rookie,MIN
 Caleb Banks,Caleb Banks,rating,86,76
 Moro Ojomo,Moro Ojomo,position,DE,DT
+Tim Patrick,Tim Patrick,teamID,Free Agent,NYJ
 Tim Patrick,Tim Patrick,rating,64,74
+A.J. Haulcy,A.J. Haulcy,teamID,Rookie,IND
 A.J. Haulcy,A.J. Haulcy,rating,81,74
+Andrew Billings,Andrew Billings,teamID,Free Agent,ARI
 Andrew Billings,Andrew Billings,rating,63,73
 Caleb Ransaw,Caleb Ransaw,position,CB,S
 Chauncey Golston,Chauncey Golston,position,DE,DT
+Jake Slaughter,Jake Slaughter,teamID,Rookie,LAC
 Jake Slaughter,Jake Slaughter,rating,83,73
+Domonique Orange,Domonique Orange,teamID,Rookie,MIN
 Domonique Orange,Domonique Orange,rating,83,73
+Gracen Halton,Gracen Halton,teamID,Rookie,SF
 Gracen Halton,Gracen Halton,rating,82,72
+Kamari Ramsey,Kamari Ramsey,teamID,Rookie,HOU
 Kamari Ramsey,Kamari Ramsey,rating,79,72
+Trevis Gipson,Trevis Gipson,teamID,Free Agent,CAR
 Trevis Gipson,Trevis Gipson,rating,61,71
+Neville Gallimore,Neville Gallimore,teamID,Free Agent,CHI
 Neville Gallimore,Neville Gallimore,rating,61,71
 Ronnie Harrison,Ronnie Harrison Jr,position,MLB,OLB
+Chandler Rivers,Chandler Rivers,teamID,Rookie,BAL
 Chandler Rivers,Chandler Rivers,rating,75,71
+Kaleb Elarms-Orr,Kaleb Elarms-Orr,teamID,Rookie,BUF
 Kaleb Elarms-Orr,Kaleb Elarms-Orr,rating,64,71
 Jordan Hancock,Jordan Hancock,position,CB,S
 Maason Smith,Maason Smith,teamID,JAX,ATL
 Maason Smith,Maason Smith,rating,63,70
+Billy Schrauth,Billy Schrauth,teamID,Rookie,TB
 Billy Schrauth,Billy Schrauth,rating,79,69
+Charles Demmings,Charles Demmings,teamID,Rookie,MIN
 Charles Demmings,Charles Demmings,rating,73,69
+Tremon Smith,Tremon Smith,teamID,Free Agent,HOU
 Tremon Smith,Tremon Smith,rating,58,68
+Tom Kennedy,Tom Kennedy,teamID,Free Agent,DET
 Tom Kennedy,Tom Kennedy,rating,58,68
+Matt Hennessy,Matt Hennessy,teamID,Free Agent,DAL
 Matt Hennessy,Matt Hennessy,rating,57,67
 Elijah Simmons,Elijah Simmons,position,DE,DT
+Brenton Cox Jr.,Brenton Cox,teamID,Free Agent,GB
 Brenton Cox Jr.,Brenton Cox,rating,56,66
+Reese Taylor,Reese Taylor,teamID,Free Agent,MIA
 Reese Taylor,Reese Taylor,rating,56,66
+Devon Key,Devon Key,teamID,Free Agent,DEN
 Devon Key,Devon Key,rating,72,65
+Zeek Biggers,Zeek Biggers,teamID,Free Agent,MIA
 Zeek Biggers,Zeek Biggers,rating,58,65
+Asim Richards,Asim Richards,teamID,Free Agent,NO
 Asim Richards,Asim Richards,rating,57,64
+Sam Ehlinger,Sam Ehlinger,teamID,Free Agent,DEN
 Sam Ehlinger,Sam Ehlinger,rating,64,57
 Jalen Pitre,Jalen Pitre,position,S,CB
 Jalen Pitre,Jalen Pitre,rating,87,86
+Quay Walker,Quay Walker,teamID,Free Agent,LV
 Quay Walker,Quay Walker,rating,69,80
+Rueben Bain Jr.,Rueben Bain Jr,teamID,Rookie,TB
 Rueben Bain Jr.,Rueben Bain Jr,rating,91,80
 Odafe Oweh,Odafe Oweh,position,OLB,DE
 Odafe Oweh,Odafe Oweh,rating,79,80
@@ -1353,7 +1646,9 @@ Uchenna Nwosu,Uchenna Nwosu,position,OLB,DE
 Uchenna Nwosu,Uchenna Nwosu,rating,77,76
 Nic Scourton,Nic Scourton,position,OLB,DE
 Nic Scourton,Nic Scourton,rating,76,75
+Omar Cooper Jr.,Omar Cooper Jr,teamID,Rookie,NYJ
 Omar Cooper Jr.,Omar Cooper Jr,rating,83,75
+Denzel Boston,Denzel Boston,teamID,Rookie,CLE
 Denzel Boston,Denzel Boston,rating,86,75
 Da'Shawn Hand,Da'Shawn Hand,position,DE,DT
 Da'Shawn Hand,Da'Shawn Hand,rating,73,74
@@ -1361,27 +1656,39 @@ Landon Jackson,Landon Jackson,position,DE,DT
 Landon Jackson,Landon Jackson,rating,73,74
 Levi Onwuzurike,Levi Onwuzurike,position,DE,DT
 Levi Onwuzurike,Levi Onwuzurike,rating,75,74
+Ashtyn Davis,Ashtyn Davis,teamID,Free Agent,SF
 Ashtyn Davis,Ashtyn Davis,rating,65,73
+Marquez Valdes-Scantling,Marquez Valdes-Scantling,teamID,Free Agent,LAC
 Marquez Valdes-Scantling,Marquez Valdes-Scantling,rating,64,72
+Akeem Davis-Gaither,Akeem Davis-Gaither,teamID,Free Agent,IND
 Akeem Davis-Gaither,Akeem Davis-Gaither,rating,64,72
+Ja'Marcus Ingram,Ja'Marcus Ingram,teamID,Free Agent,HOU
 Ja'Marcus Ingram,Ja'Marcus Ingram,rating,64,72
+Chris Moore,Chris Moore,teamID,Free Agent,BAL
 Chris Moore,Chris Moore,rating,61,72
+Mario Edwards,Mario Edwards Jr,teamID,Free Agent,HOU
 Mario Edwards,Mario Edwards Jr,rating,61,72
 Andy Dalton,Andy Dalton,teamID,CAR,PHI
 Andy Dalton,Andy Dalton,rating,79,71
 Damone Clark,Damone Clark,position,OLB,MLB
 Damone Clark,Damone Clark,rating,70,71
+Shy Tuttle,Shy Tuttle,teamID,Free Agent,WAS
 Shy Tuttle,Shy Tuttle,rating,63,71
 Cody Simon,Cody Simon,position,MLB,OLB
 Cody Simon,Cody Simon,rating,71,70
 Jared Wilson,Jared Wilson,position,OG,C
 Jared Wilson,Jared Wilson,rating,69,70
+Trey Pipkins,Trey Pipkins III,teamID,Free Agent,LAC
 Trey Pipkins,Trey Pipkins III,rating,61,69
+Mitchell Fraboni,Mitchell Fraboni,teamID,Free Agent,DEN
 Mitchell Fraboni,Mitchell Fraboni,rating,60,68
 Mike Morris,Mike Morris,position,DE,DT
 Mike Morris,Mike Morris,rating,69,68
+Simi Fehoko,Simi Fehoko,teamID,Free Agent,ARI
 Simi Fehoko,Simi Fehoko,rating,59,67
+Nate Boerkircher,Nate Boerkircher,teamID,Rookie,JAX
 Nate Boerkircher,Nate Boerkircher,rating,72,67
+Jack Endries,Jack Endries,teamID,Rookie,CIN
 Jack Endries,Jack Endries,rating,74,66
 James Williams,James Williams Sr,position,MLB,OLB
 James Williams,James Williams Sr,rating,65,66
@@ -1389,10 +1696,13 @@ Bam Martin-Scott,Bam Martin-Scott,position,MLB,OLB
 Bam Martin-Scott,Bam Martin-Scott,rating,64,63
 Edgerrin Cooper,Edgerrin Cooper,position,MLB,OLB
 Edgerrin Cooper,Edgerrin Cooper,rating,82,80
+Zach Wood,Zach Wood,teamID,Free Agent,NO
 Zach Wood,Zach Wood,rating,67,79
 Omar Speights,Omar Speights,position,MLB,OLB
 Omar Speights,Omar Speights,rating,76,78
+Najee Harris,Najee Harris,teamID,Free Agent,NYG
 Najee Harris,Najee Harris,rating,65,77
+Jadarian Price,Jadarian Price,teamID,Rookie,SEA
 Jadarian Price,Jadarian Price,rating,85,76
 E.J. Speed,E.J. Speed,position,MLB,OLB
 E.J. Speed,E.J. Speed,rating,77,75
@@ -1400,17 +1710,25 @@ Jawaan Taylor,Jawaan Taylor,teamID,KC,ATL
 Jawaan Taylor,Jawaan Taylor,rating,63,75
 Justin Strnad,Justin Strnad,position,MLB,OLB
 Justin Strnad,Justin Strnad,rating,72,74
+Darrell Baker Jr.,Darrell Baker Jr,teamID,Free Agent,MIA
 Darrell Baker Jr.,Darrell Baker Jr,rating,62,74
+Dani Dennis-Sutton,Dani Dennis-Sutton,teamID,Rookie,GB
 Dani Dennis-Sutton,Dani Dennis-Sutton,rating,80,74
+Jake Golday,Jake Golday,teamID,Rookie,MIN
 Jake Golday,Jake Golday,rating,80,74
+Payton Turner,Payton Turner,teamID,Free Agent,DET
 Payton Turner,Payton Turner,rating,61,73
 Blake Grupe,Blake Grupe,teamID,IND,NYJ
 Blake Grupe,Blake Grupe,rating,82,73
+Roy Robertson-Harris,Roy Robertson-Harris,teamID,Free Agent,NYG
 Roy Robertson-Harris,Roy Robertson-Harris,rating,60,72
 Jack Sawyer,Jack Sawyer,position,OLB,DE
 Jack Sawyer,Jack Sawyer,rating,70,72
+Jonathan Mingo,Jonathan Mingo,teamID,Free Agent,DAL
 Jonathan Mingo,Jonathan Mingo,rating,59,71
+Kaytron Allen,Kaytron Allen,teamID,Rookie,WAS
 Kaytron Allen,Kaytron Allen,rating,80,71
+Demond Claiborne,Demond Claiborne,teamID,Rookie,MIN
 Demond Claiborne,Demond Claiborne,rating,76,70
 James Lynch,James Lynch,position,DE,DT
 James Lynch,James Lynch,rating,71,69
@@ -1418,9 +1736,11 @@ Marist Liufau,Marist Liufau,position,OLB,DE
 Marist Liufau,Marist Liufau,rating,67,69
 Decamerion Richardson,Decamerion Richardson,teamID,LV,NO
 Decamerion Richardson,Decamerion Richardson,rating,57,69
+Dawand Jones,Dawand Jones,teamID,Free Agent,CLE
 Dawand Jones,Dawand Jones,rating,56,68
 Jeremiah Trotter Jr.,Jeremiah Trotter Jr,position,MLB,OLB
 Jeremiah Trotter Jr.,Jeremiah Trotter Jr,rating,66,68
+Jared Wayne,Jared Wayne,teamID,Free Agent,HOU
 Jared Wayne,Jared Wayne,rating,58,67
 Trevor Keegan,Trevor Keegan,teamID,DAL,MIN
 Trevor Keegan,Trevor Keegan,rating,78,66
@@ -1428,14 +1748,18 @@ Jamal Hill,Jamal Hill,position,MLB,OLB
 Jamal Hill,Jamal Hill,rating,68,66
 Hunter Long,Hunter Long,teamID,JAX,ARI
 Hunter Long,Hunter Long,rating,77,65
+Anthony Campbell,Anthony Campbell,teamID,Free Agent,GB
 Anthony Campbell,Anthony Campbell,rating,73,64
+E.J. Jenkins,E.J. Jenkins,teamID,Free Agent,PHI
 E.J. Jenkins,E.J. Jenkins,rating,67,58
 T.J. Watt,T.J. Watt,position,OLB,DE
 Zack Baun,Zack Baun,position,MLB,OLB
 Zack Baun,Zack Baun,rating,90,93
+Budda Baker,Budda Baker,teamID,Free Agent,ARI
 Budda Baker,Budda Baker,rating,77,90
 Brian Burns,Brian Burns,position,OLB,DE
 Brian Burns,Brian Burns,rating,92,89
+Jamel Dean,Jamel Dean,teamID,Free Agent,PIT
 Jamel Dean,Jamel Dean,rating,76,86
 Jonathon Cooper,Jonathon Cooper,position,OLB,DE
 Jonathon Cooper,Jonathon Cooper,rating,87,84
@@ -1445,31 +1769,49 @@ Taron Johnson,Taron Johnson,teamID,BUF,LV
 Taron Johnson,Taron Johnson,rating,70,83
 Daiyan Henley,Daiyan Henley,position,MLB,OLB
 Daiyan Henley,Daiyan Henley,rating,79,82
+David Bailey,David Bailey,teamID,Rookie,NYJ
 David Bailey,David Bailey,rating,88,81
+Romeo Doubs,Romeo Doubs,teamID,Free Agent,NE
 Romeo Doubs,Romeo Doubs,rating,66,79
+Akheem Mesidor,Akheem Mesidor,teamID,Rookie,LAC
 Akheem Mesidor,Akheem Mesidor,rating,78,79
+Rayshawn Jenkins,Rayshawn Jenkins,teamID,Free Agent,PIT
 Rayshawn Jenkins,Rayshawn Jenkins,rating,64,77
 Derick Hall,Derick Hall,position,OLB,DE
 Derick Hall,Derick Hall,rating,74,77
+Zion Young,Zion Young,teamID,Rookie,BAL
 Zion Young,Zion Young,rating,86,76
 Christian Elliss,Christian Elliss,position,MLB,OLB
 Christian Elliss,Christian Elliss,rating,78,75
+Antonio Williams,Antonio Williams,teamID,Rookie,WAS
 Antonio Williams,Antonio Williams,rating,88,75
+D'Angelo Ponds,D'Angelo Ponds,teamID,Rookie,NYJ
 D'Angelo Ponds,D'Angelo Ponds,rating,85,75
+Blake Miller,Blake Miller,teamID,Rookie,DET
 Blake Miller,Blake Miller,rating,85,75
+Jermod McCoy,Jermod McCoy,teamID,Rookie,LV
 Jermod McCoy,Jermod McCoy,rating,84,74
 Anthony Nelson,Anthony Nelson,position,OLB,DE
 Anthony Nelson,Anthony Nelson,rating,77,74
+Tyler Ott,Tyler Ott,teamID,Free Agent,WAS
 Tyler Ott,Tyler Ott,rating,60,73
+Devin White,Devin White,teamID,Free Agent,DET
 Devin White,Devin White,rating,60,73
+Chris McClellan,Chris McClellan,teamID,Rookie,GB
 Chris McClellan,Chris McClellan,rating,80,73
+Zachariah Branch,Zachariah Branch,teamID,Rookie,ATL
 Zachariah Branch,Zachariah Branch,rating,83,73
 Princely Umanmielen,Princely Umanmielen,position,OLB,DE
 Princely Umanmielen,Princely Umanmielen,rating,69,72
+Ross Matiscik,Ross Matiscik,teamID,Free Agent,JAX
 Ross Matiscik,Ross Matiscik,rating,62,72
+Ja'Kobi Lane,Ja'Kobi Lane,teamID,Rookie,BAL
 Ja'Kobi Lane,Ja'Kobi Lane,rating,82,72
+Trey Zuhn III,Trey Zuhn III,teamID,Rookie,LV
 Trey Zuhn III,Trey Zuhn III,rating,65,72
+Tacario Davis,Tacario Davis,teamID,Rookie,CIN
 Tacario Davis,Tacario Davis,rating,81,71
+Jeremiah Wright,Jeremiah Wright,teamID,Rookie,NO
 Jeremiah Wright,Jeremiah Wright,rating,61,71
 Colby Wooden,Colby Wooden,teamID,IND,NO
 Colby Wooden,Colby Wooden,rating,56,69
@@ -1477,21 +1819,28 @@ David Walker,David Walker,position,OLB,DE
 David Walker,David Walker,rating,72,69
 Ajani Cornelius,Ajani Cornelius,position,OT,OG
 Ajani Cornelius,Ajani Cornelius,rating,71,68
+John Ridgeway,John Ridgeway III,teamID,Free Agent,NO
 John Ridgeway,John Ridgeway III,rating,53,66
+Landon Robinson,Landon Robinson,teamID,Rookie,CIN
 Landon Robinson,Landon Robinson,rating,73,66
 Segun Olubi,Segun Olubi,position,OLB,MLB
 Jordan Turner,Jordan Turner,position,MLB,OLB
 Jordan Turner,Jordan Turner,rating,61,64
 Branson Combs,Branson Combs,position,MLB,OLB
 Branson Combs,Branson Combs,rating,67,64
+Josh Woods,Josh Woods,teamID,Free Agent,ATL
 Josh Woods,Josh Woods,rating,48,61
 Nik Bonitto,Nik Bonitto,position,OLB,DE
 Nik Bonitto,Nik Bonitto,rating,90,91
 Alex Highsmith,Alex Highsmith,position,OLB,DE
 Alex Highsmith,Alex Highsmith,rating,83,87
+Isaac Seumalo,Isaac Seumalo,teamID,Free Agent,ARI
 Isaac Seumalo,Isaac Seumalo,rating,69,80
+Patrick Queen,Patrick Queen,teamID,Free Agent,PIT
 Patrick Queen,Patrick Queen,rating,66,80
+David Njoku,David Njoku,teamID,Free Agent,LAC
 David Njoku,David Njoku,rating,65,79
+Dillon Thieneman,Dillon Thieneman,teamID,Rookie,CHI
 Dillon Thieneman,Dillon Thieneman,rating,91,77
 Zaven Collins,Zaven Collins,position,OLB,DE
 Zaven Collins,Zaven Collins,rating,80,76
@@ -1503,25 +1852,33 @@ Michael Hoecht,Michael Hoecht,position,OLB,DE
 Michael Hoecht,Michael Hoecht,rating,74,75
 Derrick Barnes,Derrick Barnes,position,MLB,OLB
 Derrick Barnes,Derrick Barnes,rating,71,75
+A.J. Epenesa,A.J. Epenesa,teamID,Free Agent,PHI
 A.J. Epenesa,A.J. Epenesa,rating,64,75
+Nick Scott,Nick Scott,teamID,Free Agent,CAR
 Nick Scott,Nick Scott,rating,61,75
+Elijah Moore,Elijah Moore,teamID,Free Agent,PHI
 Elijah Moore,Elijah Moore,rating,61,75
 Cole Holcomb,Cole Holcomb,position,MLB,OLB
 Cole Holcomb,Cole Holcomb,rating,79,75
 Cam Lewis,Cam Lewis,position,CB,S
 Cam Lewis,Cam Lewis,rating,70,74
+Kenyon Sadiq,Kenyon Sadiq,teamID,Rookie,NYJ
 Kenyon Sadiq,Kenyon Sadiq,rating,82,74
 Jonathan Bullard,Jonathan Bullard,position,DE,DT
 Jonathan Bullard,Jonathan Bullard,rating,72,73
+Jakorian Bennett,Jakorian Bennett,teamID,Free Agent,PHI
 Jakorian Bennett,Jakorian Bennett,rating,59,73
+Chris Paul,Chris Paul,teamID,Free Agent,WAS
 Chris Paul,Chris Paul,rating,59,73
 Kingsley Enagbare,Kingsley Enagbare,position,OLB,DE
 Kingsley Enagbare,Kingsley Enagbare,rating,69,73
+Keionte Scott,Keionte Scott,teamID,Rookie,TB
 Keionte Scott,Keionte Scott,rating,78,73
 Oluwafemi Oladejo,Oluwafemi Oladejo,position,OLB,DE
 Oluwafemi Oladejo,Oluwafemi Oladejo,rating,72,73
 KhaDarel Hodge,KhaDarel Hodge,teamID,ATL,SF
 KhaDarel Hodge,KhaDarel Hodge,rating,60,71
+Reid Ferguson,Reid Ferguson,teamID,Free Agent,BUF
 Reid Ferguson,Reid Ferguson,rating,57,71
 Beaux Limmer,Beaux Limmer,position,C,OG
 Beaux Limmer,Beaux Limmer,rating,67,71
@@ -1529,7 +1886,9 @@ Sai'vion Jones,Sai'vion Jones,position,DE,DT
 Sai'vion Jones,Sai'vion Jones,rating,66,70
 Ventrell Miller,Ventrell Miller,position,MLB,OLB
 Ventrell Miller,Ventrell Miller,rating,66,70
+Max Klare,Max Klare,teamID,Rookie,LAR
 Max Klare,Max Klare,rating,81,70
+Zakee Wheatley,Zakee Wheatley,teamID,Rookie,CAR
 Zakee Wheatley,Zakee Wheatley,rating,78,70
 Jaylon Carlies,Jaylon Carlies,position,MLB,OLB
 Jaylon Carlies,Jaylon Carlies,rating,68,69
@@ -1543,6 +1902,7 @@ Luke Haggard,Luke Haggard,position,OT,OG
 Luke Haggard,Luke Haggard,rating,68,64
 Jack Cochrane,Jack Cochrane,position,MLB,OLB
 Jack Cochrane,Jack Cochrane,rating,66,62
+Isaiah World,Isaiah World,teamID,Rookie,LAC
 Isaiah World,Isaiah World,rating,72,61
 Minkah Fitzpatrick,Minkah Fitzpatrick,teamID,MIA,NYJ
 Minkah Fitzpatrick,Minkah Fitzpatrick,rating,74,89
@@ -1556,27 +1916,37 @@ Jaelan Phillips,Jaelan Phillips,position,OLB,DE
 Jaelan Phillips,Jaelan Phillips,rating,87,82
 Dallas Turner,Dallas Turner,position,OLB,DE
 Dallas Turner,Dallas Turner,rating,75,80
+Luke Rhodes,Luke Rhodes,teamID,Free Agent,IND
 Luke Rhodes,Luke Rhodes,rating,62,77
 Mike Green,Mike Green,position,OLB,DE
 Mike Green,Mike Green,rating,70,75
+KC Concepcion,KC Concepcion Jr,teamID,Rookie,CLE
 KC Concepcion,KC Concepcion Jr,rating,90,75
+Bud Clark,Bud Clark,teamID,Rookie,SEA
 Bud Clark,Bud Clark,rating,78,75
+Max Melton,Max Melton,teamID,Free Agent,ARI
 Max Melton,Max Melton,rating,59,74
 Michael Carter II,Michael Carter II,position,CB,S
 Michael Carter II,Michael Carter II,rating,79,74
 Shemar Turner,Shemar Turner,position,DT,DE
 Shemar Turner,Shemar Turner,rating,67,72
+Brandon Cisse,Brandon Cisse,teamID,Rookie,GB
 Brandon Cisse,Brandon Cisse,rating,84,72
+Emmett Johnson,Emmett Johnson,teamID,Rookie,KC
 Emmett Johnson,Emmett Johnson,rating,83,71
+Ty Simpson,Ty Simpson,teamID,Rookie,LAR
 Ty Simpson,Ty Simpson,rating,83,71
 Alex Palczewski,Alex Palczewski,position,OT,OG
 Alex Palczewski,Alex Palczewski,rating,65,70
+C.J. Henderson,C.J. Henderson,teamID,Free Agent,ATL
 C.J. Henderson,C.J. Henderson,rating,58,70
+Cyrus Allen,Cyrus Allen,teamID,Rookie,KC
 Cyrus Allen,Cyrus Allen,rating,55,70
 JD Bertrand,JD Bertrand,position,MLB,OLB
 JD Bertrand,JD Bertrand,rating,64,69
 Shemar James,Shemar James,position,OLB,MLB
 Shemar James,Shemar James,rating,64,69
+Jonah Laulu,Jonah Laulu,teamID,Free Agent,LV
 Jonah Laulu,Jonah Laulu,rating,54,69
 Rylie Mills,Rylie Mills,position,DE,DT
 Rylie Mills,Rylie Mills,rating,64,69
@@ -1584,33 +1954,47 @@ Noah Sewell,Noah Sewell,position,MLB,OLB
 Noah Sewell,Noah Sewell,rating,63,68
 Yahya Black,Yahya Black,position,DE,DT
 Yahya Black,Yahya Black,rating,73,68
+Kalia Davis,Kalia Davis,teamID,Free Agent,CLE
 Kalia Davis,Kalia Davis,rating,55,67
 Dorian Mausi,Dorian Mausi Jr,position,MLB,OLB
 Dorian Mausi,Dorian Mausi Jr,rating,67,62
 Arnold Ebiketie,Arnold Ebiketie,position,OLB,DE
 Arnold Ebiketie,Arnold Ebiketie,rating,83,77
+Derrick Moore,Derrick Moore,teamID,Rookie,DET
 Derrick Moore,Derrick Moore,rating,90,77
+James Winchester,James Winchester,teamID,Free Agent,KC
 James Winchester,James Winchester,rating,59,75
 Joshua Uche,Joshua Uche,position,OLB,DE
 Joshua Uche,Joshua Uche,rating,72,75
+Colton Hood,Colton Hood,teamID,Rookie,NYG
 Colton Hood,Colton Hood,rating,88,75
+J.J. Jansen,J.J. Jansen,teamID,Free Agent,CAR
 J.J. Jansen,J.J. Jansen,rating,58,74
 Joseph Ossai,Joseph Ossai,position,OLB,DE
 Joseph Ossai,Joseph Ossai,rating,80,74
+Keylan Rutledge,Keylan Rutledge,teamID,Rookie,HOU
 Keylan Rutledge,Keylan Rutledge,rating,87,74
 Billy Bowman Jr.,Billy Bowman Jr,position,S,CB
 Billy Bowman Jr.,Billy Bowman Jr,rating,67,73
+Anthony Hill Jr.,Anthony Hill Jr.,teamID,Rookie,TEN
 Anthony Hill Jr.,Anthony Hill Jr.,rating,89,73
+Emmanuel Pregnon,Emmanuel Pregnon,teamID,Rookie,JAX
 Emmanuel Pregnon,Emmanuel Pregnon,rating,83,73
+Jonah Coleman,Jonah Coleman,teamID,Rookie,DEN
 Jonah Coleman,Jonah Coleman,rating,86,73
+Ted Hurst,Ted Hurst III,teamID,Rookie,TB
 Ted Hurst,Ted Hurst III,rating,85,72
+Mike Washington Jr.,Mike Washington Jr,teamID,Rookie,LV
 Mike Washington Jr.,Mike Washington Jr,rating,85,72
+Daylen Everette,Daylen Everette,teamID,Rookie,PIT
 Daylen Everette,Daylen Everette,rating,85,72
 Troy Dye,Troy Dye,position,MLB,OLB
 Troy Dye,Troy Dye,rating,68,71
+Kaleb Proctor,Kaleb Proctor,teamID,Rookie,ARI
 Kaleb Proctor,Kaleb Proctor,rating,81,71
 Jon Gaines II,Jon Gaines II,position,C,OG
 Jon Gaines II,Jon Gaines II,rating,72,69
+Harold Perkins Jr.,Harold Perkins Jr,teamID,Rookie,ATL
 Harold Perkins Jr.,Harold Perkins Jr,rating,79,66
 Khalil Mack,Khalil Mack,position,OLB,DE
 Khalil Mack,Khalil Mack,rating,79,86
@@ -1622,24 +2006,35 @@ Josaiah Stewart,Josaiah Stewart,position,OLB,DE
 Josaiah Stewart,Josaiah Stewart,rating,67,74
 Isaiah Simmons,Isaiah Simmons,position,MLB,S
 Isaiah Simmons,Isaiah Simmons,rating,80,73
+Chau Smith-Wade,Chau Smith-Wade,teamID,Free Agent,CAR
 Chau Smith-Wade,Chau Smith-Wade,rating,59,73
+Malachi Fields,Malachi Fields,teamID,Rookie,NYG
 Malachi Fields,Malachi Fields,rating,90,73
 Dante Stills,Dante Stills,position,DE,DT
 Dante Stills,Dante Stills,rating,64,71
+Jordan Elliott,Jordan Elliott,teamID,Free Agent,TEN
 Jordan Elliott,Jordan Elliott,rating,53,70
 Elijah Ponder,Elijah Ponder,position,OLB,DE
 Elijah Ponder,Elijah Ponder,rating,63,70
+Bryce Lance,Bryce Lance,teamID,Rookie,NO
 Bryce Lance,Bryce Lance,rating,78,70
+Bryce Boettcher,Bryce Boettcher,teamID,Rookie,IND
 Bryce Boettcher,Bryce Boettcher,rating,75,70
+Adetomiwa Adebawore,Adetomiwa Adebawore,teamID,Free Agent,IND
 Adetomiwa Adebawore,Adetomiwa Adebawore,rating,52,69
 Brock Hoffman,Brock Hoffman,position,C,OG
 Brock Hoffman,Brock Hoffman,rating,62,69
+Deion Burks,Deion Burks,teamID,Rookie,IND
 Deion Burks,Deion Burks,rating,80,69
+Carson Beck,Carson Beck,teamID,Rookie,ARI
 Carson Beck,Carson Beck,rating,82,68
+VJ Payne,VJ Payne,teamID,Rookie,NYJ
 VJ Payne,VJ Payne,rating,79,65
+Ethan Burke,Ethan Burke,teamID,Rookie,BAL
 Ethan Burke,Ethan Burke,rating,75,64
 Jordyn Brooks,Jordyn Brooks,position,MLB,OLB
 Jordyn Brooks,Jordyn Brooks,rating,89,84
+Josh Harris,Josh Harris,teamID,Free Agent,LAC
 Josh Harris,Josh Harris,rating,63,81
 Yaya Diaby,Yaya Diaby,position,OLB,DE
 Yaya Diaby,Yaya Diaby,rating,71,79
@@ -1647,9 +2042,11 @@ Cedric Gray,Cedric Gray,position,MLB,OLB
 Cedric Gray,Cedric Gray,rating,83,78
 Lukas Van Ness,Lukas Van Ness,position,OLB,DE
 Lukas Van Ness,Lukas Van Ness,rating,69,77
+Deonte Banks,Deonte Banks,teamID,Free Agent,NYG
 Deonte Banks,Deonte Banks,rating,58,76
 Jamien Sherwood,Jamien Sherwood,position,MLB,OLB
 Jamien Sherwood,Jamien Sherwood,rating,84,76
+Chris Johnson,Chris Johnson,teamID,Rookie,MIA
 Chris Johnson,Chris Johnson,rating,91,76
 Teddye Buchanan,Teddye Buchanan,position,MLB,OLB
 Teddye Buchanan,Teddye Buchanan,rating,70,75
@@ -1663,20 +2060,25 @@ Justin Eboigbe,Justin Eboigbe,position,DE,DT
 Justin Eboigbe,Justin Eboigbe,rating,65,73
 Willie Gay Jr.,Willie Gay Jr,position,MLB,OLB
 Willie Gay Jr.,Willie Gay Jr,rating,80,72
+Elijah Sarratt,Elijah Sarratt,teamID,Rookie,BAL
 Elijah Sarratt,Elijah Sarratt,rating,83,71
 Sean Rhyan,Sean Rhyan,position,OG,C
 Sean Rhyan,Sean Rhyan,rating,75,70
+Reggie Virgil,Reggie Virgil,teamID,Rookie,ARI
 Reggie Virgil,Reggie Virgil,rating,52,70
 Smael Mondon Jr.,Smael Mondon Jr,position,MLB,OLB
 Smael Mondon Jr.,Smael Mondon Jr,rating,77,69
+Zane Durant,Zane Durant,teamID,Rookie,BUF
 Zane Durant,Zane Durant,rating,81,69
 L.J. Collier,L.J. Collier,position,DE,DT
 L.J. Collier,L.J. Collier,rating,63,68
+Justin Joly,Justin Joly,teamID,Rookie,MIA
 Justin Joly,Justin Joly,rating,80,68
 Jacob Monk,Jacob Monk,position,C,OG
 Jacob Monk,Jacob Monk,rating,74,66
 Chaz Chambliss,Chaz Chambliss,position,OLB,DE
 Chaz Chambliss,Chaz Chambliss,rating,70,65
+Eli Raridon,Eli Raridon,teamID,Rookie,NE
 Eli Raridon,Eli Raridon,rating,80,65
 Cody Lindenberg,Cody Lindenberg,position,MLB,OLB
 Cody Lindenberg,Cody Lindenberg,rating,71,63
@@ -1686,7 +2088,9 @@ Arden Key,Arden Key,position,OLB,DE
 Arden Key,Arden Key,rating,84,75
 Logan Hall,Logan Hall,position,DE,DT
 Logan Hall,Logan Hall,rating,65,74
+Brenen Thompson,Brenen Thompson,teamID,Rookie,LAC
 Brenen Thompson,Brenen Thompson,rating,85,72
+Michael Taaffe,Michael Taaffe,teamID,Rookie,MIA
 Michael Taaffe,Michael Taaffe,rating,83,70
 Elijah Roberts,Elijah Roberts,position,DE,DT
 Elijah Roberts,Elijah Roberts,rating,61,70
@@ -1706,6 +2110,7 @@ Jordan Morgan,Jordan Morgan,position,OG,OT
 Jordan Morgan,Jordan Morgan,rating,62,72
 Brennan Jackson,Brennan Jackson,position,OLB,DE
 Brennan Jackson,Brennan Jackson,rating,63,70
+Keith Abney II,Keith Abney II,teamID,Rookie,DET
 Keith Abney II,Keith Abney II,rating,85,68
 Milton Williams,Milton Williams,position,DE,DT
 Milton Williams,Milton Williams,rating,75,86
@@ -1719,33 +2124,47 @@ Payton Wilson,Payton Wilson,position,MLB,OLB
 Payton Wilson,Payton Wilson,rating,64,75
 Christian Rozeboom,Christian Rozeboom,position,MLB,OLB
 Christian Rozeboom,Christian Rozeboom,rating,62,73
+Reggie Gilliam,Reggie Gilliam,teamID,Free Agent,NE
 Reggie Gilliam,Reggie Gilliam,rating,61,83
 Elijah Molden,Elijah Molden,position,CB,S
 Elijah Molden,Elijah Molden,rating,67,79
+Fernando Mendoza,Fernando Mendoza,teamID,Rookie,LV
 Fernando Mendoza,Fernando Mendoza,rating,89,73
+Kaelon Black,Kaelon Black,teamID,Rookie,SF
 Kaelon Black,Kaelon Black,rating,89,73
+Chris Brazzell II,Chris Brazzell II,teamID,Rookie,CAR
 Chris Brazzell II,Chris Brazzell II,rating,91,72
 Blake Brandel,Blake Brandel,position,OG,C
 Blake Brandel,Blake Brandel,rating,59,71
+Drew Allar,Drew Allar,teamID,Rookie,PIT
 Drew Allar,Drew Allar,rating,88,69
+Cade Klubnik,Cade Klubnik,teamID,Rookie,NYJ
 Cade Klubnik,Cade Klubnik,rating,86,67
+Lee Hunter,Lee Hunter,teamID,Rookie,CAR
 Lee Hunter,Lee Hunter,rating,88,74
+Caleb Tiernan,Caleb Tiernan,teamID,Rookie,MIN
 Caleb Tiernan,Caleb Tiernan,rating,89,72
+Skyler Bell,Skyler Bell,teamID,Rookie,BUF
 Skyler Bell,Skyler Bell,rating,88,71
 Collin Oliver,Collin Oliver,position,OLB,DE
 Collin Oliver,Collin Oliver,rating,80,70
 Eyioma Uwazurike,Eyioma Uwazurike,position,DE,DT
 Eyioma Uwazurike,Eyioma Uwazurike,rating,76,69
+Josh Cameron,Josh Cameron,teamID,Rookie,JAX
 Josh Cameron,Josh Cameron,rating,51,68
+Joe Royer,Joe Royer,teamID,Rookie,CLE
 Joe Royer,Joe Royer,rating,77,66
 Derrick Brown,Derrick Brown,position,DE,DT
 Derrick Brown,Derrick Brown,rating,82,96
 Nolan Smith,Nolan Smith Jr,position,OLB,DE
 Nolan Smith,Nolan Smith Jr,rating,69,83
+Trent Sieg,Trent Sieg,teamID,Free Agent,DAL
 Trent Sieg,Trent Sieg,rating,57,78
+DeMonte Capehart,Demonte Capehart,teamID,Rookie,TB
 DeMonte Capehart,Demonte Capehart,rating,85,70
 Que Robinson,Que Robinson,position,OLB,DE
 Que Robinson,Que Robinson,rating,83,69
+Sam Roush,Sam Roush,teamID,Rookie,CHI
 Sam Roush,Sam Roush,rating,86,65
 Andrew Van Ginkel,Andrew Van Ginkel,position,OLB,DE
 Andrew Van Ginkel,Andrew Van Ginkel,rating,68,83
@@ -1755,18 +2174,29 @@ Austin Corbett,Austin Corbett,position,C,OG
 Austin Corbett,Austin Corbett,rating,64,76
 Avonte Maddox,Avonte Maddox,position,CB,S
 Avonte Maddox,Avonte Maddox,rating,88,73
+Chris Bell,Chris Bell,teamID,Rookie,MIA
 Chris Bell,Chris Bell,rating,93,71
+Oscar Delp,Oscar Delp,teamID,Rookie,NO
 Oscar Delp,Oscar Delp,rating,89,67
+Dametrious Crownover,Dametrious Crownover,teamID,Rookie,NE
 Dametrious Crownover,Dametrious Crownover,rating,80,67
+Taylen Green,Taylen Green,teamID,Rookie,CLE
 Taylen Green,Taylen Green,rating,84,65
 D.J. Wonnum,D.J. Wonnum,position,OLB,DE
 D.J. Wonnum,D.J. Wonnum,rating,63,76
+Cole Payton,Cole Payton,teamID,Rookie,PHI
 Cole Payton,Cole Payton,rating,88,67
+Seth McGowan,Seth McGowan,teamID,Rookie,IND
 Seth McGowan,Seth McGowan,rating,87,66
+Romello Height,Romello Height,teamID,Rookie,SF
 Romello Height,Romello Height,rating,94,75
+Marlin Klein,Marlin Klein,teamID,Rookie,HOU
 Marlin Klein,Marlin Klein,rating,87,64
+Dallen Bentley,Dallen Bentley,teamID,Rookie,DEN
 Dallen Bentley,Dallen Bentley,rating,80,63
+John Michael Gyllenborg,John Michael Gyllenborg,teamID,Rookie,KC
 John Michael Gyllenborg,John Michael Gyllenborg,rating,82,62
+Garrett Nussmeier,Garrett Nussmeier,teamID,Rookie,KC
 Garrett Nussmeier,Garrett Nussmeier,rating,85,63
 Connor McGovern,Connor McGovern,position,OG,C
 Connor McGovern,Connor McGovern,rating,89,81
@@ -1778,19 +2208,47 @@ Darius Robinson,Darius Robinson,position,DE,DT
 Darius Robinson,Darius Robinson,rating,49,70
 Jalen Ramsey,Jalen Ramsey,position,CB,S
 Jalen Ramsey,Jalen Ramsey,rating,68,90
+Dondrea Tillman,Dondrea Tillman,teamID,Free Agent,DEN
+Dondrea Tillman,Dondrea Tillman,position,OLB,DE
+Jordan Jackson,Jordan Jackson,teamID,Free Agent,DEN
+Jordan Jackson,Jordan Jackson,position,DE,DT
+Jacob Hummel,Jacob Hummel,teamID,Free Agent,HOU
+Jacob Hummel,Jacob Hummel,position,MLB,OLB
 Jarrett Kingston,Jarrett Kingston,teamID,HOU,MIA
 Jarrett Kingston,Jarrett Kingston,position,OT,OG
 Jarrett Kingston,Jarrett Kingston,rating,68,67
+Isaiah Stalbird,Isaiah Stalbird,teamID,Free Agent,NO
+Isaiah Stalbird,Isaiah Stalbird,position,MLB,OLB
 Isaiah Stalbird,Isaiah Stalbird,rating,66,65
+Connor O'Toole,Connor O'Toole,teamID,Free Agent,SEA
+Connor O'Toole,Connor O'Toole,position,OLB,DE
 Connor O'Toole,Connor O'Toole,rating,65,64
+Keir Thomas,Keir Thomas II,teamID,Free Agent,LAR
+Keir Thomas,Keir Thomas II,position,OLB,DE
 Keir Thomas,Keir Thomas II,rating,63,62
+Spencer Burford,Spencer Burford,teamID,Free Agent,LV
+Spencer Burford,Spencer Burford,position,OT,OG
 Spencer Burford,Spencer Burford,rating,67,69
+Bo Richter,Bo Richter,teamID,Free Agent,MIN
+Bo Richter,Bo Richter,position,OLB,DE
 Bo Richter,Bo Richter,rating,67,69
+Siran Neal,Siran Neal,teamID,Free Agent,SF
+Siran Neal,Siran Neal,position,CB,S
 Siran Neal,Siran Neal,rating,64,66
+Trevor Nowaske,Trevor Nowaske,teamID,Free Agent,DET
+Trevor Nowaske,Trevor Nowaske,position,MLB,OLB
 Trevor Nowaske,Trevor Nowaske,rating,62,64
+Eku Leota,Eku Leota,teamID,Free Agent,ARI
+Eku Leota,Eku Leota,position,OLB,DE
 Eku Leota,Eku Leota,rating,60,62
+Justin Shorter,Justin Shorter,teamID,Free Agent,LV
+Justin Shorter,Justin Shorter,position,TE,WR
 Justin Shorter,Justin Shorter,rating,62,60
+Jaylen Harrell,Jaylen Harrell,teamID,Free Agent,TEN
+Jaylen Harrell,Jaylen Harrell,position,OLB,DE
 Jaylen Harrell,Jaylen Harrell,rating,63,66
+Jake Hansen,Jake Hansen,teamID,Free Agent,HOU
+Jake Hansen,Jake Hansen,position,OLB,MLB
 Jake Hansen,Jake Hansen,rating,60,63
 Jonathan Greenard,Jonathan Greenard,teamID,MIN,PHI
 Jonathan Greenard,Jonathan Greenard,position,OLB,DE
@@ -1801,16 +2259,32 @@ Anfernee Jennings,Anfernee Jennings,rating,81,77
 Owen Pappoe,Owen Pappoe,teamID,ARI,TEN
 Owen Pappoe,Owen Pappoe,position,MLB,OLB
 Owen Pappoe,Owen Pappoe,rating,67,68
+Matt Henningsen,Matt Henningsen,teamID,Free Agent,DEN
+Matt Henningsen,Matt Henningsen,position,DE,DT
 Matt Henningsen,Matt Henningsen,rating,64,68
+Ali Gaye,Ali Gaye,teamID,Free Agent,HOU
+Ali Gaye,Ali Gaye,position,OLB,DE
 Ali Gaye,Ali Gaye,rating,65,66
+Luke Gifford,Luke Gifford,teamID,Free Agent,SF
+Luke Gifford,Luke Gifford,position,MLB,OLB
 Luke Gifford,Luke Gifford,rating,62,66
+Jackson Meeks,Jackson Meeks,teamID,Free Agent,DET
+Jackson Meeks,Jackson Meeks,position,WR,TE
 Jackson Meeks,Jackson Meeks,rating,69,65
+Von Miller,Von Miller,teamID,Free Agent,DAL
+Von Miller,Von Miller,position,OLB,DE
 Von Miller,Von Miller,rating,73,78
 Caedan Wallace,Caedan Wallace,teamID,NE,MIA
 Caedan Wallace,Caedan Wallace,position,OG,OT
 Caedan Wallace,Caedan Wallace,rating,73,68
+Winston Reid,Winston Reid,teamID,Free Agent,CLE
+Winston Reid,Winston Reid,position,MLB,OLB
 Winston Reid,Winston Reid,rating,62,67
+Chazz Surratt,Chazz Surratt,teamID,Free Agent,SEA
+Chazz Surratt,Chazz Surratt,position,MLB,OLB
 Chazz Surratt,Chazz Surratt,rating,69,64
+Garret Wallow,Garret Wallow,teamID,Free Agent,SF
+Garret Wallow,Garret Wallow,position,MLB,OLB
 Garret Wallow,Garret Wallow,rating,58,63
 Jared Ivey,Jared Ivey,teamID,SEA,ATL
 Jared Ivey,Jared Ivey,position,OLB,DE
@@ -1821,63 +2295,153 @@ Jared Verse,Jared Verse,rating,85,88
 Dre Greenlaw,Dre Greenlaw,teamID,DEN,SF
 Dre Greenlaw,Dre Greenlaw,position,MLB,OLB
 Dre Greenlaw,Dre Greenlaw,rating,79,85
+CJ Allen,CJ Allen,teamID,Rookie,IND
+CJ Allen,CJ Allen,position,OLB,MLB
 CJ Allen,CJ Allen,rating,77,74
 Juice Scruggs,Juice Scruggs,teamID,HOU,DET
 Juice Scruggs,Juice Scruggs,position,OG,C
 Juice Scruggs,Juice Scruggs,rating,64,70
+Tony Fields II,Tony Fields II,teamID,Free Agent,CHI
+Tony Fields II,Tony Fields II,position,OLB,MLB
 Tony Fields II,Tony Fields II,rating,73,67
+Thomas Incoom,Thomas Incoom,teamID,Free Agent,CAR
+Thomas Incoom,Thomas Incoom,position,OLB,DE
 Thomas Incoom,Thomas Incoom,rating,72,66
+Zaire Barnes,Zaire Barnes,teamID,Free Agent,NYG
+Zaire Barnes,Zaire Barnes,position,MLB,OLB
 Zaire Barnes,Zaire Barnes,rating,68,65
+Corey Bullock,Corey Bullock,teamID,Free Agent,CAR
+Corey Bullock,Corey Bullock,position,C,OG
 Corey Bullock,Corey Bullock,rating,69,63
 Tyrel Dodson,Tyrel Dodson,teamID,MIA,CAR
 Tyrel Dodson,Tyrel Dodson,position,MLB,OLB
 Tyrel Dodson,Tyrel Dodson,rating,70,77
+Kage Casey,Kage Casey,teamID,Rookie,DEN
+Kage Casey,Kage Casey,position,OT,OG
 Kage Casey,Kage Casey,rating,75,71
+Claudin Cherelus,Claudin Cherelus,teamID,Free Agent,CAR
+Claudin Cherelus,Claudin Cherelus,position,MLB,OLB
 Claudin Cherelus,Claudin Cherelus,rating,62,69
+Jonathan Garvin,Jonathan Garvin,teamID,Free Agent,CHI
+Jonathan Garvin,Jonathan Garvin,position,OLB,DE
 Jonathan Garvin,Jonathan Garvin,rating,59,66
+Nephi Sewell,Nephi Sewell,teamID,Free Agent,CHI
+Nephi Sewell,Nephi Sewell,position,MLB,OLB
 Nephi Sewell,Nephi Sewell,rating,72,65
+Sonny Styles,Sonny Styles,teamID,Rookie,WAS
+Sonny Styles,Sonny Styles,position,OLB,MLB
 Sonny Styles,Sonny Styles,rating,86,78
+Charles Omenihu,Charles Omenihu,teamID,Free Agent,WAS
+Charles Omenihu,Charles Omenihu,position,DE,DT
 Charles Omenihu,Charles Omenihu,rating,68,76
+K'Lavon Chaisson,K'Lavon Chaisson,teamID,Free Agent,WAS
+K'Lavon Chaisson,K'Lavon Chaisson,position,OLB,DE
 K'Lavon Chaisson,K'Lavon Chaisson,rating,67,75
 Evan Brown,Evan Brown,teamID,ARI,HOU
 Evan Brown,Evan Brown,position,OG,C
 Evan Brown,Evan Brown,rating,67,72
+LT Overton,LT Overton,teamID,Rookie,DAL
+LT Overton,LT Overton,position,DE,DT
 LT Overton,LT Overton,rating,79,71
+Jose Ramirez,Jose Ramirez,teamID,Free Agent,NE
+Jose Ramirez,Jose Ramirez,position,OLB,DE
 Jose Ramirez,Jose Ramirez,rating,59,67
+Cooper McDonald,Cooper McDonald,teamID,Free Agent,KC
+Cooper McDonald,Cooper McDonald,position,OLB,MLB
 Cooper McDonald,Cooper McDonald,rating,72,64
+Matt Gulbin,Matt Gulbin,teamID,Rookie,WAS
+Matt Gulbin,Matt Gulbin,position,OG,C
 Matt Gulbin,Matt Gulbin,rating,69,64
+Jacob Bayer,Jacob Bayer,teamID,Free Agent,CIN
+Jacob Bayer,Jacob Bayer,position,C,OG
 Jacob Bayer,Jacob Bayer,rating,68,63
 TeRah Edwards,TeRah Edwards,teamID,LAC,CAR
 TeRah Edwards,TeRah Edwards,position,DE,DT
 TeRah Edwards,TeRah Edwards,rating,70,62
+Austin Barber,Austin Barber,teamID,Rookie,CLE
+Austin Barber,Austin Barber,position,C,OG
 Austin Barber,Austin Barber,rating,77,74
+Broderick Washington,Broderick Washington,teamID,Free Agent,BAL
+Broderick Washington,Broderick Washington,position,DE,DT
 Broderick Washington,Broderick Washington,rating,62,71
+Parker Brailsford,Parker Brailsford,teamID,Rookie,CLE
+Parker Brailsford,Parker Brailsford,position,OG,C
 Parker Brailsford,Parker Brailsford,rating,73,67
 Walter Rouse,Walter Rouse,teamID,MIN,NE
 Walter Rouse,Walter Rouse,position,OT,OG
 Walter Rouse,Walter Rouse,rating,56,65
+Will Sherman,Will Sherman,teamID,Free Agent,NO
+Will Sherman,Will Sherman,position,OG,C
 Will Sherman,Will Sherman,rating,66,57
+Kadyn Proctor,Kadyn Proctor,teamID,Rookie,MIA
+Kadyn Proctor,Kadyn Proctor,position,OT,OG
 Kadyn Proctor,Kadyn Proctor,rating,88,78
+Troy Reeder,Troy Reeder,teamID,Free Agent,NYJ
+Troy Reeder,Troy Reeder,position,MLB,OLB
 Troy Reeder,Troy Reeder,rating,62,69
+Nick Leverett,Nick Leverett,teamID,Free Agent,DAL
+Nick Leverett,Nick Leverett,position,OG,C
 Nick Leverett,Nick Leverett,rating,60,67
+Willie Lampkin,Willie Lampkin IV,teamID,Free Agent,PHI
+Willie Lampkin,Willie Lampkin IV,position,C,OG
 Willie Lampkin,Willie Lampkin IV,rating,53,63
+Jordan Meredith,Jordan Meredith,teamID,Free Agent,NYJ
+Jordan Meredith,Jordan Meredith,position,C,OG
 Jordan Meredith,Jordan Meredith,rating,62,73
+Baron Browning,Baron Browning,teamID,Free Agent,ARI
+Baron Browning,Baron Browning,position,OLB,DE
 Baron Browning,Baron Browning,rating,62,73
+Kyle Louis,Kyle Louis,teamID,Rookie,MIA
+Kyle Louis,Kyle Louis,position,OLB,S
 Kyle Louis,Kyle Louis,rating,79,71
+Del'Shawn Phillips,Del'Shawn Phillips,teamID,Free Agent,LAC
+Del'Shawn Phillips,Del'Shawn Phillips,position,MLB,OLB
 Del'Shawn Phillips,Del'Shawn Phillips,rating,59,67
+Bud Dupree,Bud Dupree,teamID,Free Agent,LAC
+Bud Dupree,Bud Dupree,position,OLB,DE
 Bud Dupree,Bud Dupree,rating,60,72
+Patrick Johnson,Patrick Johnson,teamID,Free Agent,LV
+Patrick Johnson,Patrick Johnson,position,OLB,DE
 Patrick Johnson,Patrick Johnson,rating,54,66
+Easton Mascarenas-Arnold,Easton Mascarenas-Arnold,teamID,Free Agent,CLE
+Easton Mascarenas-Arnold,Easton Mascarenas-Arnold,position,MLB,OLB
 Easton Mascarenas-Arnold,Easton Mascarenas-Arnold,rating,73,64
+Logan Jones,Logan Jones,teamID,Rookie,CHI
+Logan Jones,Logan Jones,position,OG,C
 Logan Jones,Logan Jones,rating,76,72
+Kendrick Green,Kendrick Green,teamID,Free Agent,CLE
+Kendrick Green,Kendrick Green,position,C,OG
 Kendrick Green,Kendrick Green,rating,56,69
+Sebastian Joseph-Day,Sebastian Joseph-Day,teamID,Free Agent,PIT
+Sebastian Joseph-Day,Sebastian Joseph-Day,position,DE,DT
 Sebastian Joseph-Day,Sebastian Joseph-Day,rating,64,78
+Brady Christensen,Brady Christensen,teamID,Free Agent,CAR
+Brady Christensen,Brady Christensen,position,OT,OG
 Brady Christensen,Brady Christensen,rating,65,76
+Christian Harris,Christian Harris,teamID,Free Agent,ATL
+Christian Harris,Christian Harris,position,OLB,MLB
 Christian Harris,Christian Harris,rating,57,71
+Jordon Riley,Jordon Riley,teamID,Free Agent,GB
+Jordon Riley,Jordon Riley,position,DE,DT
 Jordon Riley,Jordon Riley,rating,54,68
+Patrick Jones II,Patrick Jones II,teamID,Free Agent,CAR
+Patrick Jones II,Patrick Jones II,position,OLB,DE
 Patrick Jones II,Patrick Jones II,rating,60,72
+Gennings Dunker,Gennings Dunker,teamID,Rookie,PIT
+Gennings Dunker,Gennings Dunker,position,OT,OG
 Gennings Dunker,Gennings Dunker,rating,81,72
+Francis Mauigoa,Francis Mauigoa,teamID,Rookie,NYG
+Francis Mauigoa,Francis Mauigoa,position,OT,OG
 Francis Mauigoa,Francis Mauigoa,rating,89,79
+Treydan Stukes,Treydan Stukes,teamID,Rookie,LV
+Treydan Stukes,Treydan Stukes,position,CB,S
 Treydan Stukes,Treydan Stukes,rating,81,76
+Jonathan Allen,Jonathan Allen,teamID,Free Agent,CIN
+Jonathan Allen,Jonathan Allen,position,DE,DT
 Jonathan Allen,Jonathan Allen,rating,70,88
+Connor Lew,Connor Lew,teamID,Rookie,CIN
+Connor Lew,Connor Lew,position,OG,C
 Connor Lew,Connor Lew,rating,89,69
+Sam Hecht,Sam Hecht,teamID,Rookie,CAR
+Sam Hecht,Sam Hecht,position,OG,C
 Sam Hecht,Sam Hecht,rating,86,68

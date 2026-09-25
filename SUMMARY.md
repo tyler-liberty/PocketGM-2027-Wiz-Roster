@@ -1,26 +1,44 @@
-# PocketGM Pre Draft v6.3
+# PocketGM Pre Draft v6.4
 
-Madden 27 Week 2 baseline with blended attrs (±5).
-**Does not promote Free Agents or Rookies onto NFL teams** (that bloated v6.1/v6.2).
+Madden 27 Week 2 · ±5 attr blend
 
-## Rules
-- Team moves: only existing NFL → NFL corrections
-- FA / Rookie pool: stay put (ratings may still update)
-- OVR: full Madden sync for matched players
-- Attrs: ±5 toward Madden
+## Roster rules
+- **Free Agents**: placed onto their Madden team (fixed)
+- **Rookies**: promoted onto Madden team only if Madden OVR **> 60**
+- **Team-to-team**: corrected for players already on NFL teams
+- Low-OVR rookies stay in the Rookie pool
 
 ## Totals
-- Team-to-team fixes: **{team_fixes}**
-- Skipped FA/Rookie promotions: **497**
-- Rating updates: **1644**
-- Mean roster size: **48.2** (was 48.2 orig / 63.8 in v6.2)
+- FA → team: **333**
+- Rookie → team (OVR>60): **164** (skipped 0 lower)
+- Team-to-team: **80**
+- Mean roster size: **63.8**
 
-## Spot checks
+## Top rookie promotions
 | Player | Team | OVR |
 |---|---|---|
-| Tua Tagovailoa | ATL | 73 |
-| DJ Moore | BUF | 84 |
-| Kirk Cousins | LV | 74 |
-| Budda Baker | Free Agent | 90 |
-| Micah Parsons | GB | 98 |
-| Sauce Gardner | IND | 90 |
+| Jeremiyah Love | ARI | 82 |
+| Caleb Downs | DAL | 82 |
+| David Bailey | NYJ | 81 |
+| Rueben Bain Jr | TB | 80 |
+| Arvell Reese | NYG | 79 |
+| Spencer Fano | CLE | 79 |
+| Mansoor Delane | KC | 79 |
+| Akheem Mesidor | LAC | 79 |
+| Francis Mauigoa | NYG | 79 |
+| Keldric Faulk | TEN | 78 |
+| Jacob Rodriguez | MIA | 78 |
+| Malachi Lawrence | DAL | 78 |
+| Sonny Styles | WAS | 78 |
+| Kadyn Proctor | MIA | 78 |
+| Carnell Tate | TEN | 77 |
+| R Mason Thomas | KC | 77 |
+| Cashius Howell | CIN | 77 |
+| Dillon Thieneman | CHI | 77 |
+| Derrick Moore | DET | 77 |
+| Monroe Freeling | CAR | 76 |
+| Jordyn Tyson | NO | 76 |
+| Peter Woods | KC | 76 |
+| De'Zhaun Stribling | SF | 76 |
+| Gabe Jacas | NE | 76 |
+| Makai Lemon | PHI | 76 |
